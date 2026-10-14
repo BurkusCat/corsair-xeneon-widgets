@@ -1,0 +1,233 @@
+# Food and drink word lists (food writer). Every name starts with "food".
+
+@lexicon foodBiscuit
+digestive
+rich tea
+ginger nut
+custard cream
+chocolate digestive
+garibaldi
+fig roll
+malted milk
+pink wafer
+coconut ring
+jam ring
+shortbread finger
+oat biscuit
+Viennese whirl
+
+@lexicon foodFilling
+@kind phrase
+cheese and pickle
+egg and cress
+ham and mustard
+tuna and sweetcorn
+cheese and tomato
+prawn mayonnaise
+chicken and stuffing
+egg mayonnaise
+jam
+peanut butter
+banana
+crisp
+leftover roast
+
+@lexicon foodCrispFlavour
+@kind phrase
+ready salted
+salt and vinegar
+cheese and onion
+prawn cocktail
+smoky bacon
+roast chicken
+pickled onion
+sour cream and chive
+sweet chilli
+
+@lexicon foodVeg
+parsnip
+carrot
+leek
+turnip
+swede
+potato | potatoes
+onion
+courgette
+broccoli | broccoli
+beetroot
+cabbage
+runner bean
+mushroom
+tomato | tomatoes
+aubergine
+butternut squash
+radish
+cauliflower
+sweet potato | sweet potatoes
+kohlrabi
+celeriac
+artichoke
+
+@lexicon foodFruit
+apple
+banana
+satsuma
+kiwi
+pear
+plum
+grape
+pineapple
+mango | mangoes
+melon
+lemon
+strawberry
+raspberry
+gooseberry
+peach
+cherry
+apricot
+clementine
+grapefruit
+nectarine
+blackberry
+fig
+lime
+pomegranate
+
+@lexicon foodTakeaway
+@kind phrase
+fish and chips
+a curry
+a pizza
+chips and gravy
+a big bag of chips
+noodles
+egg fried rice
+chips and curry sauce
+sweet and sour something
+a jacket potato
+
+@lexicon foodUtensil
+teaspoon
+butter knife | butter knives
+ladle
+soup spoon
+cake fork
+potato masher
+cheese grater
+pizza cutter
+egg slicer
+wooden spoon
+fish slice
+vegetable peeler
+garlic press
+salad spinner
+melon baller
+tea strainer
+egg timer
+apple corer
+nutcracker
+
+@lexicon foodCheese
+@kind phrase
+cheddar
+Stilton
+brie
+Wensleydale
+Red Leicester
+Double Gloucester
+halloumi
+mozzarella
+Edam
+goat's cheese
+Lancashire
+Caerphilly
+feta
+Cheshire
+smoked cheddar
+
+@lexicon foodAisle
+@kind phrase
+the cereal aisle
+the tinned soup aisle
+the frozen bit
+the bakery bit
+the reduced shelf
+the biscuit aisle
+the crisp aisle
+the cheese counter
+the bit with all the yoghurts
+the aisle with all the rice
+the jam and honey shelf
+the fruit and veg bit
+the baking aisle
+
+@lexicon foodSoup
+@kind phrase
+tomato
+leek and potato
+pea and ham
+mushroom
+minestrone
+chicken noodle
+carrot and coriander
+French onion
+broccoli and Stilton
+parsnip
+butternut squash
+lentil
+vegetable
+
+@lexicon foodBake
+lemon drizzle
+carrot cake
+fairy cake
+rock cake
+Swiss roll
+chocolate cake
+coffee and walnut cake
+Bakewell tart
+cupcake
+iced bun
+Eccles cake
+Chelsea bun
+treacle tart
+scone
+jam doughnut
+custard slice
+cherry Bakewell
+
+@lexicon foodSauce
+@kind phrase
+ketchup
+brown sauce
+mint sauce
+mayonnaise
+salad cream
+mustard
+gravy
+tartare sauce
+curry sauce
+piccalilli
+
+@lexicon foodTeaOrder
+@kind phrase
+milk, no sugar
+milk and two sugars
+strong, with a splash
+black, no fuss
+milky, like a cloud
+builder's
+weak, with a biscuit
+just a dribble of milk
+one sugar, stirred twice
+
+@lexicon foodGlorpTopping
+@kind phrase
+a bit of crunchy fog
+crushed fizzlecrust
+a spoon of moon jelly
+a little hum on top
+more glorp
+nothing, which is traditional
+a smaller glorp on top

@@ -1,0 +1,247 @@
+# Chains about human customs, work and time (writer: customs).
+
+@chain break-a-leg
+@topic idioms
+@start idle
+- The lady down the road is in a play tonight. Amateur dramatics. Very exciting.
+  | Someone from down the road is in a play. I've been told it's a big deal.
+- Everyone keeps telling her to "break a leg". To her face. And she says thanks.
+  | Everybody wished her luck by saying "break a leg". She seemed delighted.
+- I didn't want to say that. Seemed a lot. So I said "lie down well", which is what we say back home.
+  | We don't say that on {planet}. We say "have a lovely lie-down". So I said that.
+-? She looked at me for quite a long time. Then she said "thanks, love".
+- Then the play happened. Nobody broke anything. Everyone clapped. Lovely.
+  | She was a tree in the second half. Very convincing tree. Barry would've been proud.
+= So, yeah. Legs all fine. I'm calling that a success. I'm going to have a sit-down about it.
+  | Anyway. Both legs intact, play went well. Sometimes the old ways are best.
+
+@chain post-office-queue
+@topic queues
+@start idle
+- I joined a queue at the post office today. Not on purpose.
+  | Went past the post office and ended up in a queue. It just sort of happened.
+- Nobody said anything. Everyone stood one behind the other, facing the same way. Like a very slow train.
+  | Everyone queued up. Nobody organised it. It just appeared, like mushrooms.
+- Someone near the front sighed, and the sigh went all the way down the queue. Like a little wave.
+  | A man at the back looked at his watch, so everyone looked at their watch. Teamwork.
+-? I didn't know what we were queueing for. Didn't want to ask. Felt like it'd spoil it.
+- When I got to the front, the lady said "yes?". I panicked a bit and asked for a stamp.
+  | At the front, the lady said "next, please". I'd never been next before. I asked for a stamp.
+= Anyway. Lovely stamp. Second class. It's on the fridge. Best queue I've ever been in.
+  | So now I've got a stamp and nothing to post. Worth it, though. Very good queue.
+
+@chain tie-practice
+@topic clothes
+@start act:mirror
+- <act:mirror> I've been practising with a tie. Hang on, let me have a look.
+  | <act:mirror> Let me show you my tie. Well. The idea of a tie.
+- It's a long thin scarf that only goes down the front. Doesn't keep anything warm.
+  | Ties don't keep you warm. They don't hold anything up. They just point at your shoes.
+- You tie it in a special knot. There are hundreds of videos about the knot. Nobody agrees.
+  | There's a special knot. I tried it {n:4-14} times. Got a different knot every time.
+-? I ended up tying it round my ear. Looked quite important, honestly.
+- Back home the gold chain is formal. You just put it on. No knots. No videos.
+  | On {planet}, being formal means wearing your chain and standing up a bit straighter. That's it.
+= So the tie's back in the drawer. It's having a lie-down. We both need one.
+  | Anyway. Chain on, tie off. I'm formal enough for the kitchen.
+
+@chain feeling-older
+@topic birthdays
+@start any
+- I think it might be my birthday today.
+  | Don't make a fuss, but I think it's my birthday.
+- Back home your birthday is whenever you feel older. And I went "oof" getting off the sofa earlier.
+  | On {planet}, a birthday is whenever you feel older. I made a noise getting up this morning. A real noise.
+- That's a birthday, that is. No question.
+  | So that's a birthday. Those are the rules.
+-? That's my third this month. Big month.
+- Here, you'd get a cake with candles on. Back home everyone comes round and hums one long note at you.
+  | Earth birthdays have cake and singing. Ours have one long hum and a bit of a lean.
+- So if you could hum a bit, on your side of the glass, that'd be lovely.
+  | You don't have to do anything. Maybe just a little hum, on your side of the glass.
+= Thank you. That was a lovely birthday. I feel about the same age again now. Perfect.
+  | Right. Birthday done. I'll let you know when I next feel older. Probably Tuesday.
+
+@chain barbers-visit
+@topic haircuts
+@start idle
+- I went to the barber's today.
+  | Popped into the barber's earlier. Thought I'd see what it was all about.
+- The man looked at my head for quite a long time. Then he said "what are we doing today?".
+  | He put a cape on me. A cape. I felt like a very calm hero.
+- I haven't got any hair, so I said "whatever you think's best".
+  | I said "just a tidy-up". He said "of what?". Fair question, honestly.
+-? He got the clippers out anyway. Very gently. Mostly for the noise, I think.
+- Then he asked if I was going anywhere nice on holiday. I said the kitchen. He said "lovely".
+  | Then he asked if I was off anywhere nice this year. I said the window, probably. He nodded.
+- He held up a little mirror so I could see the back. It looked like the front. Very consistent head.
+= Anyway, I tipped him a hum. Best haircut I've ever had. Same as before, but more confident.
+  | So, yeah. New haircut. Well. Same head, freshly appreciated. I'm thrilled.
+
+@chain snooze-negotiation
+@topic alarms
+@start idle
+- I've been reading about alarm clocks.
+  | Can I tell you about alarm clocks? I've been thinking about them.
+- You buy a little box, put it next to your head, and ask it to shout at you in the morning.
+  | It's a small box you put right by your pillow so it can shout at you at seven.
+- Then it shouts, and you hit the snooze button, and it gives you nine more minutes.
+  | When it goes off, there's a button that basically says "nine more minutes, please".
+-? Why nine? Nobody knows. I asked the wall clock. It just kept ticking.
+- So you've paid for a box to wake you up, and then you argue with it. Every morning. For years.
+  | Every morning there's a little argument. You and the box. The box always wins in the end.
+- On {planet}, the day just waits until you're ready. It's very patient.
+  | Back home you wake up when the day's ready for you. Sometimes that's Thursday.
+= Anyway. I've unplugged ours and given it a pillow. Everyone deserves a lie-in.
+  | So, yeah. I've set ours for never. We're getting on really well now.
+
+@chain bus-stop-chat
+@topic small talk
+@start idle
+- I had a proper conversation at the bus stop today.
+  | Someone talked to me at the bus stop. A whole conversation.
+- She said "{customSmallTalk.cap}". I said "yes". That was the first bit.
+  | She looked at the sky and said "{customSmallTalk.cap}". I agreed straight away.
+- Then she said "bus is late again". I said "it is". We were really getting going now.
+  | It went quiet. Then she said "they're never on time, are they". I said "no". Deep stuff.
+-? I told her the cloud overhead was {cloudScore}. She moved slightly further away. Still friendly, though.
+- Then the bus came and she said "this is me". It was the bus, but I knew what she meant.
+  | Then the bus came. She said "this is me". I said "lovely to meet you". She seemed surprised.
+= So, yeah. Best conversation I've had all week. Didn't even need the bus.
+  | Anyway, she got on and I waved. Same stop tomorrow, I reckon. Same time.
+
+@chain sorry-lamppost
+@topic manners
+@start idle
+- I walked into a lamppost today.
+  | I bumped into a lamppost on the way to the shop.
+- And I said sorry to it. Straight away. Didn't even think. I'm practically a local.
+  | Before I knew it, I'd said "sorry". To the lamppost. Very sincerely.
+- Then I worried it hadn't heard, so I said it again. A bit louder.
+  | Then a man walking past said "sorry" to me, for some reason. So I said sorry to him as well.
+-? Then the lamppost's light came on. I think that means it accepted.
+- Back home, nobody says sorry to lampposts. Mostly because ours are shy and move away when you get close.
+= Anyway, I went back later to check it was all right. It was. Very forgiving lamppost.
+  | So, yeah. We're fine now, me and the lamppost. I give it a nod when I go past.
+
+@chain handshake-practice
+@topic greetings
+@start idle
+- I've been practising handshakes.
+  | Can I show you my handshake? I've been working on it.
+- You hold out your hand, they hold out theirs, then you both go up and down. Not too long. Not too short.
+  | You take the other person's hand and move it up and down, like you're checking it works.
+- The trouble is, I've got three fingers and a thumb. People notice. They go a bit quiet and start counting.
+  | I've only got three fingers and a thumb. People count. I can see them counting.
+-? One man said "firm grip". I said "thank you, it's the only one I've got".
+- Back home we just touch ears. Very gently. You know where you are with an ear.
+  | On {planet}, you greet someone by gently touching ears. No counting. No up and down.
+= Anyway. I think I'll do a little wave from now on. Waves work with any number of fingers.
+  | So, yeah. Handshakes. I've decided to just nod warmly. Going really well so far.
+
+@chain sorry-we-missed-you
+@topic post
+@start idle
+- A card came through the door today. It said "sorry we missed you".
+  | The postman left a card. "Sorry we missed you", it said. Very apologetic card.
+- But they didn't miss me. I was right here. On the sofa. All day.
+  | Thing is, I was in. I'm always in. It's sort of my main thing.
+- I think they knocked very softly. Like they didn't want to bother me.
+  | Maybe they knocked. Maybe it was more of a thought about knocking.
+-? Or maybe they did miss me. Like you'd miss a friend. That'd be nice, actually.
+- Now I have to go and fetch it from a big building on the edge of town. A little adventure.
+  | It says I can collect it from the depot. I don't know what's in it. Could be anything.
+= So I've written "sorry I missed you too" on the back and popped it outside. We'll see.
+  | Anyway, I've decided they missed me in the nice way. I'll go and get it on Thursday. Maybe.
+
+@chain the-big-exam
+@topic school
+@start idle
+- I had an exam once, back home. A really big one.
+  | Did I tell you about my school exam on {planet}?
+- Everyone went into a big soft room and lay down in rows. Very serious atmosphere.
+  | They put us all in a big hall and told us to lie down. No talking. No pencils.
+- The exam was lying still. That's it. For as long as you could.
+  | You just had to lie still and not fidget. Sounds easy. It's not.
+-? The boy next to me got hiccups in the first hour. Rough luck. He was a good lier-down.
+- I fell asleep about ten minutes in. Didn't wake up for a week.
+  | I fell asleep almost straight away. When I woke up, it was a different moonturn.
+= Top marks. Best in the year. I still don't know how you'd revise for that, honestly.
+  | Anyway, I passed. My report just said "very still". I've had it framed.
+
+@chain wrapping-a-present
+@topic presents
+@start idle
+- I've wrapped a present for you.
+  | I got you a present. Well. I've wrapped one.
+- It took ages. The sticky tape kept hiding its own end. I spent most of the morning looking for it.
+  | The sticky tape kept losing its end. You need fingernails for that. I've got none.
+- I used the whole roll of paper. To be safe.
+  | I used quite a lot of paper. Probably all of it.
+-? Barry helped hold the corners. He's very good at holding still.
+- Then I realised it's on my side of the glass. I don't know how presents get through.
+  | The trouble is, I've wrapped it so well I can't get it through the glass to you.
+- So I'll just tell you what it is. It's {customGift.a}. You'll love it.
+  | It's {customGift.a}. I hope that's all right. I've kept the receipt, just in case.
+= Anyway. Happy whatever-it-is. I'll keep it here for you. It looks lovely in the paper.
+  | So, yeah. That's your present. It's here whenever you want it. Very nicely wrapped.
+
+@chain holiday-by-the-window
+@topic holidays
+@start act:lookOutWindow
+- <act:lookOutWindow> I'm on holiday. Just so you know.
+  | <act:lookOutWindow> Don't mind me. I'm on my holidays.
+- I've gone to the window. It's about four steps from the sofa. Different view, different air.
+  | I've packed a bag and come over to the window. It's like abroad, but nearer.
+- I've brought my good hat, two biscuits and a spare biscuit. You never know.
+  | I packed light. One hat. A biscuit. Another hat, in case the first one doesn't work out.
+-? Kevin's looking after the flat while I'm away. He's very responsible.
+- I'm sending you a postcard. It says "wish you were here". You are here. But it's the custom.
+  | I've written you a postcard. "Wish you were here." Well, you sort of are. Still nice to say.
+= Right. Lovely holiday. I'm going home now. Back to the sofa. I'll need a holiday after this.
+  | Anyway, holiday's over. I'm heading back to the sofa. It's good to be home.
+
+@chain conga-line
+@topic dancing
+@start act:dance
+- <act:dance> I'm doing the conga. You can join in, if you like.
+  | <act:dance> Hang on. This is a conga. Join the back whenever you're ready.
+- It's a dance where everyone holds the shoulders of the person in front. So it's also a queue.
+  | Everyone holds on to the person in front and you all go round together. It's a queue that dances.
+- Queueing and dancing at the same time. Your two best things. Honestly, it's genius.
+  | You've taken your two favourite things, queueing and dancing, and made them one thing. Brilliant.
+-? On {planet} we'd do it lying down. It would take a lot longer. Still lovely.
+- Normally you need about twenty people. I've got me and Barry. Barry's not moving much.
+  | There's only me in this one. Kevin's watching. I think he's with us in spirit.
+= Right. That's the end of the conga. Everyone back to their seats. Well, my seat.
+  | And... we're done. Very good conga. Barry's had a lovely time.
+
+@chain the-lost-hour
+@topic time
+@start idle
+- You know how the clocks change twice a year? I've been looking into it.
+  | The clocks went forward. Or back. I've lost track, honestly.
+- In spring, everybody loses an hour. Just like that. Nobody seems that bothered.
+  | When they go forward, an hour just goes. Disappears overnight. Everyone carries on.
+- I've been looking for it. Not under the sofa. Not behind the fridge. Kevin hasn't seen it.
+  | I've looked everywhere for it. Under the rug. In the bread bin. Nothing.
+-? I asked the wall clock. It went a bit quiet. I think it knows something.
+- Then in autumn you get it back. Same hour. And everyone spends it having a lie-in.
+  | And in autumn the hour comes back. Turns out it was just having a rest somewhere.
+= So that's where it goes. On holiday. Good for it. I'd do the same.
+  | Anyway. The hour's fine. It just needed some time off. Don't we all.
+
+@chain counting-sheep
+@topic sleep
+@start night
+- Can't sleep. Someone told me to count sheep.
+  | I've been trying the sheep thing. To get to sleep.
+- So I pictured a field, and a fence, and the first sheep jumping over it.
+  | You imagine sheep hopping over a fence, one at a time, and you count them.
+- I got to about {n:3-12} and started wondering where they were all going.
+  | By sheep number {n:3-12}, I was worried. Where are they off to? Have they got somewhere to be?
+-? One of them stopped and looked at me. I think it was tired too.
+- Then I started worrying they'd get lost, so I counted them all back again.
+  | So I let them all go home. Counted them back over the fence. Took ages.
+= Anyway. They're all safe now. And I'm still awake. Night night.
+  | So, yeah. All the sheep are home. I might try counting Kevin instead. There's only one.

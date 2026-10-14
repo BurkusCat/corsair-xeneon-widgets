@@ -1,0 +1,13 @@
+{
+  "author": "Ronan Burke",
+  "id": "uk.co.burkus.mervin",
+  "name": "Mervin",
+  "description": "Mervin, a very relaxed alien from Planet 6, lives in a little 3D flat on your XENEON EDGE. He potters about, says things, and tells you about his planet when you tap him.",
+  "version": "0.1.3",
+  "preview_icon": "resources/icon.svg",
+  "min_framework_version": "1.4.0",
+  "min_app_version": "5.47",
+  "os": [{ "platform": "windows" }],
+  "supported_devices": [{ "type": "dashboard_lcd" }],
+  "interactive": true
+}

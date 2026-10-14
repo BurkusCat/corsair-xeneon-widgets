@@ -10,11 +10,17 @@
   "scripts": {
     "validate": "node scripts/widgets.mjs validate",
     "package": "node scripts/widgets.mjs package",
+    "build": "node scripts/widgets.mjs build",
     "list": "node scripts/widgets.mjs list",
-    "test": "node --test \"widgets/*/bridge/test/*.test.mjs\"",
+    "test": "node --test \"widgets/*/bridge/test/*.test.mjs\" \"widgets/*/test/*.test.mjs\"",
+    "preview": "node scripts/preview.mjs",
+    "shot": "node scripts/shot.mjs",
     "bridge:claude": "node widgets/claude-control/bridge/server.mjs"
   },
   "devDependencies": {
-    "icuewidget-cli": "0.4.49"
+    "esbuild": "0.28.2",
+    "icuewidget-cli": "0.4.49",
+    "meshoptimizer": "1.3.0",
+    "three": "0.186.1"
   }
 }

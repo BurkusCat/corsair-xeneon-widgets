@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Widget preview</title>
+  <style>
+    :root { color-scheme: dark; }
+    body { margin: 0; padding: 20px 24px; background: #0b0b0b; color: #ddd; font: 14px "Segoe UI", system-ui, sans-serif; }
+    header { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 18px; margin-bottom: 14px; }
+    h1 { font-size: 18px; margin: 0 8px 0 0; }
+    label { display: inline-flex; align-items: center; gap: 6px; }
+    input[type=text] { width: 220px; background: #161616; color: #ddd; border: 1px solid #333; padding: 3px 6px; }
+    select { background: #161616; color: #ddd; border: 1px solid #333; padding: 2px 4px; }
+    #settings { display: flex; flex-wrap: wrap; gap: 10px 18px; margin-bottom: 18px; padding: 10px 12px; background: #131313; border-radius: 6px; }
+    #settings:empty { display: none; }
+    .sizes { display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; }
+    figure { margin: 0; }
+    figcaption { margin-bottom: 6px; color: #999; }
+    figcaption a { color: #d97757; margin-left: 8px; }
+    .frame { overflow: hidden; border-radius: 6px; box-shadow: 0 0 0 1px #333; background: #000; }
+    iframe { border: 0; transform-origin: 0 0; display: block; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Widget preview</h1>
+    <label>Widget <select id="widget"></select></label>
+    <label>Size <select id="only"><option value="">All</option><option>XL</option><option>L</option><option>M</option><option>S</option></select></label>
+    <label><input type="checkbox" id="portrait" /> Portrait</label>
+    <label>Scale <input type="range" id="scale" min="0.2" max="1" step="0.05" value="0.5" /> <span id="scaleValue"></span></label>
+    <label>Extra query <input type="text" id="extra" placeholder="debug=1&amp;now=21:30" /></label>
+  </header>
+  <div id="settings"></div>
+  <div class="sizes" id="sizes"></div>
+  <script>
+    // Widget sizes on the XENEON EDGE (2560x720 panel), from the iCUE widget grid.
+    const LANDSCAPE = [["XL", 2536, 696], ["L", 1688, 696], ["M", 840, 696], ["S", 840, 344]];
+    const query = new URLSearchParams(location.search);
+    const $ = (id) => document.getElementById(id);
+    let widgets = [];
+
+    function frames() { return [...document.querySelectorAll("iframe")]; }
+
+    function setSetting(name, value) {
+      for (const iframe of frames()) {
+        try { iframe.contentWindow.__icuePreview.set(name, value); } catch (error) { /* still loading */ }
+      }
+    }
+
+    function drawSettings() {
+      const widget = widgets.find((w) => w.name === $("widget").value);
+      const box = $("settings");
+      box.replaceChildren();
+      if (!widget) return;
+      for (const s of widget.settings) {
+        const label = document.createElement("label");
+        label.textContent = s.label;
+        let input;
+        const def = (() => { try { return new Function("tr", "return (" + s.default + ");")((t) => t); } catch { return ""; } })();
+        if (s.type === "switch") {
+          input = document.createElement("input");
+          input.type = "checkbox";
+          input.checked = !!def;
+          input.addEventListener("change", () => setSetting(s.name, input.checked));
+        } else if (s.type === "slider") {
+          input = document.createElement("input");
+          input.type = "range";
+          Object.assign(input, { min: s.min || 0, max: s.max || 100, step: s.step || 1, value: def });
+          input.addEventListener("input", () => setSetting(s.name, Number(input.value)));
+        } else if (s.type === "tab-buttons" || s.type === "combobox") {
+          input = document.createElement("select");
+          let values = [];
+          try { values = new Function("tr", "return (" + s.values + ");")((t) => t); } catch { /* ignore */ }
+          for (const v of values) {
+            const option = document.createElement("option");
+            option.value = v.key;
+            option.textContent = v.value;
+            option.selected = v.key === def;
+            input.append(option);
+          }
+          input.addEventListener("change", () => setSetting(s.name, input.value));
+        } else if (s.type === "color") {
+          input = document.createElement("input");
+          input.type = "color";
+          input.value = def;
+          input.addEventListener("input", () => setSetting(s.name, input.value));
+        } else {
+          input = document.createElement("input");
+          input.type = "text";
+          input.value = def;
+          input.addEventListener("change", () => setSetting(s.name, input.value));
+        }
+        label.append(input);
+        box.append(label);
+      }
+    }
+
+    function draw() {
+      const name = $("widget").value;
+      const portrait = $("portrait").checked;
+      const scale = Number($("scale").value);
+      const only = $("only").value;
+      const extra = $("extra").value.trim().replace(/^[?&]/, "");
+      $("scaleValue").textContent = Math.round(scale * 100) + "%";
+      const container = $("sizes");
+      container.replaceChildren();
+      for (const [size, w0, h0] of LANDSCAPE) {
+        if (only && size !== only) continue;
+        const [w, h] = portrait ? [h0, w0] : [w0, h0];
+        const src = `/w/${name}/index.html?instance=${size}${extra ? "&" + extra : ""}`;
+        const figure = document.createElement("figure");
+        const caption = document.createElement("figcaption");
+        caption.textContent = `${size} — ${w}×${h}`;
+        const open = document.createElement("a");
+        open.href = src;
+        open.target = "_blank";
+        open.textContent = "open";
+        caption.append(open);
+        const frame = document.createElement("div");
+        frame.className = "frame";
+        frame.style.width = `${w * scale}px`;
+        frame.style.height = `${h * scale}px`;
+        const iframe = document.createElement("iframe");
+        iframe.width = w;
+        iframe.height = h;
+        iframe.style.transform = `scale(${scale})`;
+        iframe.src = src;
+        frame.append(iframe);
+        figure.append(caption, frame);
+        container.append(figure);
+      }
+      drawSettings();
+    }
+
+    fetch("/api/widgets").then((r) => r.json()).then((list) => {
+      widgets = list;
+      for (const w of list) {
+        const option = document.createElement("option");
+        option.value = option.textContent = w.name;
+        $("widget").append(option);
+      }
+      if (query.get("widget")) $("widget").value = query.get("widget");
+      if (query.get("size")) $("only").value = query.get("size");
+      if (query.get("scale")) $("scale").value = query.get("scale");
+      if (query.get("extra")) $("extra").value = query.get("extra");
+      $("portrait").checked = query.get("portrait") === "1";
+      for (const id of ["widget", "only", "portrait", "scale"]) $(id).addEventListener("input", draw);
+      $("extra").addEventListener("change", draw);
+      draw();
+    });
+  </script>
+</body>
+</html>

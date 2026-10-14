@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>tr('Mervin')</title>
+  <link rel="icon" type="image/svg+xml" href="resources/icon.svg" />
+  <link rel="stylesheet" href="styles/widget.css" />
+
+  <meta name="x-icue-property" content="quality" data-label="tr('Quality')" data-type="tab-buttons" data-values="[{'key':'low','value':tr('Low')},{'key':'balanced','value':tr('Balanced')},{'key':'high','value':tr('High')}]" data-default="'balanced'" />
+  <meta name="x-icue-property" content="chattiness" data-label="tr('Chattiness')" data-type="slider" data-default="50" data-min="0" data-max="100" data-step="5" data-unit-label="'%'" />
+  <meta name="x-icue-property" content="bubbleSize" data-label="tr('Bubble text size')" data-type="slider" data-default="100" data-min="80" data-max="140" data-step="5" data-unit-label="'%'" />
+  <meta name="x-icue-property" content="realTimeLighting" data-label="tr('Day and night follow the clock')" data-type="switch" data-default="true" />
+  <meta name="x-icue-property" content="ignoreFpsLimit" data-label="tr('Smooth motion (30 fps)')" data-type="switch" data-default="true" />
+
+  <script type="application/json" id="x-icue-groups">
+  [
+    {
+      "title": "tr('Mervin')",
+      "properties": ["quality", "chattiness", "bubbleSize", "realTimeLighting", "ignoreFpsLimit"],
+      "info": "tr('Tap Mervin to chat. Keep tapping within 30 seconds to hear the rest. Tap furniture to send him there. Chattiness 0 means he only talks when tapped.')"
+    }
+  ]
+  </script>
+</head>
+<body>
+  <div id="stage" class="stage">
+    <canvas id="scene" class="scene"></canvas>
+    <div id="bubbles" class="bubbles"></div>
+    <canvas id="debug" class="debug" hidden></canvas>
+    <div id="fallback" class="fallback" hidden></div>
+  </div>
+  <script src="scripts/mesh.js"></script>
+  <script src="scripts/content.js"></script>
+  <script src="scripts/mervin.js"></script>
+</body>
+</html>

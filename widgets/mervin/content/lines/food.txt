@@ -1,0 +1,347 @@
+# Food and drink: Earth versus Planet 6. Word lists in lexicon/food.txt.
+
+@category earth.food
+
+# Meals and mealtimes
+Breakfast, lunch, dinner. Three meals, all with names. Back home they're mostly numbered, and most of the numbers are breakfast.
+Someone said breakfast is the most important meal of the day. I didn't have the heart to tell second breakfast.
+Elevenses is a meal named after a time. I had mine at {two|three|half four}. I think it still counts.
+Brunch is breakfast that had a lie-in. I've never related to a meal so much.
+Up north, dinner is called tea. And tea is also called tea. I just say yes now and see what turns up.
+Lunch happens at lunchtime here, every day, like it's booked. On {planet} you eat when your ears droop. Mine are drooping now.
+I had breakfast for dinner. Felt {a bit wild|quite rebellious}. Then I had dinner for breakfast to even things out.
+A full English has about {n:7-11} things on one plate, and they all touch. Sociable breakfast, that.
+Porridge is glorp's quiet cousin. Same warm feeling. Doesn't hum, though.
+Boiled eggs come with soldiers here. Little ones, made of toast. Not much guarding goes on.
+An egg cup is a little chair just for an egg. I've never been so jealous of an egg.
+You flip pancakes in the air here, on purpose. I flipped one. It lives behind the {fridge|sofa} now. Seems settled.
+Toast racks hold toast upright so it can go cold faster. It's a proud tradition. I don't question it.
+A fried egg is a little yellow sun on a white cloud. I gave the cloud {cloudScore}, then I ate it.
+Peckish. Not hungry, not full. Peckish. You've got a word for the exact middle. I'm peckish {most of the day|about now|from ten till bedtime}.
+Snacks are little meals between meals. Then there's a snack between the snacks. I'm fully on board.
+Midnight snacks are eaten in the dark, standing up, with the fridge door open. Important ceremony, that.
+Pudding, dessert, afters, sweet. Four names for the bit after dinner. Back home it's just called "more glorp".
+At a buffet all the food's out at once and you choose. I chose everything, slowly, over {n:2-4} hours. They turned the lights off on me.
+I set two places at the table. One for me, one for you. You never come out of the telly, but it's nice to have the option.
+Every plate here has a bit of salad on the side that nobody eats. I eat it. It looked lonely.
+Garnish is one leaf, on top, doing nothing. I respect it. I've had whole days like that.
+Someone said they've got a sweet tooth. I asked which one. Apparently it's all of them. Lucky.
+You say you're "stuffed" after a big dinner. I thought you meant like a cushion. Turns out, yes, a bit like a cushion.
+Cutting a cake into equal slices is the hardest maths on Earth. Somebody always gets the extra icing. Usually me.
+{food=x.a.cap} for lunch, {x.a} for tea, and another one before bed. When I like something, I commit.
+I went {n:300-339} years without {food.a}. Now I have one most days. Lot of catching up to do.
+Sometimes I just hold {food.a} and think about how far it's come. Field, shop, fridge, me. Big journey.
+
+# Biscuits
+If a biscuit falls into your tea, you get a little treasure hunt at the bottom. Best part of the cup.
+{foodBiscuit.pl.cap} come in a packet you can't close again. So you have to finish them. It's only polite.
+My ship's about the size of a biscuit tin. Every time someone opens one, I get a bit nervous.
+I opened the biscuit tin. {Buttons and a sewing kit|Batteries and some string|Old photos and one key}. Bit of a let-down, but I admire the twist.
+Custard creams have a pattern on top that nobody looks at for long enough. I looked. It's lovely. Someone tried.
+Rich teas are good listeners. They don't say much, and they go with anything.
+A chocolate digestive has a chocolate side and a plain side. People argue which goes up. I eat mine on its edge.
+There's a biscuit here that's officially a cake. Nobody's upset about it. That's real maturity.
+Biscuits get marks out of fourteen now as well. The {foodBiscuit} got {cloudScore}. The clouds are a bit jealous.
+Fig rolls. Someone rolled the figs. Someone took the time. I think about that person a lot.
+Pink wafers are mostly air and confidence. I admire that in a biscuit.
+You can't dunk a biscuit in glorp. I tried. The glorp just sort of accepted it.
+A biscuit is a small, round decision. Then another one. Then you look down and you've made {n:6-11} decisions.
+The packet says a serving is {two|three} biscuits. I read that as a warm-up.
+I've lined up {n:4-9} {foodBiscuit.pl} in order of how well they dunk. It's taken all morning. Science is slow.
+
+# Crisps
+Crisps come in a bag that's mostly air. I think the air's there to keep them calm.
+Prawn cocktail crisps. I've never met a prawn, but I feel like we've been introduced.
+Open a bag of crisps in a quiet room and everyone looks round. It's like a tiny parade.
+You fold an empty crisp packet into a little triangle. I've got {n:9-30} now. My best work, honestly.
+{Salt and vinegar|Pickled onion} crisps make my ears go straight up. I think that means I like them.
+Someone's always left with the {foodCrispFlavour} ones in the multipack. I volunteer. Happily.
+The crumbs at the bottom of the crisp packet are the best bit. You tip your head back and pour. Undignified. Lovely.
+People eat crisps at their desks one at a time, very quietly, like it's a secret. Everyone can still hear.
+You can put crisps inside a sandwich here. Nobody stops you. It's the crunchiest kind of freedom.
+I'm working through every flavour of crisp. Today was {foodCrispFlavour}. I've written a little review. It just says "yes".
+
+# Toast and bread
+Toast always lands butter side down. I tested it {n:6-12} times. The floor's had a lovely breakfast.
+The toaster dial goes from one to six. I always do {four|three and a half}. Five is for people with something to prove.
+Crumpets are sponges you're allowed to eat. The butter goes in the holes and hides. Clever food.
+Cheese on toast is toast with a blanket on. Lovely for it, {in this weather|on a cold day|at this time of year}.
+I found a toast crumb in my ear. Not sure how. Big ears, I suppose. Lots of room.
+You scrape burnt toast over the sink. Little black snow. Peaceful job, that.
+Toast cut into triangles tastes better than toast cut into squares. I can't prove it. I just know.
+Hot buttered toast. Three words, all doing their best.
+Toast crumbs in the bed. I made the toast in the kitchen. The crumbs just knew where I'd be later.
+Toastie makers squash your sandwich flat and hot. It goes in nervous and comes out confident.
+The cheese in the middle of a toastie is hotter than our sun. And our sun is kind of a lot.
+I'm not saying the toaster's my best mate. But it's never let me down. Well, {twice|three times}. It said sorry with a ding.
+Stale bread becomes toast. Old toast becomes breadcrumbs. Bread never retires. It just changes jobs.
+Every loaf has two ends and nobody wants them. I take the ends. Someone has to love the ends.
+Every new thing is "the best thing since sliced bread". Sliced bread's held that title for {years|ages}. Hasn't let it go to its head.
+Sourdough needs feeding, like a pet. I've already got Kevin and Barry. I can't take on a bread as well.
+Bap, roll, cob, barm, bun. Five names for one bit of bread. I've got eleven siblings and I can't do that.
+Butter from the fridge is too hard. Butter left out is too soft. It's perfect for about {n:3-5} minutes. I set alarms.
+
+# Sandwiches
+A sandwich is two slices of bread keeping a secret. Usually the secret's cheese.
+Crusts. Some people cut them off. Then where do they go? I've got a little pile of {n:12-40}. I'm looking after them.
+Meal deal: a sandwich, some crisps and a drink, all agreeing to be together. Lovely little team.
+The sandwich box from the shop took me {n:4-11} minutes to open. My ship's easier, and it's from space.
+Club sandwiches have three slices of bread. I asked how you join the club. Nobody would say. Must be exclusive.
+Cucumber sandwiches: no crusts, very thin, and the cucumber's barely there. It's a whisper of a sandwich.
+Egg and cress. The cress grows in about a day. Fastest vegetable I've ever met. I'm a bit wary of it.
+Bread, cheese, pickle and an apple is called a ploughman's lunch. I've never ploughed anything. They let me have it anyway.
+I can see you having lunch in there. Looks nice. I'm having mine out here. Lunch together, separate tables.
+Packed lunches sometimes have a little note in. I've started writing my own. "Enjoy your lunch, Mervin." It works.
+
+# Soup
+You blow on soup before you eat it. Now I blow on everything. {Toast|Crisps|Barry}. Just in case.
+Soup in a mug is soup that wants to be tea. I think that's brave.
+Soup is vegetables that all agreed to have a bath together. Trusting lot, vegetables.
+I made soup from whatever was in the fridge. It went {colour}. Tasted lovely. I'm calling it Thursday soup.
+{foodSoup.cap} soup. You open a tin, warm it up, and it's like being looked after by a tin.
+I'd like to be the person who picks the soup of the day. Seems like a job with real power. I'd be very fair.
+Soup of the day was {foodSoup}. Yesterday it was {foodSoup}. I like that the soups take turns. Like our moons.
+
+# Cheese
+Cheese is milk that's had a very long think. Some of it's still thinking. That's the blue sort.
+Cheddar's named after a village. So you're eating a little bit of a village, in a way. Generous of the village, really.
+Halloumi squeaks when you eat it. Like fizzlecrust, but it only knows one note. Still. Respect.
+Some cheese has holes in it. I asked where the holes go when you eat it. Long silence.
+Cheese and crackers. You press the cheese on and the cracker breaks. Every time. They're not compatible, but they keep trying.
+Every cheeseboard has grapes on it. Nobody asked the grapes. They just turn up. Confident fruit.
+Mature cheddar's been aged for months. I'm three hundred and forty. Back home, that still counts as mild.
+At the cheese counter a man gave me a cube of {foodCheese} on a stick. I said thank you {n:3-6} times.
+
+# Fruit and veg
+Bananas come in their own packaging, with a handle. The most organised fruit there is.
+A satsuma peel came off in one piece today. I've put it on the windowsill. I showed {the fridge|Kevin|Barry}.
+An apple a day keeps the doctor away, apparently. I had {n:5-9}. Haven't seen a single doctor. Works brilliantly.
+Pineapples wear a little crown and a lot of armour. Important fruit. I nod when I pass one.
+Kiwis are fuzzy on the outside and bright green inside. Never judge a fruit by its jumper.
+Nobody eats a lemon on its own. It's more of a consultant.
+Five a day. Fruit and veg. I'm on three, but one of them was a very big potato.
+Vegetables grow underground and you dig them up. It's treasure hunting, but you find {a parsnip|a turnip|a potato|some beetroot}.
+{foodVeg.a.cap} came in the veg box. I didn't know what it was. We sat together for a bit. We're fine now.
+Sprouts are tiny cabbages. I don't know who shrank them. I've been very careful around the cabbages since.
+Carrots help you see in the dark, apparently. I had {n:4-9}. The dark looks exactly the same.
+A jacket potato is a potato in a jacket. The jacket is also the potato. I've thought about this a lot.
+Broccoli looks like a tiny tree. I eat it and feel like a giant. A gentle one. Like my nan.
+Onions make you cry when you cut them. I hummed at mine and it was fine. I think it just wanted a chat.
+Rhubarb looks like celery that's been on holiday. Pink, and a bit sour about coming back.
+Coconuts have a face if you look at them right. I couldn't open mine after that. We're friends now.
+Avocados are ripe for about {an hour|twenty minutes}. You have to be there. Like a sunset. We get two at home, so we're calmer about it.
+One {foodFruit=f} is good. Two {f.pl} is better. {n:7-12} {f.pl} and the fridge starts asking questions.
+Peeling {a potato|a parsnip|a carrot} is like helping it off with its coat. It's quite personal. I apologise as I go.
+I wrote "eat more vegetables" on the fridge. The fridge has done nothing. Neither have I. We're in it together.
+Fruit salad is all the fruit agreeing to share a bowl. Back home that would take {timeUnit} and a long chat.
+I bought {foodFruit.a} because it looked lonely on the shelf. Now it's in the fruit bowl with friends. Good day.
+
+# Takeaways and the chip shop
+With a takeaway, someone else cooks and then brings it round on a bike. Like being visited by dinner.
+The chip shop wraps chips in paper like a present. They are a present. I open them very slowly.
+Chips {with salt and vinegar|with a little wooden fork} on a cold bench outside the chip shop. Second best thing on Earth, after the sofa.
+Prawn crackers turn up with every takeaway whether you asked or not. Like Gary. Everyone's pleased to see them.
+Mushy peas are peas that have given up a bit. I find them relatable.
+A round pizza, in a square box, cut into triangles. Three shapes, one dinner. Ambitious, for a dinner.
+The takeaway gave me {n:6-12} little sauce pots. I'm keeping them. They're too nice to open.
+Chopsticks are two sticks and a lot of hope. I've got three fingers and a thumb, so I'm actually doing all right.
+Ketchup bottles: you tap the bottom. Nothing. Nothing. Then all of it at once. Very dramatic sauce.
+Salad cream is mayonnaise's cousin from the seaside. A bit sharper. Always on holiday.
+Mustard's the same colour as my sofa, but in a jar, and much louder.
+
+# Cooking
+Recipes are lists of things to do in order. I do them in the order I feel. Results vary.
+The recipe said "a pinch of salt". I didn't want to pinch it. I asked nicely. Came out fine.
+"Season to taste," the recipe said. I picked autumn. Lovely. Bit of a crunch to it.
+"Let it rest for ten minutes." So I let it rest. I rested too. We both woke up {an hour|two hours} later. Still lovely.
+"Fold in the flour," it said. So I folded it. Into a little square. I'm not sure the cake noticed.
+Cookbooks have photos of how it should look. Mine never look like that. The photos must be from a different Earth.
+I followed a recipe with {n:12-19} steps. Got to step four and had a sit-down. Rewarding sit-down, that one.
+The oven has a light so you can watch the food. I pulled up {a stool|a cushion}. Second-best show in the flat.
+My dad's a low hum in the kitchen back home. When I cook here, I hum his note. Feels like he's helping.
+Gas mark four. A hundred and eighty degrees. "A moderate oven". Three ways to say warm. On {planet} we just say "glorpy".
+Eggs come in sixes, and the recipe wants one. Now there are five eggs in the fridge, just looking at me.
+A pinch, a dash, a splash, a glug, a smidge. You measure food like you're describing a dance.
+I can't do the thing where you toss food in the pan. It goes up. I'm still waiting for some of it.
+When the timer goes off, everyone runs to the oven. On {planet} the food comes to find you when it's ready. Takes a while.
+Gravy. Warm, brown, goes on everything. Closest thing you've got to glorp. I get a bit emotional about gravy.
+Yorkshire puddings aren't puddings. They're little bowls you can eat, for gravy. I'd give them a twelve.
+Welsh rarebit is cheese on toast. No rabbits involved. Very good news for the rabbits.
+Rock cakes aren't made of rock. I was hoping for a bit of Gary in there. Still lovely, though.
+Hundreds and thousands. I counted. About {n:300-600}. Not quite, but a generous name.
+Bangers are called bangers because they might pop. I waited. Mine didn't. Very well-behaved sausage.
+Fish fingers aren't fingers. I counted mine afterwards, to check. Still three and a thumb.
+Shepherd's pie has no shepherd. Cottage pie has no cottage. I think pies are named after who they'd like to meet.
+Every kitchen has a jar nobody can open. You bang it, run it under the tap, pass it round. Then it just opens for someone. Lovely ritual.
+There's a tin in the cupboard with no label. Could be {peaches|custard|beans}. Could be soup. I'm saving it for a brave day.
+Cousin Derek lives in a cupboard back home. Here, the cupboard's full of tins. I said hello anyway. Felt right.
+Beans on toast is two foods having a lie-down, one on top of the other. Relaxing just to look at.
+Spaghetti's long on purpose. You twirl it round your fork like you're winding a very small clock.
+You slurp noodles. You mustn't slurp soup. I've written it on my hand.
+Popcorn is corn that got a fright and turned inside out. It's lovely. I worry about it a bit.
+Pasties have a big crust along the top so you can hold them. A handle you can eat. Someone thought of everything.
+There's a sponge for cake and a sponge for the washing up. I keep them well apart. Mostly.
+
+# Sweets, cakes and puddings
+Ice cream melts faster than you can eat it. You go round the edge, like steering. You're all experts at it.
+Some sweets here are blue. Same blue as me. I feel very represented.
+A box of chocolates comes with a little map. I still got the coffee one. The map was right. I didn't read it.
+Doughnuts have either a hole or jam. Never both. Big decision every time. I usually have one of each.
+Candyfloss is a pink cloud on a stick. I rated it before I ate it. {cloudScore.cap}. Gone in a minute.
+Carrot cake. A vegetable, in a cake. Someone took a real risk there, and it paid off.
+On {planet}, birthdays happen when you feel older. I felt older at lunch, so I had cake.
+Lemon drizzle cake. Very nearly named after my mum. She's a light drizzle. I had {two|three} slices for her.
+Cake slices are triangles. Same as toast. Same as sandwiches. Triangles are doing really well here.
+I baked a cake and it sank in the middle. I didn't mind. It looked like a little valley. I put a raisin in it as a house.
+Scones: jam first or cream first. People feel strongly. Back home we'd just eat them sideways.
+A cream tea isn't tea with cream in it. It's scones. And tea. Separately. I made quite a mess finding that out.
+A Swiss roll is a cake that rolled itself up for a nap. I understand it completely.
+Crumble is a pudding that decided not to be tidy, on purpose. Most relaxed pudding there is.
+Trifle has layers. Sponge, jelly, custard, cream. It's a little building you eat from the top floor down.
+Jelly wobbles when you walk past. I walked past {n:8-20} times. It never got bored of it.
+There's {foodBake.a} left in the tin. I'm saving it for you. In theory. It's getting harder.
+{foodBake.a.cap} is best eaten {standing in the kitchen|straight from the tin|on the sofa, with a fork}. I've tried all the ways.
+
+# Fridge, cupboards and cutlery
+Leftovers taste better the next day. I don't know what they do in the night. I think they talk things over.
+The fridge has a light, a hum and a little shelf for eggs. It's basically a flat, for food.
+You always end up with one more lid than boxes. I don't know where the boxes go. Somewhere nice, I hope.
+Ice cubes are water that's been to the freezer and come back very firm about things.
+Food in the freezer stays the same for months. Like a nap, but for dinner. I'd like to try it.
+{Half a lemon|Half an onion} in the fridge, wrapped in cling film. Nobody's going to use it. It knows. It stays anyway.
+A fork has four prongs. I've got three fingers and a thumb. The fork's showing off a bit, honestly.
+You've got a knife for butter, a knife for fish, a knife for cake. On {planet} you get one ladle each and a lot of patience.
+The cutlery drawer is a little car park for spoons. Everyone's got a space. The teaspoons double-park.
+There's always one teaspoon missing. I think they go off somewhere together. Good luck to them.
+A spork is a spoon and a fork who decided to just get on with it. Brave pair.
+{foodUtensil.a.cap} has one job, and it's so good at it. I'm a bit envious, to be honest.
+I've had {foodUtensil.a} for {n:2-9} weeks and I still don't know what it's for. We're getting on fine, though.
+Washing up is when you say thank you to each plate. That's how I do it, anyway. Takes a while.
+Chopping boards are covered in little lines. Like a map of every dinner they've ever helped with.
+I watch my soup go round in the microwave. Slow little ride. It always gets off cold in the middle.
+
+# Shops and picnics
+The supermarket has about {n:30-60} kinds of bread. I stood there for {n:12-40} minutes. Bought a crumpet.
+The reduced shelf is where food goes for a second chance. Little yellow stickers. I always take one. They've had a day.
+I got lost in {foodAisle}. Someone pointed. I went the way they pointed. Still lost, but closer.
+The shopping list said bread, milk and eggs. I came home with bread, milk, eggs and {heldItem}. Not sure how.
+Buy two, get one free. So I bought two and waited. Nobody brought the third.
+The bakery bit smells of warm bread to cheer you up. It works. I don't even need bread. I just go and stand there for {a bit|ten minutes|a good while}.
+You weigh your own apples at the supermarket. I weighed {a pear|a banana|a cucumber} as well, so it didn't feel left out.
+The world foods aisle has food from everywhere. I looked for {planet}. Nothing yet. I've left a note.
+Picnic blankets are little rugs you take to a field, so the field feels more like home.
+Picnic sandwiches always have a bit of grass in them by the end. Part of the recipe, I think.
+Barry doesn't eat. He drinks water and stands near the window. Simple life. I admire it.
+
+@tags Friday
+Friday. Chip shop tea. I don't know who decided, but I'm completely on board.
+
+@tags
+@category earth.drink
+
+You make tea with a little bag in hot water, then take the bag out. The bag doesn't get any. Seems a shame.
+"Put the kettle on" means tea. "Fancy a brew?" means tea. "You all right?" somehow also means tea.
+A parcel arrives: tea. Someone visits: tea. Nothing happens at all: tea, just in case. Calming system.
+Builder's tea is very strong. I asked what it builds. Apparently just character.
+I said I'd be mother and pour the tea. Everyone nodded. Nobody explained. I think I'm a mother now.
+I've made {n:4-9} cups of tea today and drunk about half of one. The rest are for atmosphere.
+Herbal tea is hot water that's been near a garden. Gentle stuff. I like it.
+Iced tea. You make tea hot, then make it cold again. Big day for the tea.
+Squash is a drink here. I'd been doing it to the cushions. I've got a lot of apologising to do.
+Hot chocolate is a drink that's also a hug. I trust it completely.
+I had a coffee and {alphabetised the fridge|sorted the spoons by size}. Took four minutes. Unheard of.
+Decaf is coffee that's decided to take it easy. My kind of coffee.
+Fizzy water is water that's had some news. Lots of little bubbles, telling each other.
+Tap water comes out whenever you like. No queue, no hum, just water. Very generous wall.
+Orange juice with bits or without bits. I like bits. They're like little passengers.
+Milkshake is milk that's been to a party. It's still a bit excited.
+Someone left half a mug of tea on the side and forgot about it. I've been keeping it company.
+There's a ring on the coffee table from a mug. I think it's a map. Haven't worked out where to yet.
+A cup of tea is the right answer about {n:70-90} per cent of the time. The rest of the time, it's a biscuit.
+Teapots wear little jumpers here. Tea cosies. Even the pots are snug. I'm so happy for them.
+I offered Barry a cup of tea. He's a plant, so he said nothing. I'll take that as "{later|maybe}".
+You blow on hot tea, then sip, then blow again. It's like a conversation with steam.
+Lemonade is lemons, but cheerful. Someone's really helped those lemons.
+Sparkling, still or tap. Three waters, all wet. Thorough menu.
+The mug says "world's best dad". My dad's a low hum in a kitchen. I still think he'd be in the running.
+A cup and saucer. The saucer catches what the cup can't hold. Supportive relationship, that.
+Mugs hang upside down on little hooks, like bats. Peaceful in there.
+Whoever empties the kettle fills it. That's the closest thing Earth has to a law I fully agree with.
+Making a round of tea is like a survey. Milk? Sugar? Strong? Everyone answers like it's very important. It is.
+"I'm no sugar," someone said, like it was their name. Lovely to meet you, No Sugar.
+Sugar cubes are little sugar bricks. I've built {a small wall|a little tower|a tiny house}. Barry's impressed.
+Fizzy drinks fizz more if you shake them. I shook one to say hello. I won't be doing that again.
+Tea in a paper cup, with a little lid with a little hole. You drink it through a keyhole. Secretive tea.
+The tea bag label always falls into the mug. Every time. I think it just wants to come in.
+A tea towel is a towel for tea. I dried a tea with it. Very absorbent. Now I've got no tea.
+Hot milk before bed helps you sleep, apparently. I had some at {time}. Woke up on the kitchen floor, very rested.
+Forget a tea bag in the mug and it keeps going. Stronger and stronger. Eventually the spoon stands up on its own.
+Coffee has a lot of names. Flat white, latte, cappuccino. I asked for "a warm brown one". They did their best.
+The first sip of tea makes everyone go "ahh". Same noise, every person. Like a tiny anthem.
+Has your tea gone cold? It always does when you're busy. I won't say anything. Well, I've said it. Sorry.
+Hot chocolate with marshmallows. The marshmallows float. Every day, not just Thursdays. They're doing better than me.
+Smoothies are fruit that went through something very loud and came out calm. Inspiring, really.
+In a café you can sit for {an hour|two hours|most of the afternoon} with one cup of tea and nobody minds. I could live in a café.
+Tea in a china cup makes you sit up straighter. Same tea. Different posture. I don't know how it does it.
+"Fancy a cuppa?" is the nicest question on Earth. The answer's always yes. Even when it's no.
+I made a pot of tea for three. It's just me. The other cups are for Kevin and Barry, and they don't drink much.
+I know how everyone takes their tea now. Kevin: {foodTeaOrder}. He's never actually had one.
+Tea {at the window|on the sofa|in bed} is lovely. Tea standing by the fridge is lovely too. Tea's not fussy about where.
+The coffee shop wrote my name on the cup. It said "{Marvin|Melvin|Merlin}". Close enough. I've been answering to it all day.
+Tea strainers are tiny sieves so the leaves can't come in. They have to wait outside. Bit harsh, but fair.
+
+@category planet6.food
+
+Glorp is like a sofa you can eat. Warm, soft, and you never want to get up from it.
+Fizzlecrust sings a bit when you bite it. Usually a B flat. If it hits a C, it's gone off.
+Second breakfast is the law back home. You can get a little warning for skipping it. I had {two|three} in my youth.
+Fizzlecrust in a quiet room is like a tiny choir. In a loud room, it just sulks.
+We don't have plates on {planet}. Glorp holds itself together if you're nice to it.
+There's no word for "leftovers" on {planet}. Glorp just waits for you. Loyal food, glorp.
+Humming bread only rises if you hum at it. My dad does it every morning. He's mostly a hum, so it's no effort.
+Sideways soup is soup that goes sideways. You eat it from the side. It's not hard once you've learnt to lean.
+Blue toast is perfectly normal on {planet}. I made some here and the toaster gave me a look.
+Breakfast clouds: we only eat the ones that score under six. The good ones are protected. I'm very strict about it.
+A nap biscuit is a biscuit you eat before a nap. Back home, that's every biscuit.
+A soft pebble is a snack, not a stone. Unless it's a stone. You give it a gentle squeeze first, to check.
+When Nan cooks, she cooks for the whole valley. Very gentle with a ladle, for her size.
+A meal on {planet} lasts as long as you want. Our longest dinner was {n:3-9} days. Nobody wanted to be rude and leave first.
+Glorp hasn't got a best-before date. It's always at its best. It's never been anything else.
+Leave fizzlecrust out overnight and it sings itself to sleep. In the morning it's still crunchy. Just a bit hoarse.
+My eleven siblings all like their glorp a different temperature. I know about seven of them. The temperatures, I mean.
+{planetFood.cap} with a little {planetFood} on the side. That's my comfort meal. Mum says it's a bit much.
+When I'm homesick I put gravy on porridge and hum. It's not glorp, but it's trying, and that's the main thing.
+The closest thing you've got to fizzlecrust is a crisp. But crisps don't sing. I've tried encouraging them.
+On {planet}, pudding comes first. Then you see how you feel. Usually you feel like more pudding.
+Back home there's no word for "full". We say "nap-ready". I'm nap-ready now, as it happens.
+Back home you get one glorp ladle and it's yours for life. Mine's called Ladle. It's a family name.
+There are no supermarkets on {planet}. You go round to a neighbour's, they give you some glorp, and you hum. That's shopping.
+We don't have spicy food on {planet}, just loud food. Fizzlecrust's the loudest. It does a key change.
+The best fizzlecrust is at the bottom of the bag. It's had time to rehearse.
+I keep one emergency glorp in the freezer next to my ship. I don't eat it. It's just nice knowing it's there.
+I'm saving a crisp to send to {relative}. I'll tell them it's fizzlecrust's quiet cousin.
+There's a saying on {planet}: "never trust a quiet fizzlecrust". It's not deep. It just means it's gone soggy.
+Moon jelly's only around for a bit each year, so everyone's gentle with it. You're like that with strawberries.
+A glorp-week is about as long as glorp takes to cool down. Which is never, if you put a lid on.
+Drop glorp on {planet} and the ground's soft, so it just bounces. Here it goes splat. I've learnt that now.
+Fizzlecrust takes {n:3-7} years to make. You leave it on a windowsill and sing to it. Eventually it sings back.
+On {planet} it's polite to hum after a meal. The louder the hum, the better it was. My dad's very generous with his.
+Crisps here come in about {n:20-40} flavours. Glorp comes in one: glorp. Nobody's ever asked for a second.
+Fizzlecrust surprise is just fizzlecrust. The surprise is that it's fizzlecrust. Every time. We love it.
+I can't find a good soft pebble anywhere on Earth. Your pebbles are all hard. I've squeezed loads.
+Breakfast is optional back home, so nobody's ever late for it. You can't be late for something you might not do.
+The fizzlecrust bakery is the loudest building on {planet}. They have to keep the doors shut. Well, suggested shut.
+{moonName.cap} gives the best moon jelly. Don't tell the others. They're very sensitive, for moons.
+Back home, dinner's eaten lying down. Good practice for the national sport.
+Back home, a recipe is just a hum you pass down. My nan's glorp hum goes on for about {timeUnit}.
+Moon jelly has to face the moon it came from. Turn the bowl the wrong way and it goes all shy.
+My usual is glorp with {foodGlorpTopping}. Dad says I'm set in my ways. I'm three hundred and forty, so yes.
+On {planet} the bowls wash themselves. They just need a lie-down afterwards. Fair enough.
+{planetFood.cap} tastes a bit like {food=x.a}, if {x.a} had grown up somewhere softer.
+If you're sad on {planet}, someone brings you glorp. If you're happy, someone brings you glorp. It's mostly glorp, honestly.
+Moon jelly's best eaten on a Thursday, when you're floating. It wobbles, you wobble. Very peaceful.
+I miss {planetFood}. Nobody here's heard of it. I describe it and people just nod kindly.
+Thinking about {planetFood} again. That's {n:3-9} times today. It's fine. It's a normal amount.
+On {planet}, if a meal goes well, you give the cook a little bow with your ears. Here you say "lovely". I do both.
+Your food's got a lot of edges. Crusts, rinds, peel, shells. Glorp hasn't got any edges at all. Restful to eat.
+Fizzlecrust is how we tell the time at breakfast. When it stops singing, it's time for second breakfast.

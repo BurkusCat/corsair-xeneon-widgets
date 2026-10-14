@@ -9,10 +9,14 @@ iCUE treats as a `dashboard_lcd` device. The repo holds many widgets, one per fo
 widgets/<name>/
   widget/      what ships: the icuewidget CLI zips EVERY file in this folder into the package
   bridge/      optional local companion process (Node, zero dependencies) the widget talks to
+  build.mjs    optional: generates files into widget/ (run before validate and package)
+  test/        optional node:test suites for widgets without a bridge
   CLAUDE.md    widget-specific architecture, data sources, gotchas
   README.md    user-facing setup
-scripts/widgets.mjs   validate/package every widgets/*/widget with Corsair's CLI
-dist/                 build output (git-ignored)
+scripts/widgets.mjs   build/validate/package every widgets/*/widget with Corsair's CLI
+scripts/preview.mjs   preview server for widgets without a bridge (shim for the iCUE globals)
+scripts/shot.mjs      full-size headless Edge screenshots over the DevTools protocol
+dist/                 build output and screenshots (git-ignored)
 ```
 
 Never put tests, docs, configs or secrets inside a `widget/` folder: they would be packaged.
@@ -20,14 +24,18 @@ Each widget's own CLAUDE.md is the source of truth for that widget; read it befo
 
 Current widgets:
 - `claude-control`: Claude Code sessions, attention queue, context and plan usage, plus a bridge. See widgets/claude-control/CLAUDE.md.
+- `mervin`: a 3D (three.js) studio flat with Mervin, a relaxed alien who potters about, talks and tells chains of thought when tapped. Built by widgets/mervin/build.mjs. See widgets/mervin/CLAUDE.md.
 
 ## Commands
 
 ```bash
-npm install                                  # installs icuewidget-cli (Corsair's official CLI, pinned)
-npm run validate                             # validate every widget (or: npm run validate -- <name>)
-npm run package                              # -> dist/<name>.icuewidget
-npm test                                     # node:test suites in widgets/*/bridge/test
+npm install                                  # icuewidget-cli (Corsair's CLI) plus build tools, all pinned
+npm run build                                # run each widget's build.mjs (or: npm run build -- <name>)
+npm run validate                             # build, then validate every widget (or: -- <name>)
+npm run package                              # build, then -> dist/<name>.icuewidget
+npm test                                     # node:test suites in widgets/*/bridge/test and widgets/*/test
+npm run preview                              # http://127.0.0.1:47900/ for widgets without a bridge
+npm run shot -- <name> [--sizes XL,M] [--portrait] [--query "a=1"]   # dist/shots/<name>/*.png
 npm run list                                 # widget folder, manifest id, version
 ```
 
@@ -84,10 +92,15 @@ best reference for what iCUE rejects.
 ## Working in this repo
 
 - You cannot run the iCUE runtime here. Verify in this order: `npm run validate`, the widget's
-  browser preview (bridges serve one, with a shim for the iCUE globals), then full-size
-  screenshots with headless Edge:
-  `msedge --headless=new --window-size=2536,696 --screenshot=<file> <url>`. Use a fresh
-  `--user-data-dir` per run, and wait for the PNG: it appears after the launcher exits.
+  browser preview (bridges serve one; otherwise `npm run preview`, both with a shim for the
+  iCUE globals), then full-size screenshots. `npm run shot -- <name>` drives headless Edge over
+  the DevTools protocol: it loads the real `file://` page, waits for `window.__widgetReady`,
+  and fails on console errors. Plain `msedge --headless=new --screenshot` also works for static
+  widgets, but fires before WebGL scenes have drawn (use a fresh `--user-data-dir` per run).
+- Widgets with generated files (bundles, meshes, compiled content) git-ignore them and make
+  them in `widgets/<name>/build.mjs`; `scripts/widgets.mjs` runs it before validate and package.
+  Bundle ES modules into one classic script (esbuild `format: "iife"`): the validator compiles
+  every referenced `.js` as a classic script.
 - Node ≥ 20 and ES modules for tooling and bridges. Bridges have no runtime dependencies and
   use `node:test` for tests.
 - Windows-specific traps on this machine:

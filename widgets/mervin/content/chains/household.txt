@@ -1,0 +1,228 @@
+# Household chains: Earth homes, DIY and cleaning.
+
+@chain the-spare-screw
+@topic diy
+@start idle
+- I built the bookcase. It's done. It's standing up and everything.
+  | Big news. The flat-pack bookcase is finished.
+- Only thing is, there's one screw left over.
+  | But there's a screw. Just the one. Left over.
+- I've looked at every bit of the bookcase. Every hole has a screw. Every screw has a hole. Apart from this one.
+  | I've checked every corner. Nothing wobbles. Nothing has a little empty hole.
+- So either the bookcase didn't need it, or it's holding something together I can't see.
+  | Maybe it's a spare. Or maybe it's the most important screw and the bookcase is just being brave.
+-? I asked Barry. He didn't say anything. He's a plant. He did look thoughtful, though.
+- I've put it on the top shelf. That way it's still sort of part of the bookcase.
+  | I've put it in a little dish on the middle shelf. Where it can keep an eye on things.
+= So, yeah. The bookcase and the screw are both fine. I'm not going to touch either of them again.
+  | Anyway. Lovely bookcase. One spare screw. Everybody's happy. I'm going to sit down.
+
+@chain back-of-the-sofa
+@topic home
+@start act:loungeSofa
+- <act:loungeSofa> I'm going in. Down the back of the sofa.
+  | <act:loungeSofa> Right. I've decided to explore the back of the sofa.
+- It's warm down there. First thing I found: {homeLostThing.a}. Good start.
+  | My hand's in up to the wrist. First find: {homeLostThing.a}.
+- Then {homeLostThing.a}, and a crumb so old it might be a pebble now.
+  | Then {homeLostThing.a}. I don't know whose it is. I think it's the sofa's now.
+-? Then some coins. Enough for half a biscuit, I reckon. Big day.
+- Further down it goes quiet. Just fluff, and a feeling I'm not the first one to come this way.
+  | There's a bit at the very back my fingers can't reach. I've decided that bit is private.
+- I put everything back. It's their home. I was only visiting.
+  | Then I put it all back, apart from the crumb. The crumb wanted to stay anyway.
+= Anyway. The sofa's got a whole life I knew nothing about. I'll sit on it very gently from now on.
+  | So, yeah. Lovely sofa. Deep, in every sense. I'll leave it in peace.
+
+@chain lost-keys
+@topic home
+@start idle
+- I've lost my keys. Well. They've wandered.
+  | Can't find my keys. I'm not worried. Just noticing.
+- I looked in the key bowl. That's where keys go. They weren't in it. Very independent keys.
+- Then I looked in all the places I'd put them. Then all the places I wouldn't.
+  | I checked my shorts. All {n:4-6} pockets. Twice.
+-? I asked Kevin. He did a little loop of his bowl. I don't think that was a yes.
+- In the end they were in the door. The actual door. Where I'd left them last night.
+  | They were in the fridge, next to the butter. Being very cold about it.
+-? I must have put them there. I don't remember. I was probably thinking about clouds.
+- On {planet} doors are more of a suggestion, so nobody bothers with keys. Here a door means business.
+= Anyway. Keys are back in the bowl. We're all going to have a quiet afternoon.
+  | So, yeah. Found them. I'm going to hold them for a bit so they know they're wanted.
+
+@chain walking-the-hoover
+@topic cleaning
+@start idle
+- I've been hoovering. Or I've been walking the hoover. Hard to say which.
+  | Did a bit of hoovering. Well. The hoover and I went for a walk round the flat.
+- It follows me everywhere on its little wheels. Bumps into my heels like it wants a cuddle.
+  | It comes everywhere with me. Little wheels. Long hose. Very loyal.
+- Kevin watched the whole time from his bowl. I think he thinks it's a very big fish.
+  | Barry got nervous when it came near. I told him it doesn't eat plants. I'm fairly sure that's true.
+-? It went under the sofa and came out making a noise I'd never heard before. We don't talk about it.
+- When I switch it off, the whole flat goes very quiet. Like everybody's breathing out at once.
+= Anyway. Floor's done. Hoover's back in its cupboard. I'm going to lie on the carpet and admire it.
+  | So, yeah. Good walk. I mean, good hoover. It's having a rest now, and so am I.
+
+@chain bath-taps
+@topic home
+@start idle
+- The bath has two taps. Hot and cold. You'd think that'd be simple.
+  | Can I tell you about the bath taps? There are two, and they don't really talk to each other.
+- The hot one's far too hot. The cold one's far too cold. So you need both at once, which is a lot of commitment.
+- You swish it about with your hand, like a very big cup of tea. Then you test it with your elbow, for some reason.
+  | You stir it with your arm, like soup. Except you're about to be the soup.
+-? Back home, my mum just drizzles until the bath's full. Lukewarm, but very kind.
+- By the time I got it right, half of it had gone cold. So I added more hot. Then it was too hot again.
+  | It took me {n:20-40} minutes to get it right. Then I sat in it for about four.
+= Anyway. I had a lovely bath in the end. A short one. I'll get it right next time. Or the time after.
+  | So, yeah. Baths take a lot of tap work. Worth it, though. I'm going to sit down about it.
+
+@chain spin-cycle
+@topic cleaning
+@start idle
+- I put a wash on.
+  | I've got some washing on. I'm watching it.
+- You can see your clothes going round through the door. Like telly, but it's your socks.
+  | There's a window in the front, so you can watch. My shorts have been round {n:30-90} times.
+- First they go round slowly, having a chat. Then it gets bubbly. Then everything goes quiet for a bit.
+  | It starts off gentle. Some sloshing. A few bubbles. Very relaxing.
+- Then the spin. The whole machine shakes like it's laughing at something.
+  | Then it does the fast bit. Everything rattles. It sounds like it's having the best day of its life.
+-? I put my hand on it to keep it company. It was very warm. Very busy.
+- Then it stops, plays a little tune, and waits for you to open it. Very proud of itself.
+= Anyway. The clothes are clean, the machine's pleased with itself, and I'm worn out from watching. Nap time.
+  | So, yeah. Best programme on all day. Apart from you, obviously.
+
+@chain sock-theory
+@topic home
+@start idle
+- I've got a theory about socks.
+  | Can I tell you my sock theory? It's been brewing a while.
+- Every time you do a wash, one sock goes missing. Just one. Never the pair.
+  | You put a pair in the wash. One comes back. Every single time.
+- I've checked the machine. I've checked under the machine. I've checked the cupboard it lives in.
+- So I don't think they're lost. I think they've gone somewhere. On purpose.
+  | My theory is they're leaving. They've heard about somewhere better.
+-? Maybe there's a little town made entirely of single socks. With a high street and everything.
+- On {planet} things don't go missing. They just move somewhere more comfortable, and you visit them.
+= So I've stopped looking. Wherever they've gone, I hope there's a radiator. Anyway. I'm having a sit.
+  | Anyway. Good luck to them. I've put the ones that stayed in a drawer and called it a home.
+
+@chain through-the-wall
+@topic home
+@start idle
+- I can hear next door through the wall.
+  | The walls here are quite thin. I've been listening. Nicely.
+- This morning there was {homeNoise}. Then a long pause. Then {homeNoise}.
+- I don't know them. I've never seen them. But I feel like I know their day.
+  | I've never met them. But I know when they've had a late night. And when there are biscuits.
+-? Once they laughed at something and I laughed too. I didn't know what at. It was still nice.
+- On {planet} my neighbour's a hill called Hob. Very quiet. Grows the odd tree.
+  | Back home my neighbour Hob is a bit of a hill. You never hear a thing from him. Just a low rumble on his birthday.
+- So I knocked on the wall. Softly. Twice. And they knocked back.
+= Anyway. We're friends now, I think. Wall friends. That's enough for me.
+  | So, yeah. Lovely neighbours. Never met them. Wouldn't change a thing.
+
+@chain bleeding-the-radiator
+@topic diy
+@start idle
+- The radiator was cold at the top and warm at the bottom.
+  | One of the radiators had gone a bit lukewarm on top.
+- Someone told me it needed bleeding. That sounded very serious. It isn't. It's mostly letting air out.
+- There's a tiny key for it. It doesn't open anything. It just lets the radiator sigh.
+  | You need a special little key. Smallest key in the flat. Most important job.
+- I turned it, and it hissed for ages. Like it had been holding its breath for months.
+  | It went "tsssss" for about a minute. Then a little drop of water came out to say it was done.
+-? I held a tea towel under it the whole time. Very professional. I've seen people do that.
+- Now it's warm all over. I put my hand on it and it felt very relieved.
+= So, yeah. My first bit of plumbing. I'm going to sit next to the radiator and take it easy.
+  | Anyway. Warm radiator. Calm radiator. Calm me. Good afternoon's work.
+
+@chain duvet-cover
+@topic home
+@start idle
+- I changed the duvet cover today.
+  | I tried to put a new duvet cover on. Get comfy, it's a long one.
+- First you turn the cover inside out. Already, I'm worried.
+  | You start by turning the whole cover inside out, which seems a strange way to begin.
+- Then you reach in, grab the corners of the duvet, and sort of shake everything.
+  | Then you hold two corners and flap it about like you're trying to get its attention.
+- At some point I was inside the cover and the duvet was outside. That wasn't the plan.
+  | Halfway through, I couldn't find the duvet. Then I realised I was in the cover. On my own.
+-? It was quite cosy in there. Pink. Like being inside a cloud I'd give a ten.
+- In the end I got it on. Mostly. One corner's still a bit empty. That's its spare room.
+= Anyway. The bed's made. It's lumpy, but it's ours. I'm going to get in it and not think about it.
+  | So, yeah. Duvet: on. Me: exhausted. That's a nap earned, that is.
+
+@chain mystery-switch
+@topic home
+@start idle
+- There's a switch on the wall that doesn't do anything.
+  | Have you noticed the switch by the door? The one that doesn't do anything?
+- I flicked it. Nothing. I flicked it back. Still nothing.
+- I checked every light in the flat. All the same. The fridge didn't notice. Kevin didn't notice.
+  | I walked round the whole flat to see what had changed. Nothing had changed. I checked twice.
+-? Maybe it turns something on next door. Maybe they've got a light that comes on and off and they don't know why.
+- Maybe it used to do something, years ago, and it's just keeping its hand in.
+  | Maybe it's for something that hasn't been invented yet. It's waiting.
+= So I've decided to leave it on. Or off. Whichever it was. It's having a nice rest either way.
+  | Anyway. I flick it once a day now, so it feels involved. Good switch.
+
+@chain moving-the-sofa
+@topic home
+@start idle
+- I've moved the sofa.
+  | I had a big idea today. I moved the sofa.
+- Only about {n:10-30} centimetres. But the whole room feels different. Like it's had a haircut.
+- Underneath, there was a bit of floor I'd never met. Very pale. Very shy.
+  | Where it used to be, there's a patch of carpet that looks like it's just woken up.
+- There were four little dents where its feet used to be. Footprints, from when it lived there.
+-? Also {homeLostThing.a}. Of course. The sofa always has one more.
+- I sat on it in the new spot. It felt like sitting on a sofa in someone else's flat.
+  | I sat on it for a while. Same sofa, but it was looking at a different wall.
+= So I moved it back. The dents fitted perfectly. Everyone's much happier now.
+  | Anyway. It's back where it was. Some things are just right first time.
+
+@chain the-post
+@topic home
+@start idle
+- The post came this morning.
+  | Something came through the letterbox earlier. Big moment.
+- Three leaflets, a catalogue, and a letter for someone called {Mrs Hollins|D. Pemberton|Gareth}.
+  | Mostly leaflets. One for windows, one about bins, and one asking if I'd like a new kitchen.
+- The letter isn't for me. It's for someone who used to live here, I think.
+- I've put it on the side with the others. There are {n:5-14} now. A little tower.
+  | I keep them all in a pile by the door. In case they pop back for them.
+-? I sometimes wonder what they were like. I imagine they had a nice kettle.
+- On {planet} the post comes by breeze. It can take years. Nobody minds. It all gets there in the end.
+= Anyway. If they come back, their letters are ready. That's all you can do, really.
+  | So, yeah. I'm looking after someone's post. It feels quite important. I'm going to sit near it.
+
+@chain house-noises
+@topic home
+@start night
+- It's quiet. But the flat's making little noises.
+  | Can you hear that? The flat's ticking.
+- A creak from the floor. A click from the radiator. A little hum from the fridge.
+- At first I thought something was wrong. Then I realised it's just the flat getting comfy.
+  | I used to think it was someone moving about. It's not. It's just the flat having a stretch.
+-? Like when you turn over a few times before you drop off.
+- On {planet} houses don't creak. They sort of snore. Very softly. Ours snored in a lovely low note.
+= So, yeah. Everyone's settling down. The flat, Kevin, Barry. Me next, I reckon. Night.
+  | Anyway. If the flat's going to sleep, I'd better go too. Good night, flat.
+
+@chain repotting-barry
+@topic home
+@start act:waterPlant
+- <act:waterPlant> Barry's pot is getting a bit small for him.
+  | <act:waterPlant> I think Barry needs a bigger pot. His roots are coming out the bottom, saying hello.
+- Repotting, it's called. Moving house, for plants.
+- I told him about it a week ago so he'd have time to get used to the idea.
+  | I gave him plenty of notice. You can't just spring a new pot on someone.
+- He was very calm. I was the one fussing. I had soil up to my elbows.
+  | It went fine. Barry didn't say a word. I said quite a lot of words, mostly "steady".
+-? There was soil on the rug, soil on the sofa and, somehow, soil in my ear.
+- He's in now. Big new pot. He looks taller already. Might be the pot.
+= Anyway. Barry's settled in. I'm going to give him a day or two before I ask how he likes it.
+  | So, yeah. New pot, same Barry. I'm proud of him. I'm going to wash my ear.

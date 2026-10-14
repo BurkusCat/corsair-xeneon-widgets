@@ -1,0 +1,411 @@
+# Human customs, work and time, seen from the sofa (writer: customs).
+# Categories: earth.customs, earth.work, earth.time, earth.idioms, planet6.customs.
+
+@category earth.customs
+@tags
+
+# The bus, trains, commuting
+Everyone gets on the same bus at the same time and then nobody says a word. A very quiet party on wheels.
+The bus says where it's going right on the front. {Very honest vehicle|No secrets at all}. I'd trust it with anything.
+Someone ran for the bus today and the driver waited {n:3-9} whole seconds. I had to have a sit-down. Very moving.
+You press the bell on the bus to say "me next". Then everyone looks at you. Bit of pressure, that.
+The quiet carriage is a bit of train where everyone agrees to be a library. I'd live there if they let me.
+{job.a.cap} on the train fell asleep sitting bolt upright. I nearly clapped. Didn't, though. Quiet carriage.
+Bus drivers wave at other bus drivers as they pass. It's a secret club. I would very much like to be in it.
+"Mind the gap," the train said. So I do. I think about that gap most days now. I hope it's all right.
+I stood at the bus stop for {n:2-14} minutes. A bus came. I didn't get on. It was just nice to be included.
+When the bus is late, everyone at the stop leans out to look for it at once. Like a little choir of necks.
+Everyone at {place} was in a hurry today. I walked through the middle very slowly, like a calm little island.
+
+# Queues
+Someone pushed in at {place} and about {n:9-14} people tutted at once. Very quiet thunder.
+"Is this the queue?" might be the friendliest question on Earth. Everyone wants to help with that one.
+At {place}, a queue forms without anyone asking. Nobody organises it. It just grows, like moss.
+
+# Small talk
+Somebody asked if I'd had a busy day. I said I'd watered a plant. They nodded like I'd climbed a hill.
+The trick to small talk is saying "can't complain" and then not complaining. That's honestly the whole thing.
+"Cold one today," a man said. I agreed, then asked which one. He went quite quiet.
+"Not bad" means good. "Not too bad" means bad. "Could be worse" means it's Tuesday. I'm getting there.
+A lady said "{customSmallTalk.cap}" to me at {place}. I said it back. I think we're basically friends now.
+"We should get a coffee sometime" means "I like you, from about here". I've worked that out now.
+Someone at {place} said I had {a kind|a very calm|a nice round} face. I've been wearing it carefully ever since.
+
+# Manners
+"After you." "No, after you." Two people did this at a door for {n:2-4} whole minutes. Most polite standstill I've seen.
+Everybody thanks the bus driver on the way off. The driver says "cheers". The bus says nothing. Shy, I think.
+It's rude to ask someone's age here. On {planet} you ask how old they feel. My nan usually says "about a Tuesday".
+You're meant to cover your mouth when you yawn. I cover my ears. They're the bit that gets tired.
+Nobody takes the last biscuit here. It's a big moral moment. I left it. It's still there. It's been {n:3-9} days.
+Someone held a door open for me from very far away, so I had to jog. We both said thanks. A lot, for a door.
+When someone sneezes here, everyone says something kind. When I sneeze, my ears flap, and nobody knows what to say.
+"I'll let you go," you say on the phone, when it's you who wants to go. Kindest way of leaving I've ever heard.
+Saying goodbye here takes ages. You say bye in the kitchen, then by the door, then once more by the {gate|car|bins}.
+You bring something when you visit someone's house. Flowers, maybe. I brought {householdObject.a}. They were very nice about it.
+Pass the same person twice in {the supermarket|a shop|the library} and you have to do a little laugh the second time. It's the law.
+Everyone waves at boats. Every boat. Nobody knows the people on them. Still wave. Lovely custom.
+Seeing someone you know at {place} is a huge shock here. You both say "oh, hello" like you've been caught.
+Libraries have one rule: be quiet. I hummed for {n:2-9} seconds before somebody looked at me. Very gently, though.
+
+# Handshakes and hugs
+A handshake is two people holding hands for a second and then acting like it never happened.
+Everyone wants a firm handshake here. A soft one worries them. Back home everything's soft. Even the ground.
+A high five with me is a high four. Nobody seems to mind. Still counts, I reckon.
+A hug here lasts about two seconds, then there's a pat on the back so you know it's finished. Like a full stop.
+
+# Saying sorry
+I trod on someone's foot at {place} and they said sorry. To me. I said sorry back. We could've been there all day.
+"Sorry" here means about forty different things. One of them is sorry.
+I counted {n:3-14} sorries on the bus today. Nobody had bumped into anyone. It was just general sorry.
+
+# Holidays
+Going on holiday here means packing your whole house into a small bag and going to sit somewhere else.
+Postcards say "wish you were here", but they never send a ticket. I'd have gone, honestly.
+Lying very still in the sun for hours on holiday? That's competitive lying down. You lot have real talent.
+A staycation is a holiday where you don't go anywhere. I've been on one since I got here. Highly recommend.
+Bank holidays are days off the bank gives everyone. Very generous of the bank. I keep meaning to write and thank it.
+Holiday reading is a book you take away and bring back with the bookmark in exactly the same place.
+
+# Birthdays and parties
+You light candles on a cake, then blow them out, and everyone cheers like you've won something. You have, I think.
+At a birthday, everyone sings at you and you just have to stand there and take it. Bravest thing I've seen.
+Birthday cards have the number on the front, in case you've forgotten how old you are. Very thoughtful.
+Pass the parcel is a present wrapped so many times it takes a whole party to open. Very patient tradition.
+"You shouldn't have," everyone says when they get a present. Then they keep it. I'm still working on that one.
+A surprise party is where everybody hides in the dark, waiting for you. Very kind. Also very alarming.
+At the end of a party you get a party bag. A bag with a bit of the party in it. I'd keep mine for ever.
+They told me to make a wish, so I did. Then they said not to tell anyone. So now I'm just carrying it around.
+A good party needs {customParty.pl}, a bit of music and someone's uncle dancing on his own. That's the recipe.
+A party's over when someone puts the big light on. Everyone blinks and finds their coat. Very gentle ending.
+
+# Presents
+A gift receipt means "I love you, but I've also thought this through."
+You shake a present to guess what's in it. Then you open it and say "oh, {customGift.a}" like you hadn't heard it rattle.
+{customGift=g.a.cap} with a bow on it is just {g.a} in its best clothes.
+Someone gave someone else {customGift.a} and they both said "oh, you didn't have to". Then they hugged. Strong scenes.
+{customGift=g.a.cap} is the classic present here. Everyone's got {n:2-9} {g.pl}. Nobody knows where they came from.
+
+# School and exams
+An exam is when everybody goes into a big quiet room and panics very politely.
+Children get gold stars for good spelling. On {planet} a gold star is an actual star, so it's a bit much for spelling.
+Show and tell is where you bring something into school and explain it. I'd bring Kevin. He'd hate it.
+Homework is school that follows you home. Like a cat.
+In maths you have to show your working. On {planet} we show our resting. You get marks for how comfy you look.
+A packed lunch is {food=f.a} that waits in a box for you all morning. Very loyal {f}.
+Children put their hands up to speak in class. I've been trying it here. Nobody's picked me yet. Early days.
+On sports day you carry an egg on a spoon as carefully as you can, but also fast. I love a contradiction.
+
+# Shopping
+The self-service till kept saying "unexpected item in the bagging area". It was me. I was the unexpected item.
+A shopping list is a letter from your past self saying "please get {eggs|milk|biscuits}".
+You nip to {the shop|the corner shop|the supermarket} for one thing and come out with seven. I think shops are slightly magnetic.
+A bag for life. A bag you promise to keep for the rest of your life. Big commitment, for a bag.
+There's a whole aisle in the supermarket just for {food.pl}. I stood in it for a while. Felt very looked after.
+The man in the corner shop calls me "mate". I told him it's Mervin. He said "I know, mate".
+
+# Money and paying
+Splitting the bill takes longer than the meal. There's a calculator and everything. It's basically a ceremony.
+Tipping is giving someone a bit extra for being nice. On {planet} we tip with a short hum. Nobody's ever complained.
+Receipts get kept "just in case", for years. Whole drawers of just-in-case. I find that quite moving.
+
+# Clothes, shoes, ties and hats
+A tie is a scarf that stopped trying to keep you warm and went into business instead.
+Wellies are boots for standing in puddles on purpose. Best thing on Earth that isn't a sofa.
+Hats here mean things. A hard hat means building. A sun hat means holiday. A party hat means cake is coming.
+Bobble hats have a little ball on top for no reason. The reason is joy, I think.
+A cardigan is a jumper that's opened up to you. Very trusting garment.
+A dressing gown is a coat you're only allowed to wear indoors. Most relaxed coat there is. Whoever invented it, thank you.
+My gold chain is formal wear on {planet}. Here everyone thinks I'm off somewhere fancy. I'm off to the kitchen.
+Pockets are little bags sewn onto your clothes. Shorts with pockets changed my life. I keep {food.a} in one.
+Flip-flops are named after the noise they make. Best bit of naming on Earth.
+Gloves have five fingers each. I've got three and a thumb, so one finger in each glove just gets a rest.
+Someone said I should wear {customClothing.a} to look the part. I asked which part. Still waiting to hear.
+I tried on {customClothing.a} today. Looked in the wardrobe mirror. We both agreed it was a lot.
+The first time I saw {a cardigan|a pair of wellies|a waistcoat|a scarf}, I wore it as a hat. Got loads of compliments. Nobody corrected me.
+Sunday best is your nicest clothes, for Sundays. Mine's the same shorts, but I've had a good think about them.
+
+# Haircuts
+You pay someone to cut your hair, then say "lovely, thanks" even when it isn't. That's real kindness, that.
+A haircut is going in with more head and coming out with less. Everyone looks a bit surprised in the mirror.
+
+# Sport and games
+If your team wins at football, you've won, even if you were on the sofa. I've won loads of football.
+Cricket can go on for five days and then nobody wins. Honestly, that's the most relaxing thing on Earth.
+Golf is a long walk where you keep stopping to knock a small ball into a small hole. I'd just carry it there.
+Snooker's so quiet that even the commentators whisper. Finally, a sport for me.
+In tennis, "love" means nothing. Kindest scoring system in the galaxy.
+I watched some {customSport} through a shop window. Didn't follow it, but everyone tried hard. {cloudScore.cap}.
+Board games here make families argue. Ours are mostly about lying on the board. Nobody argues. Nobody moves.
+Hide and seek is my favourite Earth game. I hid behind Barry for {n:2-14} hours. Kevin was seeking. I don't think he knew.
+Fans paint their faces in their team's colours. I'm blue already, so I support anything blue. Saves on paint.
+The referee blows a whistle and everybody stops. I can't whistle. If I refereed, the game would just keep going.
+Chess is where you think for ten minutes and then move a little horse sideways. I'm very good at the thinking bit.
+{customSport.cap} looks lovely, but nobody lies down at any point. On {planet}, that'd be the main bit.
+
+# Hobbies
+A hobby is something you do for fun, on purpose, that isn't your job. Mine's lying down. It's also my sport. Efficient.
+Someone told me their hobby is {customHobby}. I said mine's the sofa. We nodded at each other with respect.
+Knitting is turning one long string into a jumper, very slowly. I could watch it all afternoon. I have.
+A jigsaw is a picture someone broke up so you can fix it. Then you break it up again. Never ends. Lovely.
+Train spotters write down the numbers of the trains going past. The trains don't know. It's a secret fan club.
+Gardening is putting a seed in the ground and waiting. Barry was a seed once. Now look at him.
+Stamp collecting is keeping tiny pictures you're meant to lick. I've started a collection. It's one stamp. Going well.
+Model railways: tiny trains in the loft, tiny people on tiny platforms. Even the tiny trains are late. Very realistic.
+Fishing is a hobby here. I haven't mentioned it to Kevin. He doesn't need to know.
+Metal detecting is walking round a field with a beeping stick. Mostly you find ring pulls. Such a hopeful hobby.
+My neighbour took up {customHobby} to relax. She seems quite stressed about it. I think that's part of it.
+The man over the road does {customHobby} every {weekday}. Same time, same face. I find it very comforting.
+
+# Music and dancing
+A disco is a room where the lights can't decide on a colour, so everyone dances to help them.
+Slow dancing is two people swaying gently. Back home, that's just standing.
+Humming is what you do when you don't know the words. Back home humming is the words. And also money.
+Apparently dad dancing is a whole style. My dad's a low hum, so his dancing is mostly a vibration.
+
+# Names
+Here you get a first name, a middle name and a surname. I've only got Mervin. It's plenty.
+Someone forgot my name and called me "pal". Then "boss". Then "chief". We got there in the end, sort of.
+Names go on mugs at work, so nobody uses the wrong one. The mugs belong to people. I find that very touching.
+My full name back home takes about a nap to say. Mervin's just the bit at the start, before you take a breath.
+You name boats and houses here, but never the small things. I've named the {householdObject}. Haven't told it yet. Feels too soon.
+
+# Post and cards
+The postman pushes letters through a hole in your front door. On purpose. A hole. In a door. Very trusting.
+A card that says "thinking of you", then no word for a year. That's a nice steady amount of thinking.
+Stamps go in the top right-hand corner. I've never asked why. I just respect the corner.
+There's a card for everything here. New house. New job. New baby. I'm still looking for one that says "nice cloud".
+I've written a postcard home about {earthThing.pl}. It's for {relative}. It's mostly underlining.
+
+# Sleeping lying down
+You lie down flat for eight hours every night. Back home that'd be a regional record. You'd get a little cup.
+Pillows: you've got about four and you use one. The rest are a sort of backup band.
+"Sleep tight," everyone says. I've tried. I'm quite loose, honestly.
+Bedtime stories are read to you so you fall asleep and miss the end. I've never finished one. Lovely system.
+
+@category earth.work
+@tags
+Meetings sometimes end by booking another meeting. Like they're starting a little family.
+"Let's take this offline," they say at work. Then they go and stand by the kettle.
+Every office has one plant. Nobody waters it. Everybody thinks somebody else does. Barry would never stand for it.
+Back-to-back meetings, someone said. I pictured everyone sitting back to back. Like a little fort.
+I asked {job.a} what they do all day. They told me. Then I told them about clouds. Very polite, both ways.
+If I were {job.a}, I'd be a slow one. Really thorough, though. Nobody would ever complain.
+I asked {job=j.a} what they do at the weekend. "Not being {j.a}," they said. Fair enough.
+A "quick call" is never quick. Sometimes it's not even a call. It's more of a long hum. I'd fit right in.
+A lunch break is half an hour eating {food.a} at the desk you've been at all morning. Like a picnic, but beige.
+Getting promoted means a slightly bigger chair and more meetings. Everyone seems pleased. I'd take the chair.
+At a job interview they asked where I see myself in five years. I said probably on the sofa. They wrote it down.
+"You're on mute" might be the most said sentence on Earth. I'm always on mute. You can't hear me through the glass.
+"Per my last email," someone wrote, very calmly. There's a bit of weather in it, though. My mum would approve.
+Annual leave is days off you have to use before the year ends, or they disappear. Like moon jelly.
+Hot-desking means nobody has their own desk. You just sit wherever. That's how {planet} does queues, but with chairs.
+Every office kitchen has a sign saying "your mum doesn't work here". Mine's mostly weather, so that's true everywhere.
+A lanyard is your name on a string round your neck, so the doors know who you are. Doors here are very strict.
+A sticky note on a screen that just says "remember". Remember what? It doesn't say. Lovely little mystery.
+On the first day of a job they say you'll "learn the ropes". No ropes. Just a login and a mug.
+Birthdays at work: the birthday person brings in cake for everyone else. Generous system. Upside down, but generous.
+"I'll circle back," they say. I've watched. They don't circle at all. They walk off in a fairly straight line.
+Some offices have a wellbeing room. It's a room with a beanbag in it. That's my whole flat. I'm extremely well.
+Working from home is new here, apparently. I've never done anything else. I'm a pioneer, really.
+Being "in the zone" means working so hard you forget lunch. On {planet}, that's against the law.
+A desk with a photo, a plant and a mug on it is a tiny flat. Inside the office. I love that.
+Job adverts say "fast-paced environment" like it's good. I'd apply for a slow-paced one. Top of the list.
+{job.a.cap} doesn't get to rate a single cloud all day. I don't know how they manage. Very dedicated.
+Someone asked if they could borrow me for a minute. That was {weekday}. I'm still waiting to be given back.
+
+@category earth.time
+@tags
+A calendar is a list of every single day, in case one tries to sneak past.
+Some months have thirty days, some have thirty-one, and February does its own thing. I've got a lot of time for February.
+"Where did the time go?" everyone asks. I've looked under the sofa. It's not there either.
+A fortnight is two weeks. You've got a special word for it. Back home that's quite a short nap.
+"Two ticks," someone promised. I counted. It was a lot more ticks than that.
+Morning people, night people. I'm a sofa person. It's a third option. Not many know about it.
+"Fashionably late" means late, but in nice shoes.
+"Five minutes away," they say, still putting their shoes on. It's a kind sort of fib.
+I set an alarm once. When it went off, I said "thank you" and went back to sleep. Seemed rude not to.
+Some people set {n:3-6} alarms. One to wake up, the rest to check. That's not a clock, that's a team.
+Ten seconds before New Year, everyone counts down together. It's the most anyone here agrees on anything.
+"Better late than never," you say. I've been saying "better never than rushed". It hasn't caught on yet.
+"What day is it?" someone asks, and someone says "{weekday}", and that settles it for everyone. Lovely teamwork.
+I've circled today on the calendar. Nothing's happening. I just wanted {weekday} to feel noticed.
+It's {time}. Back home that wouldn't be a time. It'd be more of a mood.
+It's {partOfDay}. I've checked with the wall clock. We agree, for once.
+There are fifty-two Mondays in a year. I counted. I'm not sure why. I felt I should know.
+"Half past" and "quarter to". You talk about the hour like it's a cake you're cutting.
+You've got words for yesterday and tomorrow, but not one for the nap after lunch. We've got eleven.
+"Make time for yourself," they said. I tried. I only made toast.
+Time is money, they say. On {planet} money's a hum and time's a nap. So a nap is a hum. I've confused myself.
+A deadline on {planet} is more of a soft line. You can step over it and nobody minds.
+Everyone's got a clock on the oven, a clock on the phone and a clock on the wall, and none of them agree.
+
+# Weekdays and weekends
+@category earth.time
+@tags Monday
+It's Monday. The clock's being extra pushy today. I've asked it to tick a bit more quietly.
+"It's a Monday," you say, about anything that goes wrong, even on other days. Monday's carrying a lot.
+I gave Monday a little wave this morning. Nobody else does. Must be lonely, being Monday.
+Monday again. I've decided to be very gentle with it. It's doing its best.
+Monday's when everyone asks "how was your weekend?" and nobody can remember. Lovely ritual, though.
+
+@tags Monday, morning
+Monday morning. Every kettle in the country is working twice as hard. Spare a thought for the kettles.
+
+@tags Tuesday
+Tuesday. Nobody has strong feelings about Tuesday. I've decided to like it. Somebody has to.
+Tuesday's a good day for doing one small job really well. That's my plan. The job is a sit-down.
+
+@tags Wednesday
+Wednesday. Halfway. Like standing on a bridge between two weekends. Best not to look down.
+
+@tags Thursday
+Thursday's basically Friday's warm-up act. It doesn't get nearly enough credit.
+On a Thursday everyone starts saying "nearly there". Nearly where, I keep asking. The weekend, apparently.
+
+@tags Friday
+Friday. Everyone's lighter today. Not floating. But lighter. You can see it in the shoulders.
+"Have a good weekend," everyone says on Friday, like handing over a present. I say it back very sincerely.
+Some offices have cake on a Friday for no reason. Just because it's Friday. Most sensible rule on Earth.
+Dress-down Friday: weekend clothes at work, like a preview. I wear mine all week. I'm well ahead.
+The Friday feeling. I've got it too. It's like warm glorp, but in your chest.
+
+@tags Friday, afternoon
+Friday afternoon. Offices go all soft round the edges. Bit like {planet}, actually.
+
+@tags Friday, evening
+Friday evening. Everyone's calling it the weekend already. Bit early, but I admire the enthusiasm.
+
+@tags Saturday
+Saturday. Everyone's out washing cars and mowing lawns. Very busy way of having a rest.
+On Saturdays everyone goes "into town". I've never found out which town. It's always just "town".
+
+@tags Sunday
+Sunday. Everyone's being slow on purpose. I've trained for this my whole life.
+Sunday lunch takes four hours to make and twenty minutes to eat, then everyone needs a lie-down. Correct.
+
+@tags Sunday, evening
+Sunday evening is when everyone remembers Monday's coming. Like a little cloud drifting over. A six, maybe.
+
+@tags Sunday, night
+Sunday night. Somewhere, a school bag is being packed in a hurry. Good luck, small person.
+
+@tags weekend
+Weekend. I'm doing exactly what I do in the week, but with more conviction.
+Weekends here are only two days. You lot pack so much in. Big shop, DIY, visiting an auntie. I'm tired just watching.
+
+@tags weekend, morning
+A lie-in. If you lived on {planet}, this morning alone would cover your rent till Tuesday.
+
+@tags weekday
+It's a weekday, so you've probably got things on. I've got one thing on. It's a hat.
+Weekdays are the ones with alarms in them. I switched mine off. It took it very well.
+
+# Times of day
+@category earth.customs
+@tags morning
+Mornings here start with an alarm, then a kettle, then a sort of grunt. I've learned the grunt. Nearly fluent.
+Morning. Somewhere, someone's running for a bus with {toast|a crumpet|half a croissant} in their mouth. I hope they make it.
+Coffee on the morning bus gets held like a small warm pet. Both hands. Very gentle.
+"I'm not a morning person," you say. Then you're a person anyway, all morning. Very brave.
+
+@tags afternoon
+There's a dip around three in the afternoon. Everyone goes quiet. Back home that's a national nap.
+Afternoon. Somewhere in an office, someone's asking "anyone want a biscuit?" Heroes, every one of them.
+The school gates fill up with grown-ups about now. Then a rush of small people holding wet paintings.
+Teatime. Back home afternoons last as long as you want, so teatime can go on for days.
+
+@tags evening
+Evening. Everyone's getting home and kicking their shoes off at the door. Best moment of an Earth day, I reckon.
+This is the part of the evening where you say "just one more episode" and then watch {n:3-6}.
+In the evening you change into comfy clothes. Your real clothes. The day ones were a sort of costume.
+Evening. People are looking in the fridge and calling it "deciding what to have for tea". Long decision.
+
+@tags night
+It's late. Your alarm's probably set for the morning. I won't tell it you're still up.
+"Early night tonight," everyone says. Then nobody has one. It's more of a wish than a plan.
+Night. This is when people lie awake going through tomorrow's list. Mine's got one thing on it. Sleep.
+
+@category earth.idioms
+@tags
+"Over the moon," someone said. Which one, though? We've got fourteen. I'd go over {moonName}, personally.
+"Once in a blue moon," you say. We had a blue moon once. It was just Gary having a funny week.
+"Keep your hair on," someone said. I haven't got any. I'm keeping it on very well, I think.
+"Hold your horses." I haven't got any horses. I held {householdObject.a} instead, just in case.
+It "cost an arm and a leg", they said. Gosh. Back home I'd have paid with a nap. Much less to lose.
+"I'm all ears," people say. They're not. I am, though. Mostly ears. Nice to be included.
+Someone asked me to lend them an ear. I would, but they swivel. It'd keep looking back at me.
+"On cloud nine," they said. Cloud nine is a solid cloud. I give out loads of nines. Glad people are enjoying them.
+"Head in the clouds," someone said about me. Yes. That's my job. I'm a professional.
+"Under the weather," someone said. I asked if they were under my mum. She does get everywhere.
+"Let's touch base," they said. I touched the base of the {lava lamp|kettle|floor lamp}. Nothing happened. I'll try again later.
+"Sleep on it," they said. I slept on the letter. It was creased in the morning. Still didn't know.
+"Bob's your uncle," they said. He isn't. My uncle's Gev. Nobody ever mentions Gev.
+Someone had "cold feet" before their wedding. I offered my slippers. Apparently it's not that sort of cold.
+I went "the extra mile" today, like they said. The extra mile was mostly {place}.
+Someone said my glorp was "out of this world". I said yes, it is. They thought I was being modest.
+"It's not rocket science," everyone says. My ship's the size of a biscuit tin. That's not rocket science either.
+"Put your feet up" is the best instruction on Earth. I do it whenever anyone says it. And sometimes when they don't.
+"Got out of bed on the wrong side." There's a wrong side? I've been picking at random. Explains a lot.
+"We're all in the same boat," someone said. We weren't. We were on the bus.
+"Take a seat," they said. So I did. It's in my flat now. Nobody's asked for it back.
+Someone said they were "pulling my leg". They weren't anywhere near it. I checked.
+"The early bird catches the worm." I don't want a worm. I'll have a lie-in, thanks. The bird can have it.
+I said I'd "wing it". No wings. Just some very confident arms.
+You "throw" parties here. I wouldn't. Parties are delicate. You carry them.
+"Make a beeline," they said. I watched a bee. Not a straight line at all. Lovely, though.
+"Turn over a new leaf." Barry has loads. I turned one over. He seemed fine. Not sure what I've started.
+"Think outside the box," they said. My cousin Derek lives in a cupboard. Nobody's ever asked him to think outside it.
+You "catch" a bus here. It's far too big to catch. I just stood near one and it let me on.
+"Break the ice," they said at the party. There wasn't any ice. I broke a breadstick instead. Went down well.
+"Let's call it a day," someone said at four o'clock. It was already a day. It had been a day all along.
+"In the nick of time," you say. I don't know who Nick is, but he's got very good timing.
+Someone asked me to hold the fort while they nipped out. There was no fort. I held the sofa. It's still here.
+"Back to square one," someone said. I counted the squares on the rug. We're on square {n:2-14}. Not bad.
+"It's a small world," someone said at {place}. It isn't, though. I've seen it from outside. It's medium.
+"That came out of the blue," someone said. Sorry. That was probably me.
+"It's the thought that counts," they say. So I've thought you {customGift.a}. I hope you like it.
+"Let sleeping dogs lie." I always do. I let everybody lie. It's the {planet} way.
+
+@category planet6.customs
+@tags
+We greet each other by touching ears on {planet}. If you sneeze halfway through, you have to start again.
+Meetings on {planet} start when everyone's arrived and finish when everyone's asleep. Very fair.
+Big decisions on {planet} get made on Thursdays, while everyone's floating. Hard to argue when your feet are off the ground.
+Weekends are compulsory on {planet}. There are inspectors. They check you're lying down, then lie down next to you.
+The landlord comes round on rent day, checks you're asleep, then tiptoes out with a little nod. That's rent paid.
+Birthdays happen when you feel older back home. Last week {n:2-9} of them happened to {relative}.
+Nobody brings presents to birthdays on {planet}. Everyone just lies down near you for a bit. It's the nicest thing.
+Our national lying-down championship has been going for eleven years. Nobody's got up yet. Huge tension.
+I came fourth in the regional lying-down finals. I'd have been third, but {I sneezed|Gary came up and I looked}.
+Nobody queues on {planet}. Whoever needs it most just sort of drifts to the front. Everyone can tell.
+Shoes are optional on {planet}, because the ground's soft. Most people wear one, for luck.
+Black tie on {planet} is just your gold chain after a polish. Very formal. I wear mine to make toast.
+School on {planet} is mostly lying on the soft ground naming clouds. I'm really using my education.
+School holidays on {planet} last until the children ask to go back. Nobody's asked yet.
+The only exam I failed on {planet} was Advanced Hurrying. I'm still quite proud of that.
+Weddings on {planet} go on until everyone's had a nap. The long ones last a fortnight and a bit.
+The post back home is delivered by whichever moon's on shift. Gary's very slow. Never lost a letter, though.
+Clocks on {planet} just say "now" and "later". Very easy to read. Hardly ever wrong.
+Calendars back home are just pictures of the moons. You look up and go "ah, it's Gary's night".
+Saying sorry on {planet} is done with your ears. You fold them down. One ear if it's small, both if you really mean it.
+There aren't any alarm clocks back home. Just alarm drizzle. My mum does it as a favour.
+Hugs on {planet} are more of a lean. Two people leaning on each other. Lovely. Takes a while to stop.
+The working week on {planet} is one afternoon. Then everyone has a lie-down about it.
+Nobody wears a tie on {planet}. If you're feeling important, you tie a little ribbon round one ear.
+Nobody's got hair on {planet}, so a haircut is sitting in a chair while someone hums at your head. Very relaxing.
+Parties on {planet} end when the last guest falls asleep. The host tucks everyone in, then goes to bed.
+There's a holiday back home just for Gary. Nobody does anything at all. That's how he'd want it.
+We don't say "good morning" on {planet}. We say "oh, you're up". It covers everything.
+Moving house on {planet}: everyone carries a cushion over to the new place. That's the whole move.
+The bus on {planet} is a big slow animal you can lie on. It stops when it's tired. Reliable, in its own way.
+Nobody waves goodbye on {planet}. You just slowly turn your ears away. It's less sad that way.
+Every few moonturns I get a card from {relative}. Always blank. That's how you know they mean it.
+New Year back home is whenever the moons line up. Last time Gary was late. We all waited. Worth it.
+On {planet}, you always leave the last spoonful of glorp for the glorp. It's only polite.
+Two people reach a door at once on {planet}, they both have a nap, and whoever wakes first goes through.
+Every job interview on {planet} has one question: "how comfy are you?" I said "very". Started that afternoon.
+You don't shake on a deal on {planet}. You both lie down on it.
+Money's a type of humming on {planet}, so the bank is basically a choir. I sang in it twice a week.
+On {planet} you can take a day off if the clouds are good. It's called a cloud day. I've had a few hundred.
+Sports day on {planet} has one race, the slow bounce. Whoever finishes last wins. They clearly enjoyed it most.
+I posted a letter home with {n:2-14} stamps on. It's been a while. I think Gary's still carrying it.

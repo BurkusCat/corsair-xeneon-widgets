@@ -1,0 +1,76 @@
+# Golden chains: the reference for chains of thought.
+
+@chain moons
+@topic space
+@start idle
+- Earth's got one moon. Just the one. I noticed.
+  | You ever look at your moon? There's only one of it.
+- We've got fourteen back on {planet}. They take turns.
+- One of them's called Gary. He's mostly a rock. Beige.
+  | One of them is just called Gary. Big beige rock. Lovely lad.
+-? Gary doesn't really do anything. Doesn't glow. Doesn't spin much.
+- But everyone loves Gary. You don't have to do anything to be loved, you know.
+  | And he's everyone's favourite. Turns out you don't have to do much.
+= Anyway. That's moons. I'm going to go and lie down about it.
+  | So, yeah. Moons. Glad we had this chat.
+
+@chain socks
+@topic clothes
+@start idle
+- Can I ask you about socks?
+  | I've been thinking about socks again.
+- They're little sleeping bags. For feet. Every morning you tuck your feet in.
+- And then you put shoes on top. So the sleeping bags are in a car.
+-? A tiny car with laces.
+- On {planet} our feet sleep whenever they like. Usually after lunch.
+= So, yeah. Socks. I've decided they're nice. Good night, feet.
+  | Anyway. I'm going to let my feet have a lie-down now.
+
+@chain kettle-watching
+@topic kitchen
+@start idle
+- They say a watched kettle never boils.
+  | Someone told me a watched kettle never boils.
+- So I watched one. For science.
+- It boiled. Took about three minutes. Very normal kettle.
+- Then I felt bad, because I'd proved everyone wrong, and they seemed so sure.
+  | I didn't tell anyone. Didn't want to make a fuss.
+= So now I just look slightly to the left of it. Keeps everyone happy.
+  | Anyway, I don't watch it any more. Out of respect.
+
+@chain mum-weather
+@topic family
+@start idle
+- My mum rang. Well. It rained a bit, so I assume that was her.
+  | Had a call from my mum. She's mostly weather, so it was quite damp.
+- She's a light drizzle with opinions. Very caring. Gets in everywhere.
+- She asked if I'm eating properly. I said I'd had {food.a}.
+- There was a pause. Then a bit of hail. I think that's a yes.
+  | Then it went quite foggy. I think she was proud.
+= Anyway, if it rains later, that's just Mum. Wave if you like.
+  | So if it drizzles today, don't take it personally. It's love.
+
+@chain mondays
+@topic time
+@start any
+- Did I ever tell you about the Monday?
+  | You know we had a Monday once, back home?
+- Someone on {planet} invented one. Just to see.
+- Everyone woke up a bit early and felt sort of heavy about it.
+-? My dad hummed in a minor key all day. Very unlike him.
+- By lunchtime we'd voted to give it back.
+  | By lunch everyone agreed it wasn't for us.
+= So now we go straight from Sunday to another Sunday. Works really well, to be fair.
+  | Anyway. You can keep yours. Sounds like you're used to it.
+
+@chain lets-dance
+@topic music
+@start act:dance
+- <act:dance> You know what? I'm going to have a little dance.
+  | <act:dance> Hang on. This feels like a dancing moment.
+- This one's from {planet}. It's called "Slow Thursday".
+- You move your ears first. Then everything else catches up, eventually.
+  | The trick is to do the ears first. The rest of you just follows along.
+- Back home we dance like this for about a fortnight. It's a short one.
+= Right. That's me done. Very good dance, that. Ten out of fourteen.
+  | And... finished. Lovely. I'm going to need a sit-down.

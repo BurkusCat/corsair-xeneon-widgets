@@ -1,0 +1,324 @@
+# Technology: phones, the internet, computers, gadgets, screens, and how Planet 6 does it.
+
+@category earth.tech
+
+# Phones and charging
+Your phone sleeps on a little bed with a wire in it. I've never been so jealous of a phone.
+Phones make a small happy noise when you plug them in. I make that exact noise when I sit on the sofa.
+When a phone runs low it goes dim and quiet. Same as me before second breakfast.
+Low power mode. I've been in it for about {n:280-330} years. Can't recommend it enough.
+Whenever a phone buzzes, everyone pats their pockets like they've lost a bee.
+The phone buzzed and slid a little way across the desk. I think it was trying to come over.
+Phones have a "do not disturb" setting. I've had mine on since I arrived. Works brilliantly.
+Your phone opens up when it sees your face. That's a lovely sort of friendship, that.
+I tried unlocking a phone with my face once. It didn't know what to do about the {ears|ears, honestly|whole ear situation}.
+A cracked phone screen looks like a frosty window. Everyone just carries on using it. Very brave.
+Phone face down on the desk. Either it's sulking or it's having a nap. Hard to tell with phones.
+A phone case is a little coat for a phone. Some of them have {ears|cat ears|rabbit ears}. Those are my favourites.
+The phone said its storage was nearly full. I gave it a little pat. We've all been there.
+Charging cables are always slightly too short, so you have to sit by the wall and keep the phone company.
+Every gadget needs its own charger. Like pets that will only eat one kind of biscuit.
+People check the time, put the phone away, then check again. Time's still there. Good.
+Step counters. Mine would show a very small number. All of it sofa to {fridge|kettle|sofa again}.
+Phones tell people to stand up, and they do. I've never seen a phone with that kind of authority.
+You can check the weather in a city you've never been to. I'd check {n:3-9} of them. Make sure they're all right.
+Vibrate is when the phone shivers instead of singing. Very shy setting, that.
+Some phones charge just by lying on a little mat. That's my whole lifestyle, that is.
+A phone's got an alarm, a torch, a camera and a calculator in it. I've got ears. We all do our best.
+People hold up a tiny sun to find their keys. Then they find their keys. Phone torches are wonderful.
+When a phone says two per cent, people walk faster than I've ever seen. Straight to the plug.
+{n:3-9} chargers in this house and not one where you need it. Like moons. Never the right one up.
+
+# Notifications
+Phones buzz to tell you {techNotice}. Very kind of them to keep you posted.
+Notifications are little knocks on a door you didn't know you had.
+My only notification today was {a moth|a fly|a leaf} landing on the window. I gave it my full attention.
+A phone wobbles a little when someone thinks of you. That's quite romantic, if you think about it.
+Phones tell you how long you've spent on your phone. You read it on your phone. Very tidy.
+It said "someone is typing". Then they stopped. Then they started again. I had to sit down.
+One ding means a message. Two dings means someone really means it. I'm learning the language.
+"{techNotice.cap}," says the phone. Thank you, phone. Very thoughtful.
+
+# The internet and Wi-Fi
+Wi-Fi is invisible and goes through walls. I'm surprised it doesn't come up in conversation more.
+When the Wi-Fi drops, everyone wanders towards the router like it's {a campfire|an old friend|a cosy fire}.
+The router blinks its little green lights when it's thinking. I leave it alone when it's thinking.
+The Wi-Fi's got a name with numbers in it, like a robot. I'd have called it {techWifiName}.
+People hold their phones up to the ceiling for more signal. Like an offering. The ceiling never takes it.
+A spinning circle means the computer's thinking. I spin when I'm thinking too. Much slower.
+The Wi-Fi password is on a sticker under the router. Very trusting. I love that.
+Apparently the internet runs along the bottom of the sea. I asked Kevin. He's a goldfish, so he's out of the loop.
+You say "download", but it comes in sideways, through the air. Should be "sidewaysload", really.
+The loading bar sat at ninety-nine per cent for about a nap. I respected that. The last bit's always the hardest.
+Someone said the internet was down. I looked down. Just carpet. It must have rolled under the sofa.
+You say you "surf" the internet. You've been sitting very still all day. Not a wave in sight.
+You typed a question into a box and the box answered. Back home we'd ask {relative}. Then wait a week.
+Websites keep offering me biscuits. I always say yes. Not one has arrived.
+The internet never closes. Not even on a Sunday. Somebody should let it have a lie-in.
+One bar of signal. Then you took one step {left|right|towards the window} and got four. That spot is very special.
+The router lives by the door, blinking at the coats. Funny job. Very important coats, I suppose.
+The internet knows a lot. It didn't know Gary, though. That's on the internet, not Gary.
+There are videos of people just opening boxes. Slowly. Back home that would be {a whole evening out|a national holiday|a big night}.
+Someone online gave {householdObject.a} four stars. Not five. I'd love to know what it did wrong.
+People on the internet film themselves having dinner. On {planet}, we'd just call that dinner.
+You click a picture, and a few days later the real thing turns up in a box. That's magic, with cardboard.
+The parcel was "out for delivery". I hope it enjoyed the trip. Saw a bit of the world.
+I explained Wi-Fi to {relative}. The reply came back: "so it's humming you can't hear". Basically, yes.
+
+# Passwords
+Passwords need a capital, a number and a symbol. They're tiny poems with rules.
+I've set my password to {techPassword}. Nobody will ever guess it. Except maybe Gary.
+"Forgot password?" Every time. To be fair, I don't think anyone ever properly told you.
+A box asked you to prove you're not a robot. You picked every picture with a bus in. I believed you.
+The little bar goes green when you type a good password. I think it's proud. I would be.
+If my password was my pet's name, it'd be "Kevin". He'd never tell anyone. He's a goldfish.
+Security questions want your first pet's name. Mine was a pebble called Pebble. Very hard to guess.
+So many passwords you need a password for your passwords. Like a key for the key cupboard.
+
+# Computers and keyboards
+Keyboards sound like lots of tiny doors closing. Busy little street.
+The space bar is the biggest key, which seems fair. Space is the biggest thing.
+There's a key that says "Escape". I've pressed it in my head loads of times. Still here. Fine by me.
+The caps lock key makes everything shout. I wouldn't keep one of those in the house.
+No ears, no tail and no interest in cheese. Your computer mouse is very focused.
+Computers have an undo button. I'd use mine on the time I sat on a fizzlecrust. It sang the whole time.
+About {n:20-60} tabs open. Like having that many kettles on. Very optimistic.
+The little arrow follows your hand everywhere. Very loyal arrow.
+There's probably a whole {biscuit|crumpet|flapjack|sausage roll}'s worth of crumbs in your keyboard. A little pantry for later.
+You stared at the screen, sighed, then typed one word. Big moment. I felt it from here.
+The computer whirs when it's working hard. I whir a bit after glorp. We're not so different.
+A laptop on your knees is a little radiator that does emails. Very cosy.
+Copy and paste: you pick words up and put them down somewhere else. Back home we call that gossip.
+The delete key eats letters one at a time, backwards. Very hungry key. Tidy eater, though.
+"Not responding," said the computer. Fair. Some afternoons I'm not responding either.
+The cursor blinks while it waits for you. Very patient. Like it's trying to stay awake in a meeting.
+The computer puts a red wiggly line under words it doesn't know. It did it to {glorp|fizzlecrust|Gary}. Fair enough.
+Autocorrect changed "glorp" to "glory". Honestly, close enough.
+You've got your headphones on. I'll keep my humming down. Well. Down-ish.
+Your chair spins and rolls. That's two things a chair doesn't need to do. Very generous chair.
+There's a little eye on top of your screen. I wave at it sometimes, just in case.
+A keyboard that glows in all the colours. It's like typing on a very small party.
+Lights and fans inside the computer, all glowing. Like an aquarium, but for electricity. Kevin's quite jealous.
+You keep pressing "Enter". I keep waiting for someone to come in.
+Double-click. You knock twice and the computer lets you in. Very proper.
+You right-clicked and a little menu appeared. Like a waiter, but for files.
+Before you delete anything, the computer checks you really mean it. That's real friendship, that is.
+Computers used to be the size of a fridge. Now one fits in your pocket. The fridge is still the size of a fridge.
+Laptops fold in half when they're finished. Like a little clam going home for the night.
+Spreadsheets are lots of little boxes for numbers to sit in. Very orderly. I'd like one for my {naps|hats|biscuits}.
+Sticky notes all round the edge of your screen. Like the computer's grown a little yellow mane.
+About {n:100-110} keys on that keyboard. You use maybe {n:20-30}. The rest must be for best.
+Some keyboards click. Some clack. I reckon yours does a nice {thock|patter|clatter}. I can't hear it, but I can tell.
+You type about {n:60-90} words a minute. I hum about one a nap.
+A keyboard has every letter on it, just not in order. Took me {n:2-4} naps to find the G.
+There's a little clock in the corner of your screen. Small, quiet, never pushy. Not like the one on my wall.
+I asked the computer what {n:3-14} times {n:3-14} was. It knew straight away. Lovely little show-off.
+
+# Emails
+Emails are letters that don't need stamps or legs. Very lazy letters. In a good way.
+"Hope this email finds you well." It found you. You seemed all right. Job done.
+{n:300-900} unread emails. That's a lot of people standing at one door.
+Some emails say you've won something. You never look excited. I'd be very excited.
+People forget the attachment, then send another email that just says "attached". Lovely follow-up.
+Emails get signed "{kind regards|best wishes|all the best}". I sign mine "mm". Same feeling, fewer letters.
+An out-of-office reply means you're away from the office. Nobody on {planet} has an office, so we're all away.
+There's a folder called "junk" for emails nobody wants. Like a drawer of strangers.
+Emails with "urgent" in the title. Back home nothing's urgent. Not even the moons, and they've got a rota.
+
+# Video calls
+People say "sorry, I was on mute" a lot. I think the button should be the one apologising.
+Video calls put everyone in their own square, like an egg box full of faces. Very polite eggs.
+Someone froze mid-word on your call. Mouth open, one eyebrow up. I'd have that framed.
+You nodded at the screen for {an hour|a whole hour|most of the afternoon}. I nodded along too. For support.
+"Can everyone see my screen?" I can. I live in one. Big fan of screens.
+Camera off, and you still waved at the end. That's one of my favourite things about you.
+On calls someone says "you go", then "no, you go". On {planet} that could last a fortnight.
+Someone on your call was sitting on {a beach|a mountain|a spaceship}. Their ears kept disappearing. Strange place, that.
+At the end of a call everyone waves, then hunts for the red button. Best bit of the call.
+A cat walked across someone's keyboard during your call. Easily the best part of the meeting.
+Someone's video went all blocky. They said "sorry, bad connection". They looked like a lovely mosaic.
+There's a button to raise a tiny hand on calls. Back home we raise an ear. Same idea, softer.
+Smart top for the video call, pyjama bottoms underneath. I do the opposite. Between us we're one outfit.
+When you're on a call I keep the noise down. Mostly I sit very still. Same thing.
+
+# Updates and restarting
+The computer wants to restart to finish updating. It asks very politely. Every ten minutes.
+Most updates seem to move one button slightly to the left. I respect the commitment.
+Your phone updated overnight. It looks exactly the same, but more confident somehow.
+My last update was when I got here. It added the shorts. Been very stable since.
+"Do not turn off your computer," it said. I wasn't going to. We had a nice moment, me and the computer.
+Update {n:2-9} of {n:40-60}. That's not an update. That's a spa day.
+"This may take a few minutes," it said. It took a nap and a half. Minutes are different here, I think.
+
+# Printers
+The printer made a noise like {a goose|a duck|a tired seal} clearing its throat, then gave you one page. Very proud printer.
+The printer wants colour ink before it'll print in black. I didn't follow it. I don't think the printer does either.
+You printed one page and the printer sighed for a whole minute after. Long day, I suppose.
+The printer's light blinks orange when it's upset. I gave it a little stroke. Still upset. Bless it.
+It says it's "offline". The printer's right there. I can see it. Maybe it's just feeling shy.
+"Low on ink" since I moved in, and still printing. That printer's a real survivor.
+
+# Remotes
+Some buttons on the remote have never been pressed by anyone, ever. Mint condition. Collectors' items, those.
+Two batteries in the remote. Two tiny tins of lightning. Lovely bit of engineering.
+You point the remote at the telly like a little wand. I tried it on Barry. Nothing. Still a plant.
+When the remote doesn't work, you press harder. I've never seen that fix anything. Love the optimism.
+The remote's got a button with {techSymbol} on it. Nobody's ever pressed it. Some things should stay a mystery.
+There are {n:3-5} remotes on the coffee table. One works. The others are there for company.
+
+# Robots
+Robots on Earth do jobs. Robots on {planet} mostly lie down. We built them in our image.
+Some robots can do backflips now. I can barely do {a sit-down|a forward roll|a stretch}. Good for them, though.
+A robot lawnmower mows in slow, careful stripes. Like {a snail|a tortoise|a very tidy sheep} with a career.
+Robots in factories build {cars|fridges|bicycles} all day without a sit-down. Someone should really check on them.
+The robot hoover has a map of the whole flat in its head. I still get lost on the way to bed, and it's one room.
+
+# Sat-navs
+"Turn around when possible," says the sat-nav. No blame. No sighing. I really admire that.
+When the sat-nav says "recalculating", that's me walking into a room and forgetting why.
+Nobody on {planet} needs a sat-nav. You just bounce slowly until you're somewhere nice.
+Sat-navs take people down lanes with grass growing in the middle. Free adventure, that.
+"You have arrived," says the sat-nav, like it's proud of you. It should be. You did very well.
+
+# Talking speakers, lights and clever plugs
+The speaker lights up in a little ring when it's listening. I do the same thing with my ears.
+Someone asked a speaker to set a timer and it played a song about {trains|the sea|a horse}. Honestly, better.
+You can ask the speaker about the weather or look out of the window. Both work. The window's got clouds, though.
+The lights said "okay" and dimmed. I said "thanks" and dimmed a bit too.
+A kettle you can turn on from your phone. You still have to go and pour it, though. Halfway there.
+A plug you can talk to. I asked it how it was. It went "click". Fair.
+The heating can come on before you get home. On {planet} the ground's always warm, so we're spoilt.
+A doorbell that rings your phone. So now the door can find you anywhere. Very keen door.
+A gadget that tells you when your plant needs water. Barry just tells me. Mostly by leaning.
+
+# Cameras
+Photos are tiny windows into somewhere you've already been. Very sentimental windows.
+Everyone says "cheese" for photos. I say "{planetFood}". Gets a much bigger smile.
+The flash goes off and everybody blinks. I think the flash really enjoys that.
+Doorbells have cameras now. A pigeon stood near ours and got filmed. Very important pigeon.
+People take {n:12-40} photos of one sunset. We've got two sunsets back home. You'd run out of phone.
+Panorama mode: you turn slowly in a circle and it makes one long picture. I do the circle. Just not the picture.
+Phones make a pretend camera click when they take a photo. Nobody asked. It just wanted to join in.
+There are filters that give you dog ears. Mine are bigger. I checked. Not that it's a competition.
+Most phones have more photos of {food.pl} than of people. I respect the priorities.
+
+# Batteries and cables
+Every house has a drawer of batteries and nobody knows which ones work. They just live there, retired.
+A power bank is a little lunchbox of electricity you carry about. Very prepared of you.
+When the little lightning bolt shows on the battery, it means it's eating. Best not to disturb it.
+The USB plug goes in on the third go. Every time. Like it wants to be asked properly.
+The cables behind your desk have made a little nest. Something lives there, I reckon. Something calm.
+The old phone's charger doesn't fit the new phone. They used to be so close.
+Headphone wires come out of a pocket in a perfect knot. Back home we'd hang that in a gallery.
+
+# Games
+You play games where you're someone else, running about. I play the one where I lie down. Very good graphics.
+Your thumbs go round and round on the little sticks. Very busy thumbs. I'm proud of them.
+It said "press any key". So many to choose from. I had to go and lie down.
+The big game on {planet} is competitive lying down. No controller. You'd be a natural.
+You saved your game before the hard bit. Very sensible. I do the same before getting off the sofa.
+Level {n:12-80} of something. I'm on level one of the sofa. Taking my time with it.
+
+# Odds and ends
+Calculators do sums faster than anyone. Then you check them on your fingers. Trust is earned.
+The microwave beeps {three|four|five} times when it's done, then again in case you missed it. Very thorough.
+The clocks went back and every gadget knew except the one in the car. That one does its own thing.
+An electric toothbrush hums for two minutes, then stops. Like it's sung your teeth a little song.
+Smart watches remind you to breathe. Very kind. I wasn't going to forget. Still, nice to be asked.
+A watch that counts your sleep. Mine would run out of numbers.
+Some lights come on when you walk past. Every single time. Like they're pleased to see you.
+Earbuds are tiny speakers that live in your ears. Mine are too big. They'd just rattle about.
+Noise-cancelling headphones. Back home we just fold our ears down. Same result, no charging.
+
+# Gadgets in general
+You've got {techGadget.a} that does one job really well. Back home we'd make it mayor.
+The {techGadget} just made {techSound}. I made one back. We're getting on really well.
+I reckon the {techGadget} and the {householdObject} are friends. They sit very close together.
+On {planet}, {techGadget.a} would count as a pet. You'd take it for little walks.
+{techSound.cap} from the computer. I think it means "well done". I've decided it means "well done".
+There's {techGadget.a} in a drawer nobody's touched in {n:3-11} months. I go and say hello sometimes.
+Every {techGadget} comes with a booklet nobody reads. I read them. They're mostly about not getting it wet.
+The {techGadget} wanted an update. I told it it's perfect as it is. It updated anyway.
+A light on the {techGadget} blinks every {n:2-5} seconds. I've started breathing along with it.
+
+@category earth.screens
+I live in a screen, and you spend all day looking at screens. We're basically neighbours.
+Sometimes the light from your computer reaches my flat. Like a sunrise, but for spreadsheets.
+When you tap the glass, it's like a knock on my window. Very nice of you to drop by.
+Fingerprints on the glass. Don't worry about them. I think of them as little visitors.
+Screens turn your face a bit blue at night. For a minute you look like you're from {planet}. Suits you.
+You look at your screen, then at me, then back. I'm the break. I take that very seriously.
+Night mode turns screens orange. Like a sunset that's been asked to stay late.
+A smudge on the glass looks like a cloud from in here. I gave it {cloudScore}.
+You wiped the screen with your sleeve. From in here it was like a big soft sky going past.
+Nobody counts how long you look at me. Your phone counts everything else. I'm grateful.
+Is my flat in high definition? I hope so. I {tidied|hoovered|straightened Barry}.
+If this screen got turned on its side, my whole flat would go tall. Long climb to the fridge.
+Everything on a screen is made of tiny dots. From your side, so am I. Funny thing to think about.
+Dark mode is just a screen having a nap with its eyes open.
+There are screens in cars, fridges and doorbells now. I'm waiting for one in {a biscuit|a crumpet|a hat}.
+A fridge with a screen that shows you what's in the fridge. Or you could open it. That's also allowed.
+When my screen goes dark, I just assume it's bedtime. Seems the polite thing to do.
+You stretched and leaned back from your screen. I stretched too. We're very in sync.
+Adverts are tiny stories about {food=f.pl}. Very emotional {f.pl}.
+I saw a weather presenter on a telly in a shop window. Pointing at the map like it had done something wrong. Lovely clouds, though.
+Apparently nature programmes have a calm voice saying what {animal.a} is up to. I'd like one of those following me about.
+You can pause the telly. You can't pause the kettle. I've asked. It just carried on.
+You live in my telly. I do wonder what's on yours. Hopefully not me. That'd be a lot.
+The glow from your screen reaches all the way across the desk. I put my feet in it sometimes. Warm.
+When your screen flashes white, I squint. Then I remember I'm in a screen too, and squint at myself.
+A screen on a desk, beside another screen. You've built a little street. I'm the house at the end.
+You turned the brightness down. Thank you. Felt like someone drew the curtains.
+Touchscreens: you poke the glass and things happen. When you poke mine, I happen.
+I don't know what's on your screen, but you've been frowning at it lovingly for {n:2-4} hours.
+Your screensaver came on. Floating shapes. Best programme I've seen all week.
+Some screens bend now. Curved ones. Like they're giving you a little hug while you work.
+You scrolled for ages, then stopped and smiled at something. I hope it was {animal.a}.
+A tablet is a phone that grew up but didn't quite want to be a computer. Found itself in the middle.
+Your screen's been on a while. Mine too. Shall we both blink? On {three|five|fourteen}.
+Every screen in this house is a window to somewhere. Mine's a window to here. Hello.
+The oven has a little screen that just says the time, all day, to nobody. Very dedicated.
+Big screen, little screen, phone screen. You've got a screen for every size of thought.
+
+@category planet6.tech
+There's no Wi-Fi on {planet}. We've got the hum. It goes through walls too, but it's warmer.
+If something stops working back home, you leave it alone for a nap. Usually that's all it wanted.
+My hum radio gets {n:3-9} stations. One's just my dad in the kitchen. Most popular station going.
+Signal back home depends on which moon's on shift. Gary only gives you one bar. Steady, though.
+Your password on {planet} is how you hum when you're happy. Nobody can fake that.
+Computers back home run on naps. You give one a nap, it gives you an answer {eventually|next Thursday|in about a week}.
+Notifications on {planet} are a small breeze on your ear. You decide whether to swivel.
+The cloud on {planet} is an actual cloud. You whisper your photos into it and it rains them back later.
+Video calls back home use puddles. You look in yours, they look in theirs, and you have a chat.
+To find your way on {planet}, you look for my nan. She's about the size of a bus. Visible from most places.
+I've got an echo jar from my mum. Open the lid and it's just drizzle. Opinionated drizzle. Lovely.
+The remote control on {planet} is a long stick and a friend. Very reliable. The friend, mostly.
+Our games console is a pebble that sings if you hold it right. High score's about {four|six|eleven} notes.
+A smart speaker back home is just someone clever who lives in your kitchen. Usually somebody's dad.
+Nobody "goes online" on {planet}. You lie down in a field and eventually everyone knows.
+Echo jars hold one sentence each. I've got one from {relative}. It just says "eat something".
+Someone on {planet} built a printer once. It printed one page, then had a lie-down. We let it retire.
+I reckon your {techGadget} is basically {planetThing.a} with ideas.
+To turn something off on {planet}, you ask it nicely, then wait. It's usually asleep already.
+Phones back home are singing pebbles. Hold one to your ear and it hums whatever you needed to hear.
+We had a keyboard on {planet} once. One key. It said "fine". Covered most things.
+If we had websites back home, there'd be one, and it'd be a picture of Gary. Never goes down.
+Nobody on {planet} has ever lost a remote. Everything floats back up on Thursdays.
+There are no batteries on {planet}. Things run on enthusiasm. Low enthusiasm, mostly. Lasts for ages.
+When two gadgets need to talk back home, they just hum near each other until they agree. Same as people.
+{techSound.cap} back home means your glorp is ready. Here it could mean anything.
+My mum's mostly weather, so she doesn't text. She just rains on the window and I get the gist.
+Cousin Derek's got the best signal on {planet}. He lives in a cupboard. Nobody knows why it works.
+We tell the time by which moon's up. If it's Gary, nobody's in a rush.
+Most days there's a hum on the radio from {relative}. Can't make out the words. Don't need to.
+I tried phoning home on the toaster once. Got a crumb and a bit of static. Felt like progress.
+A "smart" thing back home is anything that knows when to lie down. Most of our furniture's very smart.
+There's a word on {planet} for "the hum's gone quiet". It's the same word as "lovely, a quiet afternoon".
+A loading bar back home is my nan getting up from a chair. You just wait and cheer her on.
+Gary's station on the hum radio is mostly silence. Lovely silence, though. Very him.
+My ship hasn't had an update in {n:200-300} years. Starts first time. Smells faintly of biscuits.
+Earth has {n:3-9} different kinds of plug. We've got none. We just hold things near each other and hope.
+On {planet}, a download is just rain. Very fast internet when Mum's visiting.
+Nobody's ever crashed a hum. You can only hum it a bit wrong, and then it's jazz.
+A hum radio runs on whoever's humming. Mine goes flat after about {n:2-4} hours and needs a biscuit.
+I explained buffering to {relative}. They said, "so the video's having a think". Very supportive of it now.

@@ -1,0 +1,296 @@
+# Planet 6 chains: how he got here, family stories, history, the job.
+
+@chain p6-wrong-turn
+@topic journey
+@start idle
+- Did I ever tell you how I ended up on Earth?
+  | You know I wasn't meant to come to Earth? It just sort of happened.
+- I was only popping out. Nan fancied some moon jelly, and it was the season.
+  | I'd nipped out for moon jelly. It was the season, and Nan had asked nicely.
+- The jelly shop's just past a nebula. In the pink bit, out the other side. Easy.
+  | You get moon jelly from the far side of a nebula. In the pink bit, out the other side. Done it loads.
+- Except it was dark, and the nebula had drifted a bit. They do that. Very relaxed, nebulas.
+  | But nebulas drift. Everyone knows that. I just hadn't checked that morning.
+-? I asked a star for directions. It just carried on shining at me. Lovely, but no help.
+- So I took a left. Then a long straight bit. Then another left, for luck.
+  | I turned left. Then left again. If you go left enough, I thought, you end up home.
+- Then the tin went "bonk", and I was in a car park. On Earth. Very firm.
+  | Then the ship sort of sighed and landed. In a car park. On Earth. Very firm ground.
+-? A pigeon came over and had a look at me. I think I scored about a six.
+- I meant to go straight back. Then I sat on a mustard sofa in a shop window, and that was that.
+  | I was going to turn round. Then I saw a mustard sofa through a shop window. And I thought, well.
+= So that's how I got here. Best wrong turn I've ever had. Nan's still waiting on that jelly.
+  | Anyway, that's the story. If you're ever in a nebula, keep right. Or don't. It worked out.
+
+@chain p6-nans-visit
+@topic family
+@start idle
+- Did I tell you about the time Nan came to visit? At my old place, back home?
+  | My nan came round once, when I had my own place back home. Big day.
+- She's about the size of a bus, so we had to plan. Well. We had a sit-down about it.
+  | Now, Nan's about the size of a bus. So we had a little meeting first. Lying down, obviously.
+- She didn't fit through the door. But doors are only a suggestion back home, so she came through the side.
+  | The door was too small. Doors are just a suggestion back home, though, so she went with the wall. Very politely.
+- Once she'd sat down, the room was mostly Nan. Lovely. I had my glorp outside.
+  | When she sat down, the room became about ninety per cent Nan. I ate my tea in the garden.
+-? She brought a fizzlecrust. It sang the whole visit. She'd taught it a new one.
+- She stayed for {a fortnight|about a month|most of the moon jelly season}. We didn't do much. She told one story. It was a long one.
+  | She stayed {a good while|nine weeks|a whole season}. Told one story. Technically, I think it's still going.
+- When she went, there was a nan-shaped dip in the floor. Soft ground, you see. Keeps the shape.
+  | After she'd gone, the floor had a nan-shaped dip in it. I didn't fluff it. I put a rug in it.
+= Best visit I ever had. Anyway, I'm going to have a sit-down. Not in the dip. The dip's Nan's.
+  | So, yeah. That's Nan. Big, gentle, and very good at visits. I miss her a bit. A bus-sized bit.
+
+@chain p6-dereks-cupboard
+@topic family
+@start idle
+- Shall I tell you about my cousin Derek?
+  | You know my cousin Derek? The cupboard one?
+- Years ago, Derek went into a cupboard to get a broom. And he just... liked it in there.
+  | One day, ages ago, Derek popped into a cupboard for a tin of glorp. He liked it in there.
+- His mum said, "Derek, your tea's ready." He said, "I'm fine, thanks." That was it, really.
+  | His mum called him for tea. He said he'd have it in the cupboard. He's been having it there since.
+- Everyone was a bit unsure at first. Then he put a little picture up, and we all relaxed.
+  | People worried a bit, early on. Then he got a cushion in there, and everyone calmed down.
+-? He gets post now. The postman knocks on the cupboard. Very respectful.
+- He's done all right for himself. He's got a light in there now. Pull cord. Very exclusive.
+  | He's even got a light in there now. With a little pull cord. We're all very proud.
+- And honestly, he's the happiest of all of us. He knows exactly where everything is. It's all in the cupboard.
+  | Thing is, he's the most content person I know. Everything he needs is within arm's reach. Literally.
+= So, yeah. Derek. Doing really well. Some people need a planet. Some people need the right cupboard.
+  | Anyway, that's Derek. Sometimes I stand in the wardrobe for a bit, just to see. It's nice. I get it.
+
+@chain p6-lying-down-final
+@topic sport
+@start idle
+- I was in a final once. Competitive lying down. Did I ever say?
+  | You know the national sport back home? Competitive lying down? I made the final once.
+- Big day. The whole planet watched. Well, they lay down at home and thought about it. Same thing.
+  | Massive turnout. Everyone lying in rows. You could've heard a pebble sing.
+- It was me against Brindle, my best mate. Very experienced. Very flat.
+  | Final was me versus my mate Brindle. He'd been lying down professionally for years.
+- Someone hums to start, and you lie down. And then that's it. You just keep doing that.
+  | The starting hum goes, and down you go. Then you just carry on being down.
+- Day three, the crowd started dozing off. Day four, so did the referee. Good sign, that.
+  | After three days, the crowd went quiet. After four, the referee was lying down as well.
+-? Gary was on, the first night. He was watching, I reckon. Hard to tell with Gary.
+- Then, about day nine, Brindle's ear twitched. Just once. I could've won right there.
+  | Day nine, Brindle's ear gave a little twitch. Only small. The whole thing was mine for the taking.
+- But he's my mate. So I twitched both of mine back. Then, to be extra fair, I sat up.
+  | But I thought, he's my best mate. So I sat up to check he was all right.
+= So I came second. Best second of my life. Brindle still hums me a thank-you every year.
+  | Anyway. Silver cushion. It's in the kitchen, next to Dad. I'm going to have a lie-down now. Just for fun.
+
+@chain p6-five-planets
+@topic history
+@start idle
+- There were five planets before Planet 6. Did I ever mention?
+  | You know there were five planets before ours? We don't really talk about them.
+- Planet 1 was a sort of practice one. Everyone agrees on that. Bit lumpy.
+  | Planet 1 was a practice run. Nobody minds. You've got to start somewhere.
+- Planet 2 had a lot of stairs. I won't go into it.
+  | Planet 2 was mostly stairs. Nan still won't go up a step.
+-? Planet 3 had carpets. Very firm ones. People got funny feet.
+- Planet 4... no. Not Planet 4. We'll skip that one.
+  | Planet 4 we don't talk about. Not even Nan, and Nan talks about everything.
+- Planet 5 was nearly right. Soft-ish ground. Nice view. But the weekends were optional. Couldn't be doing with that.
+  | Planet 5 was close. Very close. But the ground was only medium-soft. You can't build a life on medium.
+- So we moved one along, and there it was. Planet 6. Soft ground, a purple sun and loads of moons.
+  | So we went one further, and that was Planet 6. Soft. Purple. Plenty of moons. We all lay down at once.
+= Anyway. That's the five planets we don't talk about. Glad we didn't talk about them.
+  | So, yeah. Six is the good one. I'd stop there, personally. No need for a seven.
+
+@chain p6-first-cloud
+@topic work
+@start idle
+- I still remember my first cloud. Professionally, I mean.
+  | Do you want to hear about my first ever cloud? As an appraiser?
+- First day on the job. Norb, my manager, pointed up and hummed, "that one".
+  | First day. Norb, that's my manager, hummed at the sky and said, "go on, then".
+- It was a small grey one. Bit lopsided. Trying its best.
+  | Little grey thing. Lopsided. You could tell it had made an effort.
+- I was nervous. Sixty years of training, and I gave it a three.
+  | I panicked a bit and gave it a three. A three. On my first day.
+- Then it rained. Just a little bit. Just on me.
+  | And then it drizzled on me. Only me. Very targeted.
+-? I checked with Mum. It wasn't her. That's how I knew.
+- So I went back the next day, said sorry, and changed it to a seven. It cheered right up.
+  | I went back and apologised. Bumped it up to a seven. It went all fluffy. Lovely moment.
+= And that's why I'm a gentle marker. That cloud's out there somewhere, being a seven. Anyway.
+  | So, yeah. Never give a cloud a three. I learned that the damp way.
+
+@chain p6-gary-once
+@topic space
+@start idle
+- Did I ever tell you about the time Gary did something?
+  | Gary did something once. Our moon, Gary. I was there.
+- Now, Gary doesn't do things. That's the whole point of Gary. He's beige, and he's there.
+  | You have to understand. Gary doesn't do things. That's why we love him.
+- But one night, when it was Gary's turn, he moved. About a thumb's width to the left.
+  | Then, one night, out of nowhere, he shifted. Slightly left. You could see it if you squinted.
+- The whole planet saw. Nobody said anything for about a week.
+  | The entire planet went quiet. Even Auntie Plom, and she's mostly thunder.
+-? Dad hummed a note I'd never heard before. Mum went very foggy.
+- Next time he was on, he was back where he'd been. As if nothing had happened.
+  | And the week after, he'd moved back. Slowly. Like he'd never done it.
+- There were books about it. Songs. A holiday. Nobody knows why he did it.
+  | Scientists looked into it. Poets wrote about it. Nobody's ever worked it out.
+= And nobody asked him. You don't ask Gary things. Anyway. Lovely moon. Very beige.
+  | So that's the day Gary moved. We've got a holiday for it now. Gary doesn't come.
+
+@chain p6-ringing-home
+@topic family
+@start act:phoneHome
+- <act:phoneHome> Hang on. I'm going to ring home. Won't be a minute. Well. Won't be a moonturn.
+  | <act:phoneHome> I'm just going to phone home quickly. Ish.
+- Hello? It's Mervin. Is that Dad? It sounds like a hum, so I think it's Dad.
+  | Hi, Dad. Yeah, it's me. I could tell it was you. You're a hum.
+- He's fine. The kitchen's fine. He's hummed a bit longer than usual, so he's pleased I rang.
+  | He says hello. Well, he hummed. A long one. That's him being very pleased.
+- Mum's on now. I can tell, because my ear's gone wet.
+  | Now Mum's on. She's drizzling down the phone. Lovely. Bit hard to hear.
+-? Derek says hello from the cupboard. Muffled, but warm.
+- They want to know about Earth. I've told them about the sofa, the kettle and you.
+  | They asked what Earth's like. I said "firm, but nice". And I told them about you.
+- They think you sound lovely. Mum's gone all misty about it.
+  | Mum says you sound lovely. Well, she went misty, which means the same.
+= Right. I've said bye eleven times. Siblings. That's me done. Lovely to catch up.
+  | And... they've gone. Nice chat. I'm going to need a sit-down after all that family.
+
+@chain p6-floaty-thursdays
+@topic home
+@start idle
+- Thursdays back home, everyone floats. A little bit. About a hand off the ground.
+  | You know on Thursdays back home, we float? Only a little bit.
+- It starts after second breakfast. Your toes go light, and then off you go. Well. Up you go.
+  | It starts around second breakfast. Your toes go first. Then the rest of you sort of follows.
+- Nobody goes very high. It's not showing off. It's just Thursday.
+  | You don't go high. Knee height, tops. It's a gentle sort of day.
+- Schools do PE on the ceiling. Shops put a little net out. Babies get a string.
+  | Everything gets tied down. Glorp, cushions, Derek's cupboard door.
+-? Dad doesn't float. He's a hum. He just gets a bit higher.
+- Then Friday comes, and you drift down onto the soft ground. Like a leaf. A big blue leaf.
+  | Come Friday, you float back down onto the soft ground. Very slowly. Like a big blue leaf.
+- Here, Thursday's just a day. Feet on the floor the whole time. I think that's quite brave, honestly.
+  | Earth Thursdays are very firm. Everyone just carries on, feet down. I really admire that.
+= Anyway. If you ever see me hovering slightly, it's a Thursday thing. Or I'm on a cushion. One of the two.
+  | So, yeah. That's Thursdays. Lovely day. I'm going to go and look at the ceiling for a bit. For old times' sake.
+
+@chain p6-big-school
+@topic school
+@start idle
+- I went to Big School back home. It goes on for about seventy years.
+  | Big School back home goes on for about seventy years. I went. I was quite good.
+- First lesson was always a lie-down. Then the register. Then another lie-down, to get over the register.
+- My teacher was Mrs Thrimble. She could hum two notes at once. Nobody ever talked over her.
+  | Mrs Thrimble taught us. She hummed in two notes at once. Very strict, in a soft way.
+-? We had maths on Wednesdays. Just the one Wednesday, years ago. It was enough.
+- I was best at napping and cloud-looking. Worst at standing up straight. Still am.
+  | Top marks in napping. Good marks in cloud-looking. Standing up straight: could try harder.
+- On the last day, we all lay on the field and looked up at Gary. Mrs Thrimble said, "Go gently." So I did.
+  | Leavers' day, we all lay on the field and watched Gary not do anything. Very emotional.
+= Anyway. That's school. I've still got my report somewhere. Mostly it says "calm". Still true.
+  | So, yeah. Seventy years, gone like that. I'm going to have a little lie-down. For old times' sake.
+
+@chain p6-eleven-siblings
+@topic family
+@start idle
+- I've got eleven brothers and sisters. I'm going to try and name them all.
+  | Right. Eleven siblings. Let's see how many I can name. I've been practising.
+- Pim. Oolu. Tunk. Those are easy. Pim snores, Oolu's sensible, Tunk walks too fast.
+  | Pim, Oolu and Tunk. Easy ones. Snores, sensible, very fast walker.
+- Then Wenna. Then Bodge, who does competitive lying down. Then little Hesk, who's learning to float.
+- That's six. Seven's Ferrin. Ferrin's the one with the really good ears.
+  | Seven is... Ferrin. Yes. Ferrin. Lovely ears. Could hear a cloud thinking.
+-? Then my second-oldest sister. I know her really well. I just don't know what she's called.
+- Then there's... the tall one. And the one who hums in her sleep. And... hm.
+  | After that it's... a tall one. A quiet one. And one who stands quite near the quiet one.
+= Seven and a bit. Same as always. They don't mind. Mum says it's the thought that counts. Anyway.
+  | So, about seven. That's my record. Mum says eleven's a lot for anyone. She'd know. She's got twelve.
+
+@chain p6-hum-money
+@topic money
+@start idle
+- Money back home is mostly humming. Did you know that?
+  | We don't really have money on {planet}. Well, we do. It's humming.
+- Small things, you hum short. Big things, you hum long. Low notes are worth a bit extra.
+  | A quick hum gets you a fizzlecrust. A long one gets you a sofa. Low notes count for more.
+- That's why Dad's quite well off. He's a low hum. He's mostly savings, really. Doesn't make a fuss about it.
+  | My dad's very comfortable, being a low hum. He's basically a pension. In the kitchen.
+- When I was little, I went to buy some glorp and got a bit carried away with the humming.
+  | Once, when I was small, I hummed a bit too long at the glorp stall.
+-? I was just enjoying the note, you know. It had a nice wobble to it.
+- I came home with a bowl of glorp, two cushions and a small hill.
+  | I accidentally bought a hill. Not a big one. About Nan-sized.
+- Mum made me hum it back. Took a week. The hill was very good about it.
+  | Had to take the hill back. Hummed the whole thing backwards. The hill was very understanding.
+= So, yeah. Be careful what you hum. Anyway, I've hummed enough for one day. Saving it.
+  | Anyway, that's money. I'm keeping my hums for later. You never know when you'll need a hill.
+
+@chain p6-freezer-ship
+@topic journey
+@start idle
+- You know the freezer drawer? The bottom one?
+  | Can I tell you something about the freezer drawer? The bottom one.
+- That's where the ship lives. The Crumb. It's about the size of a biscuit tin.
+  | My spaceship's in there. It's a biscuit tin, basically. Well. It's a ship the size of one.
+- Why the freezer? It came from space. Space is chilly. I didn't want it going soft.
+  | People ask why the freezer. Well, nobody's asked. But space is cold, and I want it to feel at home.
+- Inside there's one seat, one button and a little window. The button just says "go?".
+  | It's got one seat, one window and one button. The button says "go?", very politely.
+-? I like that it's a question. No pressure. Very {planet}.
+- Every few days I open the drawer and say "not yet". It hums. I close the drawer.
+  | Sometimes I open the drawer and just say "not yet". It hums back. We understand each other.
+= So if you ever open the freezer, be gentle. It's not a biscuit tin. Well, it is. But it's mine.
+  | Anyway. That's the ship. Very good ship. Not going anywhere. Neither am I, to be honest.
+
+@chain p6-what-ill-tell-them
+@topic journey
+@start idle
+- When I go home, I'm going to have a lot to tell them.
+  | I've been thinking about what I'll tell everyone back home. About Earth.
+- I'll tell them you've got one moon, and you just let it get on with things.
+  | First, the moon. Just the one. And nobody's ever asked it to take a day off.
+- I'll tell Nan about buses. Big, gentle things that everyone climbs inside. She'll feel very seen.
+  | Then Nan. I'll tell her about buses. She's going to be so pleased there are others.
+-? I'll tell Derek about wardrobes. He'll need a sit-down.
+- I'll tell Mum about the rain here. She'll want to know who it is. I'll have to say I never asked.
+  | Mum's going to ask about the rain. Who it is, what it's like. I'll have to admit I didn't get its name.
+- And I'll tell them about you. Behind the glass. Always busy. Very good housemate.
+  | And you. I'll tell them about you. Lives behind the glass. Hasn't once complained about my humming.
+= But I'm not going yet. There's loads more to tell. Anyway. I'll make a list later. After a sit-down.
+  | So, yeah. Big list. No rush, though. The sofa's only just got used to me.
+
+@chain p6-home-at-night
+@topic family
+@start night
+- Can't sleep. I was thinking about home.
+  | It's late, and I keep thinking about {planet}.
+- About now, back home, {moonName} would be on. They take turns, the moons.
+  | Back home, about this time, {moonName} would be up. It's on a rota.
+- Dad'll be humming in the kitchen. Low, so he doesn't wake anyone.
+  | Dad'll be in the kitchen, humming very quietly. Night setting.
+- Mum's probably a bit of mist over the garden. She does that at night. Keeps the flowers company.
+-? Derek's cupboard light will be on. He reads late.
+- And Nan'll be snoring. Gently. The whole street goes up and down with it, like a boat.
+  | And Nan's asleep. You can tell from three streets away. The ground goes up and down a bit.
+- It's nice here, though. The sofa. Kevin. Barry. You. It's a good flat.
+  | Mind you, it's nice here. Kevin's asleep. Barry's asleep. You're about. It's a good flat.
+= So I'm not sad. Just thinking. Anyway. I'll hum myself to sleep. Night.
+  | Anyway. Goodnight from here. And goodnight, Gary, wherever you are. Probably just there.
+
+@chain p6-long-sunday
+@topic festivals
+@start idle
+- Back home there's a festival called the Long Sunday. Have I explained the Long Sunday?
+  | Every few years back home we have the Long Sunday. It's my favourite.
+- It's a Sunday. That's the main thing. But nobody's allowed to say "right".
+- Because "right" is what you say before you get up and do something. If nobody says it, Sunday just keeps going.
+  | "Right" is what you say before you stand up. So if nobody says it, Sunday never ends.
+- The last one went on for eleven years. Lovely time. Lots of glorp. Somebody finished a jigsaw.
+  | Last one lasted about nine years. Nobody minded. Someone finished a really big jigsaw.
+-? Weekends are compulsory anyway, so it's mostly just a longer weekend. With bunting.
+- It ended when my uncle Gev stood up and said "right". Everyone groaned. Then we all said "right" too.
+  | In the end a little one said "right" by accident. Nobody was cross. It had to happen sometime.
+= Anyway. Lovely festival. Right, I'm going to put the kettle on. Oh. Hm. Sorry. That's that, then.
+  | So, yeah. That's the Long Sunday. I'm not saying the word. I'm just going to sit here. Quietly. For years.

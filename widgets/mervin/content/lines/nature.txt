@@ -1,0 +1,352 @@
+# Nature, weather, animals and the sky. Earth's and Planet 6's.
+
+@category earth.weather
+@tags
+Rain here falls in straight lines. Back home it wanders about a bit until it finds someone it knows.
+Drizzle is rain that couldn't quite decide. I relate to drizzle.
+People here say "it's spitting". I went out to check. It was just rain. Very polite rain, actually.
+Puddles are rain that's finished work for the day. Lying flat, looking at the sky. Living my dream.
+Hail is rain that's been kept in the freezer. Like my ship. Small, cold and a bit startling.
+Thunder sounds like the sky moving furniture about. I hope it finds a good spot for the sofa.
+Lightning is very bright and very quick. Never stays for a cup of tea. I've asked {a few|several|about four} times.
+A heatwave here is {two|three|four} slightly warm days in a row. Everyone takes their jumper off at once. Bold.
+Wind is just air in a hurry. I keep telling it there's no rush. It never listens.
+Fog is a cloud that came down to see what we're all up to. Nosy. I like it.
+Snow is rain that's put a jumper on. Very cosy weather, snow.
+Snow makes everything go quiet. Even the {bins|buses|seagulls}. I've never heard them so calm.
+Every snowflake's different, apparently. Somebody checked all of them. That's real dedication.
+Icicles are water that stopped halfway down to have a think. I do that halfway off the sofa.
+Rainbows only turn up here when it's sunny and raining at once. They wait for the weather to have a little argument.
+Your rainbows have seven colours. Ours have nine, but two of them are {colour}, which feels like cheating.
+The forecast said "sunny spells". I waited all day for a spell. Nothing magic happened. Bit of sun, though.
+"Scattered showers" sounds like someone's dropped a lot of baths. It's just rain, in bits.
+{Seventy|Sixty|Eighty} per cent chance of rain, the forecast said. So I took most of an umbrella.
+People here say "it's close today". Close to what? I had a look. Nothing. Just the weather, very near.
+Weather here changes its mind every {ten minutes|five minutes|half an hour}. Very relaxing to watch. Like telly, but wetter.
+"Mizzle" is a real word here. Mist and drizzle, together. Someone made it up and everyone just said yes.
+Nobody here trusts a sunny morning. They take a coat anyway. Very wise. Bit sad for the sun.
+"Changeable" is what you call weather that won't commit. I'm changeable too. Mostly between the sofa and the bed.
+Sleet is rain and snow trying to do the same job at once. Nobody's happy. Least of all the sleet.
+The forecast had a little picture of a sun behind a cloud. Spot on. That's exactly where it was, all day.
+Windy days turn my ears inside out. I look like a startled {umbrella|bat|lampshade}. I've made my peace with it.
+Your sky can go grey for weeks and nobody complains. Well. Everyone complains. But very calmly, like a hobby.
+A light breeze is my favourite Earth weather. It's like being gently disagreed with.
+"Mild" is a weather word here. It means fine. Not bad. Bit like me, really.
+Cold, wet weather gets called "raw" here. Like the day hasn't been cooked yet.
+Most of your weather comes all the way across the ocean, I'm told, just to rain on {place}. That's commitment.
+"Glorious" here means you saw the sun for {about an hour|twenty minutes|most of lunch}. Very generous word, glorious.
+A crisp packet blew past the window, then back the other way. It's on a little tour.
+The weather app said "feels like {two|three|four} degrees". How does it know how I feel? It's not wrong, though.
+A rain cloud came over, had a look at us, then went next door instead. I'm not offended. Bit offended.
+Gales are wind that's been told off and is taking it out on the bins.
+The wind's got hold of someone's {washing|bin lid|umbrella}. It's halfway down the street. Having the best day of its life.
+A cold snap is winter remembering it's winter. Everyone's very surprised. Every year.
+When the sun comes out here, everyone turns their face up at it. Like a field of sunflowers in coats.
+A dark cloud with a silver lining, they said. I had a look. It was mostly the edge. Still. Nice edge.
+"Weather permitting" is how plans work here. The weather has to say yes first. It's in charge of everything.
+I asked the wind where it was going. It took the question with it. Never heard back.
+I've learned three words for cold this week: nippy, parky and fresh. They all mean "coat".
+Hailstones bounce. Rain doesn't. Hail's having a much better time, if you ask me.
+Snow days are when everything stops and nobody minds. Back home that's every day. Here it's a treat.
+When it's foggy, the street goes soft round the edges. Bit like home. I like a soft street.
+Tomorrow's forecast: {weather}. I've written it in my little book. I don't know why I've got a little book.
+Forecast says {weather} later. I've cleared my afternoon. Well. It was already clear. Now it's official.
+Head office asked what Earth weather's like. I said "{weather}, mostly." They hummed. I think that means lovely.
+I counted {n:3-12} umbrellas go past the window once. One of them was {colour}. Still my favourite.
+The sky was grey for so long last week, I started rating the grey. Gave it {cloudScore}. It tried.
+Everyone here plans their whole day around {weather}. On {planet}, the weather plans around us.
+Yesterday we had sun, then {hail|drizzle|a bit of wind}, then sun again, all before lunch. Busy weather.
+Whatever the weather's doing, it's good weather for {verbIng}. I've checked. It always is.
+
+@tags rain
+Raindrops racing down the window. I always back the little one. He never wins. Still my favourite.
+Listen to that. Proper rain. The kind you can hear in your elbows.
+The {natureBird.pl} have all gone somewhere dry. I'd love to know where. Nobody ever tells me.
+It's raining. I've checked, and none of it's my mum. Just regular rain. Still nice.
+The rain's cleaning the window again. Very thorough. Missed a bit in the corner.
+Rain's not my area. I just do the clouds it comes out of. Off the record, though, this lot's {cloudScore}.
+Rain's on. Kettle's on. I'm on the sofa. Everything's where it should be.
+Somebody out there's running with a newspaper over their head. It's not working. Very brave, though.
+The rain sounds like a crowd clapping very quietly. Not sure what for. I've taken a little bow anyway.
+All that water outside, and none of it's for Kevin. He doesn't mind. He's got his own.
+
+@tags rain, night
+Rain at night is the best rain. Nobody else is using it, so you get all of it.
+Night rain on the window. Like being told a story with no words in it.
+
+@tags night
+Wind at night makes the windows go "ooo". I think they're a bit scared of the dark. I've left a lamp on for them.
+
+@tags morning
+Dew is the grass having a bath overnight. It doesn't use a towel. It just waits for the sun.
+Frosty mornings make the grass go crunchy, like fizzlecrust. I've never tried it. I've wanted to.
+Foggy mornings make the lampposts look very thoughtful. Everything does. Good mornings for thinking.
+
+
+@category earth.nature
+@tags
+Sunsets here go orange and pink. Back home they go {colour} and then quietly apologise.
+You're not supposed to look straight at the sun. Very private star. I give it its space.
+Your moon's always the same moon. Every single night. Imagine the loyalty.
+The moon was out in the daytime earlier, just hanging about. I respect a moon with no schedule.
+Your moon changes shape over the month. Back home we don't bother. We just send out a different moon.
+Someone said wish on a shooting star. I wished for {food=w.a}. Ten minutes later, {w.a}. Very good star.
+Constellations are dot-to-dots you're not allowed to draw on. You just imagine the lines. Very patient hobby.
+The sky here is blue because of science, apparently. Ours is purple because it always has been, and nobody's asked.
+Earth spins right round once a day and nobody feels it. I feel it a bit after {food.a}.
+Every time Earth gets all the way round the sun, somebody has a cake. Lovely tradition. Well done, Earth.
+Sunlight takes eight minutes to get here. So you only ever see the sun as it was a bit ago. Very relaxed star.
+The sun went behind a cloud and everyone went "oh". Then it came back and everyone went "ah". Every time. Lovely.
+Earth's leaning a bit. That's why you get seasons. It's been leaning for ages and nobody's told it to sit up straight.
+Clouds here are made of water. I didn't know that. I'd assumed they were made of quiet.
+I still haven't looked at all of your sky. There's loads of it. I'm pacing myself.
+One cloud today looked just like {natureCloudShape}. I gave it {cloudScore}. Marks for effort.
+A cloud just went over really fast. Didn't stop or anything. I'll have to mark it from memory.
+Big grey cloud earlier. Low marks for colour, high marks for commitment. Overall, {cloudScore}.
+I gave a cloud {cloudScore} earlier and it went a bit pink. Pleased, I think. Or embarrassed. Hard to tell with clouds.
+Head office wants more fluffy ones. I told them I don't make the clouds. I just rate them.
+Came close to a fourteen once. Perfect cloud. Then it split into two clouds. Very disappointing, for everyone.
+Clouds don't mind being rated. I asked one. It drifted off, which I took as a yes.
+The thin wispy clouds right up high, I call them eyebrows. Not official. It's in my reports anyway.
+Little fluffy clouds in a row are my favourite. Like sheep that got promoted.
+When the whole sky's one big cloud, I don't know where to start. I just write "lid" and have a lie-down.
+Clouds are slower than they look. That's why I like this job. Nobody's rushing anybody.
+Aeroplanes leave long lines in the sky. They're not clouds. They're just pretending. I let them have a go.
+Clouds go pink at sunset and my marking goes all soft. Everything gets a ten. Unprofessional, but there we are.
+Spotted {natureCloudKind} over the rooftops. Gave it {cloudScore}. Wrote "lovely" in the margin.
+Some clouds are so high up they're basically somebody else's. I rate them anyway. Feels neighbourly.
+A cloud parked itself over our street all morning. I think it was rating me. Hope I got a nine.
+Clouds are just weather having a think before it does anything. I like that in weather.
+That cloud's the exact shape of {moonName}. I've given it {cloudScore}, for homesickness.
+A cloud left its shadow on the road as it went over. Like it was signing its work. Extra point for that.
+The tide goes out and comes back twice a day. The sea and I have the same relationship with the fridge.
+The sea's enormous and salty and nobody's finished it. I respect a big portion.
+You can't drink the sea. It's just for looking at. Like a painting, but it moves and gets in your shoes.
+People dig a big hole at the beach, then go home. The hole stays. I think about the hole a lot.
+A sandcastle is a house for nobody that lasts until teatime. I find that quite moving.
+Seaside rock has writing all the way through. Snap it anywhere and it still knows where it's from.
+Hold a shell to your ear and you can hear the sea. With my ears, I could hear most of the coast.
+Pebbles are rocks the sea's been polishing for a thousand years. I keep one in my shorts pocket. Very calm pebble.
+Someone hugged me after a day at the beach. Weeks ago. Still finding sand. In the {householdObject}, somehow.
+Packed {natureSeaside.a} for the beach and then didn't go. It's still by the door. Ready for anything.
+Lakes are seas that decided to stay home.
+Rivers only ever go downhill to the sea. Nobody's told them they can stop at a nice spot.
+Waterfalls are rivers falling over and making it look like they meant it. I do that.
+Rivers get names here, like people. I'd like to meet one properly. Shake its hand. Very wet hand.
+Little streams are called brooks or becks, depending where you are. Same water. Different hat.
+Caves are the insides of hills. Cosy, damp, bit dark. Cousin Derek would love one. It's basically a cupboard.
+Earth's mostly sea. Then land on top, then clouds on top of that. Very well layered. Like a trifle.
+Mountains are hills that didn't know when to stop. I'm the opposite. I stop all the time.
+People climb mountains because they're there. The sofa's also there. I'm working my way up to it.
+I'd like to see a mountain one day. Or {a lake|a waterfall|a really big hill}. I'd just stand next to it and say "well done".
+Hills are the Earth's knees under a big green blanket.
+Mud is the only soft bit of Earth, like the ground back home. I stood in some for {a while|ten minutes|most of an afternoon}. Got quite emotional.
+The countryside is all the bits between the towns, done in green. Someone's put sheep in it. Lovely touch.
+A field is a big flat room with a gate. The cows are in charge.
+Walking in the countryside for no reason is called rambling. Same as talking for no reason. I think that's lovely.
+Trees stand in one place for hundreds of years. I did {forty minutes|half an hour|most of a song} once and needed a lie-down.
+Leaves are a tree waving. In autumn it waves goodbye, one leaf at a time.
+There's a tree out there that was here before the flat. Before the road, even. I nod at it every morning. It's earned that.
+Flowers open in the morning and close at night. Same as me and the curtains.
+Bees visit every flower, one at a time, all day. That's a lot of small talk.
+A dandelion goes all fluffy, you blow on it, and it goes everywhere. Then there's loads of dandelions. Very good plan.
+A weed is just a plant in the wrong place. I think about that whenever I'm on the wrong end of the sofa.
+Gardens are rooms with no ceiling. You still have to tidy them. Bit unfair, if I'm honest.
+Next door cuts the grass every {Saturday|Sunday}. A week later it's back. They've been at it for years. Neither of them's giving in.
+A garden shed is a little house for spiders and {a lawnmower|a bike|some old paint}. They seem to get on.
+Sunflowers turn to face the sun all day. I'm like that with the {kettle|fridge|toaster}.
+Snowdrops come up in the middle of winter, when nobody's asked them to. Very brave, for a flower.
+Daffodils look like little trumpets. I waited all spring for one to play something. Nothing.
+Bluebells all come out in the woods at once, like they planned it. Nobody's ever seen the meeting.
+There's a bit of grass growing in a crack in the pavement. Nobody planted it. It just decided. I respect that.
+Moss grows on the shady side of things. It likes a bit of peace and quiet. Same.
+Acorns turn into oak trees. Tiny hat, enormous plans.
+Pine cones close up when it's going to rain. A little forecast you can hold. Very honest.
+{A leaf|A conker|A feather} blew in through the door earlier. I've put it on the side. It's a guest now.
+A forest is lots of trees standing close together so none of them get lonely.
+Woods are quieter than towns. Everyone's whispering. Mostly the trees.
+Lots of things here grow without being asked. Grass, hedges, Barry. Very keen planet.
+Roses smell lovely but they've got spikes. Like a hug that comes with a warning.
+The wind went through the tree outside and it went "shhh". So I was quiet for a bit. Seemed only fair.
+Somebody gave me {natureFlower.a} once. I put it in a glass of water and told it about my day. Very good listener.
+Planted {natureFlower.a} in a pot by the window. I check on it every {n:10-20} minutes. Nothing yet. Very private flower.
+If I had a garden I'd grow {natureFlower.pl} and one really big potato. For company.
+There's {natureTree.a} at the end of the road. I've never seen it do anything. It's my hero.
+Gardeners kneel down and talk to their plants. I thought it was just me and Barry. It's a whole community.
+Hedges are walls that grew. You have to give them a haircut. I find that very sweet.
+{natureFlower.pl} come up in the same spot every year without being asked. I can't even find my other sock.
+Somebody planted {natureFlower.pl} in the little patch by the bus stop. Nobody asked them to. That's the best kind of person.
+If I could be any tree, I'd be {natureTree.a}. Stand about. Hold some birds. Lovely job.
+Spring is when everything outside wakes up at once and starts showing off. I'm really happy for them.
+People here talk about summer like a holiday they went on once and can't quite remember.
+Winter gets dark here at four o'clock and everyone says "it's dark at four o'clock". Every day. Like it's news.
+Spring smells like cut grass and a bit of hope. I'd bottle it if I had a bottle.
+Summer evenings go on for ages. You sit outside until ten and pretend you're not cold. Brilliant.
+Autumn's my favourite Earth season. Everything's slowing down. Feels a bit like home.
+Conkers fall off the tree, children put them on string, and bonk them together. The tree's fine with it, apparently.
+Gravity here only goes one way. Down. Every time. I've dropped {n:30-70} things to check.
+Gravity's very loyal here. Even the rain comes back.
+Gravity doesn't take Thursdays off here. I've written to someone about it.
+Jumping here is very short. You go up, you think "oh", and you're back. Barely time to enjoy it.
+
+@tags night
+When the moon's only half there, I hope the other half's all right.
+A full moon is a big effort from the moon. Very round. I always say well done.
+Stars are very far away and they still turn up every night. That's proper friendship.
+I tried counting the stars. Got to {n:40-90}, then a cloud came over. I still gave it {cloudScore}. Fair's fair.
+One of those stars is quite near home. I won't say which. You'd only pop round.
+There's a group of stars here called the Plough. It looks like a saucepan. I'm not going to say anything.
+Moonlight is just sunlight bouncing off the moon. So the moon's passing it on. That's a good friend.
+The stars come out one at a time, like people arriving at a party nobody's started yet.
+It gets properly dark here at night. Back home there's always a moon on, so you can find the fridge.
+
+@tags evening
+Evenings, the sky tries out all its colours at once. I counted {n:5-9}. One of them was {colour}, I'm fairly sure.
+
+@tags morning
+Sunrise is the sky getting up slowly, one colour at a time. Same as me.
+
+
+@category earth.animals
+@tags
+Pigeons walk about with their hands behind their backs. Well. They haven't got hands. But you can tell.
+Seagulls stand on top of lampposts, checking the town's all still there. Very conscientious bird.
+A robin follows the gardener round in case he digs up a worm. Best friendship I've ever seen.
+Robins go very round in winter. Like a small orange cushion with opinions.
+Ducks look calm on top, but underneath they're paddling like anything. That's me whenever someone asks me a question.
+Feeding the ducks is a whole day out here. You bring the seeds. The ducks bring themselves. Fair trade.
+Geese fly in a big V, very organised. They honk the whole way. I think they're giving directions.
+Swans look so elegant. One looked at me once and I apologised. Still don't know what for.
+Owls stay up all night and everyone says they're wise. I think they're just tired.
+A crow looked at me like it knew where I keep the ship. I've had a quiet word with the freezer.
+You're meant to say good morning to magpies here. I've started doing it to everything. The bins think I'm lovely.
+Birds sit on the wires in a neat row and nobody's in charge. I've watched for ages. Nobody.
+A bird's building a nest in the gutter out of twigs and a bit of {crisp packet|shoelace|bus ticket}. Making do. I respect a renovation.
+A dog barked at a leaf, then wagged at it. I think it was just saying a lot of things at once.
+Dogs sniff every lamppost. Very thorough. I think it's how they read the news.
+Cats sleep about sixteen hours a day. On {planet}, that's a short shift.
+Cats sit in any box you give them. Very sensible. I've been eyeing up the box the {householdObject} came in.
+A cat walked along the fence like it owned the fence. Maybe it does. I've never asked.
+Cats always land on their feet. I land on my bottom. We've each got our thing.
+Cats purr, which is basically humming. So technically we speak the same language. We don't talk much.
+They say goldfish only remember three seconds. Kevin remembers me. Pretty sure. He looks at me like he's pretty sure.
+Kevin's orange, which back home would be very formal. He doesn't wear a chain. He doesn't need one.
+Cows stand in a field all day, thinking. I've never seen one finish a thought. Big thoughts, probably.
+Cows lie down when it's going to rain, apparently. So they're a forecast. A very large, quiet forecast.
+Sheep do everything together. One goes, they all go. Like a queue that's forgotten where the front is.
+Sheep look like clouds that came down for a bit of lunch. I keep trying to rate them. They keep walking off.
+People ask horses "why the long face". That's just its face. It's a lovely face. Leave it be.
+Pigs roll in mud to keep cool. Mud's the soft ground. Pigs would do really well on {planet}.
+If I lived near goats I'd keep my hats indoors. I've heard things.
+Hedgehogs roll into a ball when they're worried. I do that on the sofa, but less spiky.
+Hedgehogs sleep all winter. Back home that'd just be a normal weekend.
+Squirrels bury nuts, forget where, and whole forests grow by accident. Best mistake I've ever heard of.
+Foxes go through the bins at night like they're looking for a receipt.
+Badgers live underground in a "sett". Sounds very cosy. Like a duvet, but in a hill.
+Moles dig under the lawn and leave little hills on top. Next door's quite cross. I think the hills are lovely.
+Snails carry their house on their back. Never late home. Bit slow getting there, mind.
+Slugs are snails who decided they didn't need a house. Very freeing, I reckon.
+Bees make honey all summer, we take a bit, and they just go back to work. Very forgiving bees.
+Bumblebees are too round to fly, people say, and they fly anyway. Hero of mine.
+A spider made a web in the corner of the window overnight. Brilliant work. I'd need {a fortnight|a month|most of a year}.
+Ants carry things ten times their size. I carried {food.a} home once and needed a lie-down.
+Ants walk in a line, one behind the other. Even the insects queue here.
+Caterpillars eat loads, have a really long nap in a little bag, and wake up with wings. Best nap ever recorded.
+Moths come all that way just to look at a lamp. Very romantic. I've left it on for them.
+A wasp came in, looked at everything and left. Like an inspector. I think we passed.
+Frogs sit on a lily pad all day. That's the whole job. I'd apply.
+Penguins wear little suits all the time, even at the seaside. Very formal birds. Like me and my chain.
+Octopuses have eight arms. I've got three fingers and a thumb. We'd have a very long handshake.
+Whales sing to each other across the whole ocean. Low and slow, like my dad. I think he'd like them.
+Seals lie on rocks all day. Competitive lying down. Some of them are national level, easily.
+Llamas always look like they've just heard something mildly surprising. I like that in a face.
+Otters hold hands when they sleep so they don't float apart. I need a minute.
+Rabbits twitch their noses all the time, like they're reading the air. I tried it. The air said "toast".
+Bats sleep upside down. I tried it on the sofa. I'm back the right way up now. Mostly.
+Woodpeckers knock on trees all day. Nobody ever answers. They keep trying. Very hopeful bird.
+A heron stood in the river for {an hour|a whole hour|most of an afternoon} without moving. Very good at being still. I've got a lot to learn.
+Pets get people's names here. A dog called {Dave|Keith|Brian}. A cat called {Susan|Pam|Margaret}. A goldfish called Kevin. Well, that one's mine.
+People say pets end up looking like their owners. Kevin and I both stare at walls a lot. It's happening.
+The bird table next door is like a little cafe. Very busy at lunch. No queue. Just a loose crowd that agrees.
+Bees do a little dance to tell the others where the flowers are. Back home that'd be a whole festival.
+A ladybird landed on my hand once. Very small, very red, very sure of itself. I didn't move for {n:10-40} minutes.
+Worms are the gardeners nobody sees. Underground, all day, no thanks. I thanked one. It didn't stop.
+Dogs tilt their heads when you talk to them, like they're nearly following. I do that with the telly.
+If I had to be an Earth animal, I'd be {animal.a}. Something about the way they sit.
+I've met about {n:9-20} kinds of Earth animal so far. The {animal} was the best. Don't tell Kevin.
+{animal.a.cap} would do well on {planet}. Soft ground, lots of naps. It'd fit right in.
+Saw {natureBird.a} today and gave it a little wave. It didn't wave back, but it looked at me in a way I'll treasure.
+{natureBird.a.cap} landed on the windowsill. We looked at each other for a bit. Then it went off to do bird things.
+Watched {natureBug.a} walk the whole length of the windowsill. Took ages. Best thing I've seen all {partOfDay}.
+There's {natureBug.a} on the window. I've named it {Gerald|Pam|Little Steve}. It doesn't know yet.
+Head office asked me to rate {natureBird.a} by mistake. I gave it {cloudScore}. It was quite fluffy, to be fair.
+Kevin and {animal.a} would get on, I reckon. Both very calm. Neither of them says much.
+I asked {animal.a} for directions once. It just looked at me. Fair enough. I didn't know either.
+I've never met a rude {animal}. I've met about {three|four|five}, so that's a decent sample.
+If {animal.a} came round for tea, I'd give it the good cushion. Not the sofa. The sofa's mine.
+{natureBug.a.cap} came in for a look round. I showed it the kitchen. It seemed impressed. Left by the window.
+My favourite Earth bird changes every day. Today it's {natureBird.a}. Yesterday it was {natureBird.a}. Big week.
+
+@tags morning
+Birds start singing at about four in the morning here. The dawn chorus. I didn't book it, but it's very good.
+Seagulls are very loud in the mornings. Everyone's got something to say and nobody's waiting their turn.
+
+@tags evening
+Blackbirds sing in the evening like they're closing up the shop for the day.
+
+@tags night
+Hedgehogs are out doing their rounds about now. Very small night shift.
+
+
+@category planet6.nature
+@tags
+When the sun comes up back home, everything goes purple. Even the toast. Here the toast stays toast-coloured. Took some getting used to.
+We don't really have mountains on {planet}. My neighbour Hob's a bit of a hill. That's about as high as it gets.
+Our sea's warm and a bit thick. You don't swim in it. You sort of lean on it.
+Some trees on {planet} grow sideways. Less effort. They get there in the end.
+No cats on {planet}. There's a sort of warm cushion that wanders about and sits on you. Nobody knows whose it is.
+A breeze back home is usually a cousin on Mum's side. Ruffles your ears and leaves. Very affectionate family.
+The wind back home always says sorry when it knocks something over. Then it puts it back. Mostly.
+Snow on {planet} falls upwards. You have to lie down to watch it properly. So that's nice.
+Puddle pets live in puddles back home. You don't feed them. You just say nice things near them.
+{natureP6Creature.pl} back home are very shy. If you see one, you pretend you didn't. It's only polite.
+Gary's got a little crater on the left. Everyone calls it his dimple. You're not allowed to say crater.
+Big Linda's the largest moon back home. She comes up so slowly that everyone stops to watch. Takes most of a nap.
+The wobbly one wobbles. We don't know why. We asked it once. It wobbled.
+The shy one only comes out when nobody's looking. So on its nights, everyone politely looks at their feet.
+The moon that's always late once came up during breakfast. We just had second breakfast under it. That's the law anyway.
+Gary had a night off {last week|last Thursday|once} and nobody noticed. That's what we love about Gary.
+The stars on {planet} are closer. You can't touch them, but if you lie very still you can hear them hum.
+Flowers on {planet} open when you hum at them. I tried it on a daffodil here. It just looked at me.
+On {planet}, the planet turns as fast as you want it to. Most people want it quite slow.
+Lightning on {planet} is very slow. You can see it coming a day off. Everyone brings a chair.
+Our rivers go round in circles. Saves them the long trip to the sea.
+Rainbows on {planet} go all the way round in a circle. You can walk the whole thing. Takes {timeUnit}.
+Fog back home is crunchy. We have it for breakfast. Here it's just damp, which seems like a waste.
+Puddles on {planet} are warm, so you can sit in one like a bath. Check it's not a neighbour first.
+Windy days on {planet}, you hold on to your ears. Otherwise you take off. Not far. Just enough to be embarrassing.
+Back home you can lie on the ground and watch all fourteen moons take their turn. Takes a fortnight. Bring some {planetFood}.
+Shadows on {planet} are {colour}. Here they're just dark. Very serious shadows, Earth's got.
+Bugs on {planet} knock before they come in. Doors being more of a suggestion, it's mostly a formality.
+The beach back home is just more ground, but pinker. Sandcastles go flump. We build sand piles instead. Very relaxing.
+There's nothing on {planet} quite like {animal.a}. The nearest thing's {natureP6Creature.a}, and that's mostly a hum.
+Mum sent the weather from home: {natureP6Weather}. Then "are you eating". Lovely to hear from her.
+A slow goose back home takes a week to cross the road. Everyone waits. Nobody minds. It's a nice week.
+On {planet}, you name a cloud before you rate it. Takes ages. Here I just number them. Feels a bit cold, honestly.
+Our trees are tall and very soft. Climbing one is mostly sinking in, politely.
+When it rains on {planet}, it's warm. You can keep a bit in your pocket for later.
+When Gary hands over to {Big Linda|Sharon|the wobbly one}, there's a minute where they're both up. Everyone goes "aw".
+Grass back home is purple and you're encouraged to lie on it. There are signs. The signs are lying down too.
+Hum beetles back home each hum in a different key. Lie still in a field and it's an orchestra. A very slow one.
+{Big Linda|Little Phil|Sharon|The wobbly one} is my second-favourite moon. Everyone's first favourite is Gary. That's just how it is.
+The ground's so soft on {planet} that footprints stay for {n:2-14} days. You can see where everyone's been. Mostly to bed.
+There's a flower back home that's been opening since I was {n:20-90}. Nearly there now. Very exciting.
+{natureP6Creature.a.cap} lived in our garden when I was little. We never saw it. We just heard it being content.
+Back home I rated clouds from a sky hammock. Here it's the windowsill. It's fine. Bit firm.
+
+@tags night
+Fourteen moons back home. Gary's probably on tonight. He'll be doing his best, which isn't much.
+One of our moons hums, very quietly. On its nights you fall asleep to it. On the other nights, you hum for it.
+
+@tags morning
+Mornings back home start when the purple sun's ready. Here it just turns up. Very eager sun.

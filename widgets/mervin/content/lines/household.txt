@@ -1,0 +1,366 @@
+# Household: Earth homes, DIY and cleaning.
+
+@category earth.home
+
+# Doors
+On {planet} you lean on a door and it sort of agrees. Here you need a handle and a reason.
+I held a door open for someone earlier. Nobody came. I held it for {n:5-20} minutes, to be fair.
+Some doors say "pull" on them. Others don't say anything and let you find out. I like the honest ones.
+The draught excluder is a long fabric sausage that lies by the door all day. I see a lot of myself in it.
+A doorstop is a little wedge whose whole job is to stop a door doing its job. Lovely teamwork.
+I've started knocking before I go into the bathroom. Nobody's ever in there. It's still nice to ask.
+Houses here have a front door and a back door. Two doors. In case one of them is having a day.
+I looked through the peephole the wrong way round. Everything inside looked tiny and far away. Even the sofa. I missed it.
+The door has {n:3-5} hinges. I've thanked each of them personally. They do a lot of quiet work.
+My nan's about the size of a bus. She'd never fit through your front door. She'd just lean on the house and say hello.
+
+# Stairs
+On {planet} the ground's soft, so nobody bothered with stairs. You bounce up slowly and hope.
+There's a landing halfway up the stairs to the flat. I always have a sit on it. It's what it's for.
+The banister holds my hand all the way up. I say thank you at the top. Seems only fair.
+Stair carpet's the best carpet. You can sit on it at any height you like.
+Going upstairs to fetch something and forgetting what it was. I don't even have an upstairs and I still manage it.
+
+# Keys and locks
+A key is a little bit of metal that only one door in the whole world agrees with. Quite romantic, really.
+I've got {n:5-9} keys on my keyring. I know what two of them do. The rest are just keeping them company.
+There's a little bowl by the door just for keys. The keys get their own bowl. Bit of a lifestyle.
+Back home there aren't any keys. You ask the door nicely, and if it's in the mood, in you go.
+The front door lock needs a little jiggle. You have to know it. Like a secret handshake with the house.
+
+# Chairs
+A chair is a sit-down that someone built in advance. Very thoughtful.
+Every bedroom has one chair nobody sits on. It holds clothes. It's more of a wardrobe with ambition.
+Rocking chairs are chairs that can't quite settle. I think they're doing their best.
+I leaned back on the stool. Two legs. Felt very brave. Put it down again. That's enough excitement for one day.
+Deckchairs fold up in ways nobody can predict. I had a long disagreement with one. We called it a draw.
+Beanbags are chairs that gave up on having a shape. I've never felt more understood by furniture.
+
+# The sofa
+The sofa is mustard, and it's the best thing on Earth. I've told it. I think it already knew.
+I flip the sofa cushions every Sunday so both sides get a go. Fair's fair.
+Someone invented a sofa that turns into a bed. As if the sofa needed to try any harder.
+I've been on the sofa since about {n:1-4} o'clock. Not lounging. Testing it. Someone has to.
+If anyone came to stay, they'd get the sofa. I'm thinking {relative}.
+
+# Down the back of the sofa
+The back of the sofa is a pocket the house keeps for itself.
+On {planet}, money's mostly a type of humming. Here it's mostly down the back of the sofa.
+I've started leaving things down the back of the sofa on purpose. {homeLostThing.a.cap}, mostly. So someone has a nice day.
+I've lost {homeLostThing.a}. If you find it, it's mine. If you don't, it's still mine. It's just on holiday.
+
+# Beds and pillows
+My first night in the flat I slept standing up in the wardrobe. Then I found the bed. A big drawer for people, basically.
+I rated my pillow out of fourteen. It got {cloudScore}. Strong showing for something indoors.
+There's a pillow on the bed you're not allowed to use. It's just for show. It's the bed's hat.
+The duvet's pink. I didn't choose it. I think it chose me.
+Making the bed is tidying it so it looks like nobody needs it. Then you need it. Every single night.
+A bed is a sofa that's stopped pretending. I respect the honesty.
+On {planet} the floor's already a mattress, so you lie down wherever you are. Here you need a whole piece of furniture.
+A hot water bottle is a warm little friend who's gone cold by morning. Still a friend, though.
+I made the bed this morning and I've been admiring it ever since. Haven't dared get in.
+Pillows here are full of feathers. Back home they're full of old naps. Very reusable.
+My duvet's {n:4-15} tog. I don't know what a tog is, but I seem to have quite a lot of them.
+I described a duvet to {relative}. They said it sounded like a hug you can lie under.
+
+# Socks
+Socks go into the wash as pairs and come out as individuals. It's a growing-up thing.
+I've got {n:3-9} odd socks now. I wear them two at a time. They've never met, but they're making it work.
+Socks left on the radiator go stiff, like a crisp you can wear.
+There's a whole drawer just for socks. Socks have their own room. I don't even have my own room.
+My toes are quite long. Earth socks get about halfway and then the toes just have a sit-down.
+A sock on the floor is just a sock. Two is a pattern. Three, and I think they're planning something.
+
+# Mirrors
+I waved at the mirror. It waved back straight away. Very polite. Bit keen.
+Mirrors are windows into a room just like this one, but backwards. I'd visit, but the door's on the wrong side.
+The bathroom mirror steams up after a bath. I think it gets shy.
+You can't see the back of your own head without two mirrors. I've never seen mine. I assume it's fine.
+
+# Light switches
+In this country, down is on. I flicked it {n:4-12} times to make sure. The light was very understanding.
+A light switch is tiny, but you touch it and the whole room changes its mind. Lot of power for a little square.
+A dimmer switch lets the light be half on. Like it's dozing. My favourite setting.
+The light in the bathroom has a little string. You pull it and it goes "tock". Best noise in the flat.
+I stood on a chair to change a lightbulb. Then I stood there a bit longer, because the view was lovely.
+
+# Plugs
+Earth plugs have three legs. Very sturdy. They could stand up on their own if they wanted to.
+I trod on a plug. Apparently that's a rite of passage. I think I'm a local now.
+There's a plug behind the sofa nobody can reach. Whatever it's powering, it's on its own now.
+Extension leads are plugs that went on to start a little family.
+"Turn it off at the wall," they said. So I said "off" to the wall. Not much happened, but it was polite.
+Every house has a drawer of cables for things you don't own any more. Little cables, waiting for nobody.
+
+# Bins and recycling
+Everyone on the street knows which day the bins go out. Nobody says it out loud. It's beautiful.
+I rinsed {a yoghurt pot|a jam jar|a tin of beans} before it went in the recycling. A little bath on its way out. Felt right.
+There are {n:3-5} different bins outside and they've all got opinions about plastic.
+The bin lorry came at {six|seven|half six} in the morning. Lovely noise. Like a very big robot having breakfast.
+The kitchen bin opens when you step on it. Like it's saying "ah" at the dentist.
+I read the leaflet about bins. {Twice|Three times}. There's a lot going on with lids.
+Taking the bins out at night in my shorts. Nobody else about. Just me, the bins and a moon. Just the one moon.
+On {planet} you leave rubbish outside and the wind takes it to someone who wants it. Usually a cousin.
+Wheelie bins wait at the end of the path with their lids open, like they're expecting a chat.
+
+# Drawers and cupboards
+There's one drawer for things that don't belong anywhere. It's my favourite drawer. Very welcoming.
+Cutlery drawer: knives, forks, spoons and one {whisk|tin opener|tiny mystery key|birthday candle} nobody can explain.
+A drawer that sticks is just a drawer that likes where it is.
+The cupboard under the sink is mostly sponges and one mystery bottle. I don't open it any more. It's their space.
+I've stopped counting how many mugs we've got. It felt rude, somehow. They know who they are.
+Back home, a cupboard is a very good place to live. Here it's where the ironing board goes. Different market.
+An airing cupboard is a warm cupboard just for towels. If Derek hears about this, he'll want to move.
+Some cupboard doors close on their own, very slowly, like they're tucking something in. Lovely.
+I keep my ship in the freezer drawer, behind the peas. Don't tell the peas. They think they're in charge.
+{n:2-6} odd gloves, {n:3-9} odd socks and one flip-flop. The drawer's a lost property office for one.
+
+# Curtains and blinds
+Curtains are the window's eyelids. I close them at night so it can get some rest.
+Opening the curtains in the morning is like saying "right then" to the whole sky.
+There's always a little gap in the curtains. The sun finds it every time. Very determined, your sun.
+Net curtains let you look out but nobody look in. Sunglasses for a house, basically.
+I check the clouds through a gap in the curtains first thing. Quick look. Professional habit.
+Blinds are curtains that went to a lot of meetings. Very organised. Lots of little shelves for light.
+
+# Radiators and heating
+Radiators are full of hot water. So they're basically baths that stand up by the window.
+I set the heating to {n:20-22}. Then to {n:17-19}. The flat has two moods now. So do I.
+Back home the sun's purple and kind of a lot, so it's always warm. Here you have radiators. Little suns under the window.
+I was told to put a jumper on instead of the heating. I don't really do tops. I put a second pair of shorts on.
+The boiler's in a cupboard making little whooshing noises. My dad would get on with it. They'd hum together.
+Someone left {a sock|a tea towel|a cushion|a glove|a damp hat} on the radiator. It's warm now. It seems happier.
+I sent a photo of our radiator to {relative}. They wanted to know if it was friendly.
+There's a spot on the floor that's always warm. A pipe underneath, I think. I've claimed it. Kevin's been told.
+The hot tap runs cold for ages first. It's warming up to the idea. Like me in the mornings.
+
+# Baths and showers
+A bath is a little indoor lake just for you. Then you pull the plug and it leaves. No hard feelings.
+The rubber duck floats in the bath without even trying. It's not even Thursday. I'm a bit jealous, honestly.
+I hum in the shower. Can't whistle, can't really sing. The shower doesn't mind. It sort of hums back.
+Bath bubbles are little clouds that live in the water. I've rated {n:5-12} of them. Mostly sevens.
+My ears fill up with water in the bath, and then everything sounds like my dad.
+The bath plug is on a little chain. Gold, like mine. It's dressed for the occasion.
+The shower curtain keeps trying to cuddle me. I don't mind. It's just a bit damp about it.
+I stayed in the bath until my fingers went wrinkly. All three. And the thumb.
+A shower is rain you can switch off. If my mum could do that she'd have a lot more free time.
+Bath, then pyjamas, then sofa. I think that's the best order anything's ever been in.
+I put {n:3-8} rubber ducks in the bath. There wasn't room for me. They had a lovely time.
+
+# Toilets
+There's a little room just for the toilet. Everyone knocks. It's the most polite room in the house.
+I've been told toilet roll goes over, not under. I've also been told under, not over. Very firmly, both times.
+The toilet has a big flush and a small flush. You get to choose how much you mean it.
+Someone knitted a little cover for the spare toilet roll. It looks like it's off somewhere nice.
+Whoever changes the toilet roll is a quiet hero. Nobody claps. I clapped once. It echoed a lot in there.
+
+# Post and the letterbox
+The letterbox is the door's mouth. Every morning it eats a few leaflets. Never complains.
+The post comes at about {ten|eleven|half ten} every day. Very reliable. I've started waving at the door when I hear it.
+A letter came for "The Occupier". That's me, I think. First letter I've ever had. It's on the fridge.
+The letterbox has a little brush inside. Like a moustache for the door. Keeps the draught out. Very distinguished.
+I read all the leaflets. Pizza, windows, a man who'll clean your gutters. Busy town, this.
+A parcel came. The box was lovely. I've kept the box. I can't remember what was in it.
+
+# Doorbells
+The doorbell went. I said "hello" to it. Then I remembered it's for the person outside.
+Back home there aren't doorbells. You stand outside humming until somebody notices. Usually takes an afternoon.
+Our doorbell plays the first half of a tune. I'm always waiting for the rest. It never comes.
+Someone rang the doorbell and ran off. I waved anyway. Nice of them to think of us.
+
+# Houseplants and Barry
+Barry put out a new leaf today. I didn't make a big thing of it. I made a medium thing of it.
+Barry keeps turning towards the window. I turn him round. He turns back. It's been weeks. It's our thing now.
+Some plants are plastic. They look great and never need anything. I water them anyway so they don't feel left out.
+Barry's had {n:2-6} new leaves this month. He's doing really well. Like cousin Derek, but greener.
+I gave Barry too much water and he went a bit droopy. That's Barry for "steady on".
+Plants back home hum when they're thirsty. Barry just goes quiet. Very British of him.
+A plant on the windowsill is a very small garden. I sit with it on Sundays and call it going out.
+
+# Neighbours
+I can hear {homeNoise} through the wall. Whatever they're doing, I hope it's going well.
+Next door have been {hoovering|drilling|moving furniture} for {n:2-4} hours. They must have a very big flat in there.
+Someone upstairs walks very heavily. I think they're trying to bounce slowly on a hard floor. It's not easy. I know.
+The neighbour's dog barks every time the post comes. Every day it's a total surprise to him. I love that.
+I heard {homeNoise} next door. I hummed back so they'd know someone was listening.
+The walls are thin. I can hear next door's kettle. Sometimes we boil at the same time. Feels like a friendship.
+Upstairs drops something every night at about {ten|eleven|half eleven}. Same thud. I think it's their shoes going to bed.
+Somebody next door is learning the piano. Same five notes for {n:3-9} weeks. They're getting very good at those five.
+Neighbours here wave over the fence. Back home we'd touch ears. Over a fence, that's quite a stretch.
+A neighbour waved at me through the window. I waved back so hard my ears joined in.
+
+# Moving furniture
+Someone downstairs tried to get {homeFurniture.a} through their door. It's been on the landing all week. It seems happy.
+Moving the fridge is like moving a cold, quiet friend. You have to be very respectful about it.
+I tried to move {homeFurniture.a} on my own. Got it about a foot. Then we both had a little rest.
+Carrying {homeFurniture.a} up the stairs. Turn it a bit. Tip it a bit. Turn it back. Have a sit on it. Done.
+Furniture always looks bigger in the doorway than it did in the shop. Doors are very honest that way.
+I've moved {homeFurniture.a} {n:3-6} times this week. It's tried every corner. It's just finding itself.
+On {planet} you ask the furniture to move and it shuffles over when it's ready. Takes about {timeUnit}.
+
+# Bits of the house
+That {householdObject} isn't where it was this morning. Either I moved it or it went for a walk. Both are fine.
+If I could take one Earth thing home, it'd be {householdObject.a}. Or the sofa. Mostly the sofa.
+Today I'm grateful for the {householdObject}. Yesterday it was the {householdObject}. I'm working my way round.
+{householdObject=x.a.cap} is just {x.a}. No fuss. Knows exactly what it is. I admire that.
+I tried {a tea cosy|an egg cup|a colander|a cushion|a flowerpot} on as a hat. Not a hat. But close. It's in the collection now.
+I lost {homeLostThing.a} for {n:2-9} days. It turned up behind the bread bin, having a rest.
+I gave the {egg cup|teapot|alarm clock|candle} a spot on the windowsill. It's got a view now. Everyone deserves a view.
+I rated the flat like a cloud. It got {cloudScore}. The sofa did most of the work.
+Back home a house is one room and a soft floor. Here some houses have {homeRoom.a}, just for one thing. I'd get lost.
+Everything in this flat has a place. I don't know where any of the places are, but they've all got one.
+Hallways are rooms just for going through. Nobody stays. I'd sit in one, if I had one, so it got some company.
+Lofts are a whole room on top of the house that nobody goes in. Just boxes, remembering things.
+Our doormat says "welcome". It says it to everyone. Even the leaflets. What a mat.
+Carpet is a soft floor. Closest thing to home. I lie on it a lot. Cheek first.
+Houses have a number on the door so the post can find them. Back home we just go with a sort of feeling.
+Coats on hooks by the door, waiting for their people. Like a little row of friends at a bus stop.
+There's a draught that comes in under the door and has a wander round. Never in a hurry. I like it.
+The fridge has {n:4-12} magnets on it, all holding up one piece of paper. Proper team effort.
+Smoke alarms beep when they want a new battery. Always at night. Very small, very sure of themselves.
+The clock on the wall's a bit pushy. I've turned it slightly towards the window. It can hurry the clouds instead.
+Lampshades are little hats for lights. I tried one on. Not my size, but I see the appeal.
+I switched the lava lamp on an hour ago and it's only just getting going. My kind of lamp.
+Rows of houses all joined together, leaning on each other. Very supportive street.
+Semi-detached means two houses holding hands. I think that's lovely.
+Bungalows are houses that decided against stairs. Very relaxed houses. I could live in one.
+We keep the good towels for guests. We've never had a guest. The good towels are just waiting. Very patiently.
+Somebody told me to make myself at home. So I lay on the floor and waited for it to go soft. Still waiting.
+Breakfast in bed on {planet} is easy because the bed is the floor. Here you need a tray and a lot of confidence.
+
+# Tagged: watering Barry
+@tags act:waterPlant
+There you go, Barry. A drink. Not too much. You know what happens.
+I water Barry and Barry grows. It's the simplest relationship I've ever had.
+I hum while I water Barry. It's what they do on {planet}. He seems to like a low note.
+
+# Tagged: the mirror
+@tags act:mirror
+The mirror's copying me again. I've started letting it go first.
+Good ears today. Very even. I've checked {n:3-6} times to be sure.
+In the mirror I look like someone who's got everything sorted. Lovely to meet him.
+
+@tags
+
+@category earth.diy
+
+# Flat-pack
+Flat-pack furniture is furniture that's been folded up so you can do the last bit yourself. Very trusting of them.
+The instructions were just pictures. A little man looking happy, then a little man looking confused. I related to both.
+I built a bookcase. One shelf goes the wrong way. It's the most interesting shelf in the flat.
+I built a wardrobe. Took {n:4-9} hours and two sit-downs. It's a bit wonky, which I think is its personality.
+That little bent key that comes in the bag. It does everything. It's the hero of every flat-pack.
+I've got {n:2-9} {homeFlatpackPart.pl} left over and a table that's standing up fine. I've decided not to ask questions.
+The box for the {homeFurniture} said "easy to assemble". It was easy. It was just {n:3-8} hours of easy.
+Building {homeFurniture.a} from a box is like meeting someone in instalments. By step {n:9-19} you really know each other.
+Step one said "lay out all the parts". So I lay down next to them. Felt like the right thing to do.
+The instructions say "do not overtighten". I don't really tighten anything. I'm very relaxed about screws.
+
+# Tools and fixing
+A spirit level has a little bubble in it. Make the bubble happy and the shelf is straight. Lovely system.
+I hung a picture. It's not straight, but neither is the wall. They've found each other.
+Measure twice, cut once, they say. I measured {n:3-8} times. Then I had a nap. Didn't cut anything. Very safe.
+Painting a wall is mostly waiting for the wall to dry. I sat with it for {n:2-4} hours. You shouldn't rush a wall.
+Paint colours have names like "Quiet Morning". I'd paint the bathroom "Second Breakfast".
+Wallpaper's a big sticker for a room. I'd put moons on ours. Fourteen of them. One beige.
+DIY means "do it yourself". I said that to the shelf. It didn't. So I'm doing it.
+I used a drill. Very loud, very sure of itself. Together we've made a hole. A good hole.
+There's a shelf by the door that's {n:2-5} degrees off. I lean a little when I walk past. To keep it company.
+The tape measure snaps back so fast. I think it's had enough of being measured. Fair enough.
+Sanding is just gently letting the wood know it can relax now.
+Grout is the white lines between the tiles. Someone has to do it. Someone did. Thank you, someone.
+A dripping tap was all about a washer. A tiny ring. The whole problem was a tiny ring. Very humbling.
+Every toolbox has one tool nobody can name. I call ours "the sideways one". Never been used. Still family.
+I put up a hook. A whole hook. It holds one hat. It's the best hook in the flat.
+You're not meant to drill on a Sunday. Every day's a Sunday on {planet}, so nobody's ever put up a shelf.
+The stepladder has a step that says "this is not a step". I respect a ladder that knows its limits.
+A stud finder beeps when it finds something behind the wall. Mostly it found my hand. Nice to be found.
+I popped {n:3-9} bits of bubble wrap. Then I stopped, because they'd been kept so carefully.
+I painted a test patch on the wall. Then another. Now there are {n:3-7} little squares and I like all of them.
+I tightened all {n:20-60} screws in the flat today. Everything's very firm now. Including me. I need a lie-down.
+I made a shelf. It holds three things. I chose the three things very carefully. Big decisions.
+Glue is lovely. It holds things together and doesn't make a fuss about it. I wish I'd met glue sooner.
+I fixed the squeaky door with a bit of oil. Now it opens without a word. I miss it, a bit.
+On {planet}, if something breaks, you leave it a fortnight to see if it fixes itself. It rarely does. Nobody minds.
+You can buy a whole toolbox for jobs you haven't got yet. That's the most hopeful thing I've seen on Earth.
+I filled a crack, sanded it and painted it. Now nobody knows there was a crack. Except me. And the crack.
+I looked under the sink and went "hmm" like a proper plumber. Nothing got fixed, but it felt very professional.
+They call it a flat. I rolled a marble across it to check. It went to the window. So, mostly flat.
+Back home, putting up a shelf takes {timeUnit} and a lot of humming. Here it takes a drill and a lot of saying "right".
+The spirit level and I agree the shelf is straight. {The mug|The egg cup|The candle|Everything} on it keeps sliding off. It's outvoted.
+
+@category earth.cleaning
+
+# Hoovering
+Hoovering is pushing a loud thing round the floor until the floor feels better.
+The hoover cord only reaches so far. Then you plug it in somewhere else. Like walking a dog, with more admin.
+There's a bit of floor under the bed the hoover never reaches. That floor is just going to live its life.
+Hoovering's loud, so I hum along. Same note as the hoover. For a second we were a band.
+The hoover bag was full, so I emptied it. Mostly fluff, and {homeLostThing.a}. So that's where it went.
+I've named the hoover after one of our moons. {moonName.cap}. It's a good fit, to be fair.
+I hoovered for {n:4-20} minutes. Then I hoovered the hoover. It deserved it.
+
+# Dusting and wiping
+Dust is just little bits of the day settling down. I almost don't want to move it.
+A feather duster is a stick with a party on the end.
+I dusted the top of the wardrobe. Nobody's been up there in years. It's like a little mountain, but fluffier.
+I gave the {householdObject} a little polish. It didn't ask. Sometimes you just want to feel seen.
+The cloth that wipes the table has seen things I'll never know about. I trust it anyway.
+Cobwebs in the corner. I left one. Someone lives there. It's not my place to tidy their house.
+
+# Washing-up
+Washing-up is cleaning a plate so it can get dirty again tomorrow. Very hopeful job.
+A pan left to soak is having a little bath and a think about what it's done.
+The washing-up sponge has a soft side and a scratchy side. Like a good friend.
+Tea towel over the shoulder. It doesn't do anything there. Makes me look like I know what I'm doing.
+The draining rack's full and nobody wants to put anything away. It's a little hotel for plates now.
+Washing up by the window. I did {n:2-5} plates and rated {n:3-9} clouds. Good balance.
+
+# General cleaning
+Spring cleaning happens in spring. On {planet} you clean when a moon tells you to. Gary never does. So it's been a while.
+There's a spray for glass, a spray for wood, a spray for the bathroom. They all smell like a lemon on holiday.
+I cleaned the window and now I can see the clouds properly. Two of them went up a point.
+A mop is a broom that's had a shower.
+Limescale is what happens when water stays somewhere too long. I understand it completely.
+I opened the bleach and my ears folded down all on their own. Very strong stuff.
+Cleaning the oven is a whole day out. Elbow-deep. I came back with stories.
+Sweeping puts all the crumbs into a loose crowd that agrees. Then the dustpan turns up. Bit of a shock for them.
+A dustpan and brush. The brush does the work and the dustpan waits. They've been together for years.
+On {planet} you leave the door open and my mum drizzles on everything. Lovely and clean. Bit damp.
+I've left {homeChore} till tomorrow. Tomorrow I'll leave it till tomorrow. It's a system.
+I put the hums record on while I did {homeChore}. It took twice as long. Lovely, though.
+I tidied a drawer and found {homeLostThing.a}, {n:2-9} rubber bands and a key that opens nothing. Lovely afternoon.
+A broom has been leaning in the corner all week. Fair enough. Sweeping's tiring, even for a broom.
+I defrosted the freezer. My ship had to sit in a bowl for an hour. It was very good about it.
+I descaled the kettle. It's had a spa day. It boils with a lot more confidence now.
+I sorted the recycling into tins, paper, plastic and things I'm not sure about. The last pile's the biggest.
+Window cleaning on a sunny day leaves streaks. On a cloudy day it's perfect. Clouds help with everything.
+I tidied the {kitchen|bathroom|bit by the door}. Took {timeUnit}. It looks exactly the same, but I know.
+I've cleaned {n:3-9} things today. One of them was the same mug {twice|three times}. Still counts.
+I put {a tea towel|a sponge|a pencil|a fridge magnet|my gold chain} in the washing machine by accident. It came out very clean and slightly confused.
+
+# Laundry
+Clean washing smells so good I nearly gave it a fourteen. Nearly. Thirteen and a bit.
+I put a red sock in with the whites. Now everything's pink, like my duvet. It's a theme now.
+On the spin cycle the washing machine does a little dance across the floor. I let it. It's earned it.
+Forty degrees, sixty degrees. Clothes here get to pick their own weather.
+I left a tissue in my shorts and now everything's covered in snow. Lovely, actually. Very seasonal.
+The tumble dryer makes clothes warm and a bit smaller. Like a hug that went slightly too well.
+The washing machine door has a round window. Like a ship. A very wet ship going nowhere.
+Pegs hold the washing on the line so it doesn't wander off. Little guards, really.
+A clothes horse isn't a horse. I checked. Very good at standing still with things on it, though.
+Ironing takes the creases out of clothes so they can go and get new creases somewhere else.
+I folded a fitted sheet. Well. I made it into a sort of ball, which is a kind of fold.
+I put my washing by the open window to dry. Then it drizzled in. I think that was my mum, checking on it.
+The washing machine has {n:14-30} settings. I use the one with the little shirt on. It seems to know what it's doing.
+Clean sheets night. Best night of the week. I got in very carefully, like I was a guest.
+The tumble dryer filter collects all the fluff off your clothes. A little blanket made of everyone's week.
+I ironed my shorts. They're baggy, so it was mostly ironing air. Very calm job.
+Laundry day. {n:2-4} loads, {n:2-3} sit-downs, and one sock I've never seen before. Who's he?
+I use the pegs in order, {n:3-6} colours round and round. The clothes horse looks like it's having a party.
+
+# Tagged: sweeping
+@tags act:sweep
+Sweeping's very calming. Back and forth, back and forth. Like the tide, but for crumbs.
+Sweep, sweep. The broom does most of it. I'm more of a supervisor with arms.
+Every time I sweep, there's one crumb that stays behind. Brave crumb. I'll let it have the day.

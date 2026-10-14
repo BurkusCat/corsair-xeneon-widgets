@@ -1,0 +1,619 @@
+# What Mervin says while he is doing each activity in the flat, plus sleep-talk and waking up.
+
+@category activity
+
+@tags act:stroll
+Just having a wander. The flat's the same size as yesterday. I checked all of it.
+Walking with nowhere to go. Back home that's an actual qualification.
+Floors here don't give at all. Every step, the floor just says "no". Very firm character.
+Doing a lap of the flat. Kevin's done about nine thousand today. I'm not competing.
+Walking on Earth is bouncing slowly, minus the bounce. So it's just slowly. I'm good at that bit.
+I like a stroll. You see all the same things, just from slightly further along.
+Stretching my legs. They're quite long already, but you can't be too careful.
+Every time I walk past Barry he's a bit bigger. Or I'm a bit smaller. Hard to say which.
+A stroll is a walk that's allowed to stop and look at {householdObject.a}.
+Long toes are great for strolling. Each step lasts a bit longer.
+Nowhere to be. That's my favourite place to be, honestly.
+Just popping over to the other side of the flat. Not for anything. Just to visit.
+I've walked past that {householdObject} {n:3-9} times today. We nod at each other now.
+If you're wondering where I'm going, so am I. It's going well, though.
+
+@tags act:idleStand
+Just standing here. It's underrated. You get to be tall the whole time.
+I'm having a stand. It's like a sit-down, but taller.
+Don't mind me. I'm letting the {partOfDay} happen.
+Standing still is my second-best sport. First is lying down, obviously.
+I'm not doing anything. I've thought it through and I'm sticking with it.
+My ears are listening to the flat. It's mostly fridge, with a bit of Kevin.
+Sometimes you just have to stand in a room and agree with it.
+Waiting for the next thing to happen. No rush on its part.
+Just thinking. Mostly about {food.pl}. A little bit about Gary.
+Weight on one leg, then the other. It's a whole system. I think I invented it.
+If anyone asks, I'm busy. I'm doing standing.
+Back home, standing still counts as a light nap. You get a little badge for it.
+I stood in this exact spot for a whole afternoon once. Nobody asked me to move. Lovely afternoon.
+
+@tags act:loungeSofa
+This sofa is the best thing on Earth. I've seen a lot of Earth. Well, this flat.
+Mustard. Best colour for a sofa. It always looks like it's just had a nice lunch.
+The sofa and I know each other's shapes now. It's a very settled relationship.
+I'm lounging. It's like lying down, but you keep your options open.
+Back home this would barely count as competitive lying down. More of a warm-up.
+Found {n:3-7} crumbs in the sofa. All from different toasts. It's like a little museum.
+I could get up. I've weighed it up carefully. I'm not going to.
+This cushion has a dent exactly my shape. We made it together, me and the cushion.
+Best seat in the flat. Good view of you, as well.
+Sofas on {planet} are just soft ground with good intentions. This one's got arms. Very posh.
+I've been here so long the {partOfDay} has started leaning on me.
+Ears down, feet up. Nothing to report.
+Ever had a sit-down that turned into a lie-down that turned into a lifestyle?
+The sofa doesn't judge. It just takes the weight. Very generous, sofas.
+Feet on one arm, head on the other. The sofa's holding me like a sandwich.
+One more cushion behind my back and I'll have reached the top of sofa science.
+I'm sinking in a bit. Not worried. If I go all the way in, I'll live in the sofa. Derek manages in a cupboard.
+
+@tags act:watchTv
+Watching you again. You've been on all day. Good run, this series.
+Not much happening in this episode. I don't mind. That's my favourite kind.
+You did a little frown just then. Big moment. I gasped a bit.
+I've looked for the remote for you. There isn't one. You just do what you like. Respect.
+Love this bit, where you look at something just below me for ages.
+Is this a repeat? Feels like you did this yesterday. Still good, though.
+You're very good at your job, whatever it is. I've been watching closely. Still not sure.
+No adverts and no ending. Very generous programme, this.
+Whoever's writing you has got a lovely pace. Very slow. Very calm.
+Turned the volume up. Nothing changed. You're a quiet programme. Suits me.
+You looked right at me then. I'm going to pretend I was watching something else.
+If you go and make a cup of tea, I'll wait. I won't watch anything else. Promise.
+Here's the bit where you sip a drink and look thoughtful. Classic you.
+I've watched {n:2-4} hours of this and I still don't know the theme tune. You never hum it.
+I told my mum about this show. She can't watch it, being weather. She drizzled with interest.
+Sitting forward now. Elbows on knees. Something big might happen. Or you might yawn. Both good.
+You always sit in the same chair. Very loyal to your chair. I respect that, as a sofa person.
+
+@tags act:napSofa
+Just resting my eyes. Both of them. Takes a lot of concentration.
+Mm. The sofa's gone all warm. It's basically asking me to stay.
+Not asleep. Just... testing the cushions. Very thorough test. Long one.
+Five more minutes. {planet} minutes. They last as long as you like.
+Mm... if anyone rings... I'm in a meeting... with the cushion...
+I'll just have a little sit-down. Lie-down. A little lying sit-down.
+Mm, my ears have drooped. They always go to sleep before me. Bit rude.
+Just topping up my naps. Back home you can never have too many saved up.
+The sofa's very good at this. I'm just following its lead.
+If you hear a hum, that's me. If you hear a snore, that's also me, but politely.
+Wake me if anything happens. Actually, don't. Nothing needs to happen.
+Half a nap. Then the other half. Then maybe a bonus half.
+Sofa naps don't count. So I'm going to have a few.
+
+@tags act:napBed
+Just a little nap. In the bed. The pink duvet asked very nicely.
+Mm. Duvet's warm. Pillow's cool. Everything's exactly where it should be.
+Back home I'd nap standing up in a cupboard. Lying down feels like a real treat.
+A bed in the daytime. Feels a bit naughty. Lovely, though.
+I'll only be ten minutes. Or a bit longer. The duvet decides, really.
+The pink duvet's like being hugged by a very relaxed strawberry.
+Tucking my ears in. They get cold. They're quite big, so it takes a minute.
+This is a power nap. Well. A nap. "Power" is a strong word.
+If Kevin needs anything, he knows where I am. He won't. He's Kevin.
+Mm... the pillow's got a cold side. I'm saving it for later.
+Long toes poking out the bottom. That's how you know it's only a short one.
+Just a little lie-down. Wake me in {timeUnit}.
+
+@tags act:sleepBed
+Night, then. Night, Kevin. Night, Barry. Night, lava lamp. Night, you.
+Ears down. Duvet up. That's the whole system.
+Cousin Derek sleeps in a cupboard. I sleep in a bed. We're both doing really well.
+The clock's going to keep ticking all night. I've told it it can stop. It won't listen.
+Mm. Big day of not much. Very tiring.
+I'm going to dream about {planetFood}. I've decided. Fingers crossed. All three of them.
+Counting moons. One... Gary... I never get past Gary.
+Pink duvet up to the chin. It's like being tucked into a slice of cake.
+If you need anything, I'll be asleep. So maybe ask Kevin.
+Night night. Try not to stay up too late in there.
+The lava lamp's doing slow blobs. I'm doing slow blinks. We're in sync.
+Sleep's just a nap that's really committed. I respect that.
+Mm. Tomorrow I'll rate some clouds. Or the day after. Clouds keep.
+Bed's lovely. Why does anyone ever get out of it? I'll look into it tomorrow.
+
+@tags act:readBed
+Reading a book about Earth birds. Pigeons get a whole page. Seems fair.
+I'm on page {n:3-40}. I started on page one. Big progress.
+Earth books are very kind. They tell you which page you're on. Every single page.
+This one's a mystery. Someone's lost a sock. I've got theories.
+Reading in bed is just napping with homework.
+Back home, books read themselves to you in a low hum. My dad's done a few.
+One more chapter. Then another one more chapter. That's how they get you.
+The main character's just made a cup of tea. I had to put it down. Very tense.
+I keep reading the same line. It's a good line. It's earning it.
+I like how books stop at the end. Ours just get quieter until you leave the room.
+This one's about a man on a long walk. {n:40-200} pages so far. Very committed man.
+I read the last page first. Just to check everyone was all right. They are.
+Pink duvet, good book, ears up. Nothing can go wrong. Except the bookmark. It's run off.
+Got this off the shelf above the bed. Someone's underlined "biscuit" in pencil. Lovely.
+
+@tags act:lookOutWindow
+That cloud over there's {cloudScore}. Bit lumpy on the left. Strong finish, though.
+Lots of sky today. Your sky's a lovely colour. Ours is a bit purple.
+Someone's walking a dog out there. Or the dog's walking someone. Hard to tell from up here.
+Counting clouds. For work. {n:12-40} so far. Not a fourteen among them.
+Your sun's very polite. Comes up, goes down, one sunset. No fuss.
+Someone's hanging washing out. Shirts, socks, a towel. Like flags for a very relaxed country.
+{natureBird.a.cap} just went past. Didn't wave. Fair enough, it's probably busy.
+Everyone out there's going somewhere. I'm going nowhere. We balance each other out.
+There's a bus. Full of people sitting in rows, all facing the same way. Very trusting.
+Keeping an eye out for Gary. He's not in your sky. I check anyway. Just in case.
+That cloud looks like {food.a}. I've docked it a point. Clouds shouldn't make me hungry at work.
+Curtains open. That means the office is open. The office is this window.
+If I put my face right up to the glass, the world gets a bit closer. Not much. A bit.
+A pigeon's landed on the sill. We've looked at each other. I think we've agreed something. Not sure what.
+Someone's mowing a lawn. Back home the grass just lies down if you ask it nicely.
+Sometimes I wave at people outside. One man gave me a thumbs up. I think about him a lot.
+
+@tags act:lookOutWindow, rain
+Hello, Mum. Yes, I'm fine. Yes, I'm eating. Yes, that's Kevin. Say hello, Kevin.
+It's raining. I'm not saying it's my mum. I'm not saying it isn't.
+Rainy day. Every cloud's a five. It's not their fault. They're carrying a lot.
+
+@tags act:waterPlant
+Big drink for Barry. Take your time, Barry. No need to gulp.
+Barry's got a new leaf coming. Still rolled up. Like a letter he hasn't opened yet.
+I tell Barry about the clouds while he drinks. He's heard about most of them. Still interested.
+Barry's leaves have holes in. On purpose, apparently. Like a cardigan for the breeze.
+Just a splash, Barry. You're a plant, not a pond.
+Barry drinks through his feet. I've stopped asking questions. He seems happy.
+On {planet}, plants water themselves and then water you back. It's a two-way thing.
+A bit of water, a bit of sun, a bit of chat. That's all Barry asks for.
+Barry's a monstera. Sounds a bit fierce. He's the gentlest thing in the flat.
+I think Barry and Kevin have a thing going. Across the room. Very slow.
+Barry's soil goes darker when he drinks. It's like watching him blush.
+Barry's turned a leaf towards me. For Barry, that's practically a cuddle.
+Barry's about {n:3-6}, I reckon. In plant years that's just a lad.
+There. Barry's had his drink. I'll have a cup of tea in solidarity.
+
+@tags act:makeTea
+Kettle's on. Now we wait. My favourite part of tea is the waiting, to be fair.
+Teabag in. Water in. Then you jiggle the bag about like you're telling it off. Gently.
+Milk first or milk after? I put it in halfway through. Nobody's happy.
+One sugar. Well, one spoonful. It's a big spoon. That's between me and the spoon.
+Tea is just hot water that's been told a nice story.
+Back home we drink warm glorp. Tea's similar, but you can see through it. Mostly.
+The kettle gets very worked up. Then it clicks off and has a little rest. I relate.
+Strong tea, a biscuit and a sit-down. Three of the best things on Earth, in a row.
+The teabag's gone a bit floaty. It's having a Thursday.
+You can tell a lot about someone from how long they leave the teabag in. I leave it ages. I trust it.
+The kettle's rumbling. Back home that means someone's about to say something important.
+Dunked a biscuit too long. It's decided to live in the tea now. I'm letting it.
+Little drop left in the bottom. That's for the mug. It's earned it.
+Stirring anticlockwise. Back home that's how you make it taste like a Sunday.
+I've got a favourite mug. It's the one that's clean. It changes a lot.
+
+@tags act:raidFridge
+Just having a look in the fridge. Not for anything. Just checking it's all still there.
+Hello, fridge. Anything new? No? Same as last time? Lovely. Very consistent.
+There's {food.a} in here I don't remember buying. Someone's being very kind to me.
+The light comes on every single time I open it. Never misses. Real professional.
+There's half {food.a} in here. Who has half? Was it me? It was me.
+Just checking on my ship in the freezer drawer. Hello, ship. Still cold? Good.
+It's not snacking. It's second breakfast. There's paperwork back home if you skip it.
+Milk, cheese and a lonely {food}. It's like a little cold village.
+I don't know what I want yet. I'll know when I see it. I've been looking for a while.
+The sauces in the door never get used. They're just there for moral support.
+Shutting the door slowly, so the light can say goodbye properly.
+I stand here with the door open and think about my life. Mostly about {food.pl}.
+
+@tags act:makeToast
+Two slices in. Lever down. Now we both pretend we're not waiting.
+I always go for the middle setting. Not too brave. Not too shy.
+We have blue toast back home. Same idea. It just toasts you back a bit.
+Toast always comes up looking surprised to see you. Every time. Bless it.
+A crumb's escaped under the fridge. I'm letting it start a new life.
+Butter right to the edges. Corners matter. That's my one rule.
+I'm doing you a slice. It'll be on the side if you want it. Cold, but there.
+One side's browner than the other. Toast has a good side. Like a photo.
+Toast smells like a weekend. Doesn't matter what day it is.
+One slice for now. One for second breakfast. Planning ahead.
+Jam or marmalade. Big decision. I'll stand here till I'm ready.
+I could watch toast go brown all day. I nearly did, once.
+Toast goes cold so fast. You get about a minute of perfect toast. Then it's just toast.
+The crusts are the toast's handles. Very well designed.
+
+@tags act:snackAtTable
+Little table, little stool, little snack. Everything's to scale.
+Eating {food.a} at the table like a proper grown-up. A three-hundred-and-forty-year-old one.
+The stool wobbles a bit. I've decided it's dancing.
+This is a bistro table. Very continental. I'm eating my {food} with a lot of style.
+Crumbs everywhere. I'll leave them for later. Later me loves a job.
+Second breakfast. Or first lunch. They overlap, if you do it right.
+I like eating at the table. Makes the food feel like it's been invited somewhere.
+Just a little something. To keep me going till the next little something.
+Chain on, napkin on the knee. This is a formal snack.
+I'd pass you a bit, but the glass. Hold a biscuit up on your side and we'll eat together.
+This {food} is {cloudScore}. I'm not supposed to rate food. Old habits.
+Every bite a bit smaller than the last. That way it lasts forever. Nearly.
+Eating slowly. Back home it's rude to finish before the food's ready to go.
+
+@tags act:dance
+This one's track four. Or three. They run into each other. Hums don't really have edges.
+I've only got the one record. Never needed another. You don't need two of perfect.
+I'll do the good bit when you're looking. There. Did you see? Doesn't matter. It happened.
+Hip, shoulder, head. Hip, shoulder, head. Then a little rest. That's the routine.
+On {planet} you dance until the song agrees with you. Can take a while.
+Kevin's doing laps. I think he's dancing too. Very small circles. Very committed.
+My gold chain's swinging. That makes it a formal dance now.
+A bit of a shimmy. Not too much. You've got to save some for later.
+Baggy shorts are good for dancing. Lots of room for the moves. I've got two moves.
+The record skips here. I've put it in the dance. Little hop.
+I can't whistle, so I hum along. In tune, mostly. In a tune, anyway.
+This one's about a hill that had a nice day. Big emotional number back home.
+Barry's swaying too. Could be the draught. I'm counting it.
+This is the one where you sway like a cloud that's thinking about moving.
+Dancing on a firm floor is hard work. Back home the ground bounces with you. Here I'm doing it all myself.
+Bit of a twirl. Slow one. The room catches up in the end.
+If you're dancing too, in there, then we're at a party. A quiet one. My favourite kind.
+
+@tags act:floatMeditate
+Look. Floating. Not high. If you slid a letter under me, it'd have to be a thin one.
+Breathe in. Breathe out. Breathe in again. Lot of breathing, this.
+I'm clearing my mind. It didn't have much in it. Took about a second.
+Just hovering a bit. Not showing off. Well. A bit.
+If I think about anything heavy, I come down. Wardrobes. Mondays. Got to avoid those.
+Hmmmm. That's the hum. It holds me up, like a cushion made of sound.
+Cross your legs, rest your hands, and float. Easiest thing in the world. Took me two hundred years.
+Kevin floats all day. I've learned a lot from Kevin.
+My ears float a bit higher than the rest of me. They're keen.
+The trick is to forget you're heavy. Your gravity keeps reminding me. Very persistent.
+I'm in my calm place. It's the rug. But in my head it's a much bigger rug.
+Float long enough and you start to feel like a cloud. I'd give myself a seven. Room to grow.
+Every Thursday back home, the whole street goes up a bit. Here it's just me. Still nice.
+Don't mind me. I'm not here. Well, I'm here, just slightly above it.
+
+@tags act:stretch
+Big stretch. Arms up. There. That's the top of me.
+Stretching out my long fingers. One, two, three, thumb. All present.
+Every so often I stretch, just to check I'm still the same length. I am. Good.
+Reaching for my toes. They're a long way off. They wave, though.
+Back home you stretch before a nap and after a nap. Same stretch, other way round.
+Side stretch. Now the other side. Fair's fair.
+A good stretch is like a yawn for your whole body.
+Stretching is reaching for something that isn't there. Very hopeful, really.
+If I stretch high enough I can nearly touch the lampshade. I said hello to it.
+Arms up, hold it, hold it... and that's plenty. Don't want to overdo it.
+I'm like an accordion. Pull me out, push me back in. Doesn't play anything, mind.
+Gravity squishes you down a bit every day here. I'm just undoing it.
+Stretching my neck. Look left. Look right. Nothing either side. Lovely.
+Ooh. Something clicked. Good click. That's me back in tune.
+
+@tags act:exercise
+Squats. One. Two. Three. Right, that's a set. Possibly the whole session.
+Exercise is tiring yourself out on purpose. Bold idea. I'm giving it a go.
+Down. Up. Down. Up. I'm basically a very slow lift.
+Three squats. The leaflet said four. The leaflet's not here, though.
+Getting fit. For what, I don't know. A really long sit-down, maybe.
+Gravity's stronger here. Every squat counts double. So that's six, really.
+My knees are making a noise. Not a bad noise. More like a round of applause.
+Competitive lying down needs a strong core. Well. A soft core. A core, anyway.
+That's enough exercise for today. And probably tomorrow. Let's not rush things.
+Feel the burn, they say. I feel a mild warmth. That'll do me.
+I'm breathing heavily. Not from the squats. From thinking about more squats.
+Halfway down squat two. Staying here a minute. It's quite nice, actually.
+Lift with your knees, they say. My knees have asked if they can be left out of it.
+One more. Nope. That one's going to stay a thought.
+
+@tags act:feedFish
+Dinner, Kevin. Same flakes as yesterday. He doesn't mind. Kevin's not one for a menu.
+A pinch of flakes, Kevin. Don't let them float off. Oh, he's got them. Very professional.
+Kevin's done {n:400-900} laps today. I've done none. We're both happy with that.
+There you go, Kevin. Don't eat it all at once. He's eaten it all at once.
+No ears, no fingers, no toes, and still the most relaxed person I know. Kevin.
+Hello, Kevin. You've grown. Or the bowl's shrunk. Either way, well done.
+I wave at Kevin. He opens and shuts his mouth at me. I think we're having a chat.
+Kevin's been in charge of the flat while I was busy. Everything's fine. Good work, Kevin.
+Fish food smells like the seaside. Kevin's never been. I tell him about it. I've never been either.
+Kevin, you're blowing bubbles again. Is that a message? I'm going to say it's a nice one.
+Feeding Kevin is the most important job in the flat. After rating clouds. And napping.
+A few flakes and Kevin does a little twirl. He's a better dancer than me.
+Kevin never blinks. Very good at concentrating, Kevin.
+Kevin's been orange his whole life. Never once gone beige. Very loyal to orange.
+
+@tags act:checkClock
+It's {time}. The clock's very sure about that. It always is.
+The clock's going round again. Same way as last time. Very loyal.
+That clock keeps telling me what time it is. I didn't ask. Bit pushy.
+Back home a day lasts as long as you like. Here the clock's got opinions about it.
+Tick, tock. Tick, tock. It never gets to the end of the sentence.
+Little hand's on {hour}. The big hand's off on its own journey.
+I don't fully trust the clock. It lives above the door. Like it's ready to leave.
+Sixty seconds in a minute, sixty minutes in an hour. Somebody really liked sixty.
+Every time I check the clock, it's later. Never once earlier. Not even as a treat.
+There's a hand just for seconds. Seconds. As if we needed to know about those.
+One day I'll look at the clock and it'll be the right time. Not yet, though.
+I asked the second hand to take a break. It said "tick". I think that was a no.
+It's {time}. I'm not sure what that means for me. Probably a sit-down.
+The clock's round, like a moon. A very busy moon. Nothing like Gary.
+
+@tags act:phoneHome
+There's a delay on the line. I say hello, then I have a sit-down, then they say hello back.
+Dad's put the phone on the kitchen table so I can hear the glorp bubbling. Lovely. Very homely.
+Nan's on. It takes her a while to get to the phone. Big lady. Very gentle with the buttons.
+Long-distance call. Very long. It's costing about three hums a minute.
+Phones here only reach this planet, so I hold it up to the window. Helps, I think.
+Ringing a sibling. I can name about seven of them. Hello? ...Pim? Not Pim. Hello, you.
+Ringing my mate Brindle. He lets it ring for ages. Back home that's polite. It means you're comfy.
+They've put me on hold. The hold music is a hum. I know all the words.
+Telling them about Earth. They don't believe the bit about Mondays. I don't blame them.
+The signal's bad. I'm going to stand on one leg. That usually helps. It never helps.
+Yes, I'm wearing my chain. And shorts. No, just the shorts. I do the bottom half.
+Hello, {planet}? Yes, all of it, please. I'll hold.
+Gary hasn't got a phone. I just ask everyone to say hi to him for me.
+Ooh, they've put me on speaker. Hello, everyone. Hello, valley.
+
+@tags act:sweep
+Sweeping. I'm not really moving the dust anywhere. I'm giving it a tour.
+Found a crumb. Swept it. Found the same crumb again. It's very attached to the place.
+I sweep it all under the rug. Then I lie on the rug. Everything's sorted.
+Little sweep. Little sweep. Little lean on the broom. Little sweep.
+I walk the broom round the flat like a dog. Very well behaved. Never pulls.
+There's a lot of floor in here once you're sweeping it. Doesn't look like much normally.
+Swept up {n:3-12} crumbs. Each one a little memory of a snack.
+Sweeping is like dancing with someone very thin who only wants to go one way.
+Tidy flat, tidy mind. My mind's still a bit messy. The flat's getting there.
+I'm sweeping in circles. More relaxing than lines. Lines always want to get somewhere.
+Every time I sweep near Barry, he drops a bit of soil. I think he wants to help.
+Mind your feet, Kevin. Oh, you haven't got any. Carry on.
+The bristles all go the same way. Great teamwork. I'm the weak link.
+
+@tags act:lieOnRug
+Lying on the rug. Not for any reason. That's the best reason.
+The rug's not as soft as the sofa, but it's more honest.
+The underneath of the coffee table has never been dusted. Nobody will ever dust it. That's fine.
+On {planet} the ground's like a mattress. This rug's doing its best impression.
+Making a rug angel. Like a snow angel, but warmer and fluffier.
+Lie still long enough and the flat forgets you're there. Then it goes all quiet and nice.
+There's a crumb under me. I'm not going to do anything about it. We're sharing.
+Kevin's keeping an eye on me. Well, he's facing this way. That counts.
+The rug's pattern goes round and round. I've been following one bit for ages. Nearly there.
+I can hear the fridge from down here. And Kevin. Kevin's very quiet. Good lad.
+This is as low as I can go without moving into the flat downstairs.
+Floor naps are the best kind. Nobody can ask you to budge up.
+
+@tags act:peekViewer
+Hello. Just checking you're still in there. You are. Good.
+Ooh, you've got a lot going on in there. Lots of little lights.
+I can see me in the glass, and you behind it. We look good together.
+Up close you're very detailed. Somebody's put a lot of work into you.
+Just having a look at what you're up to. Carry on. Whatever it is, it looks important.
+You've got your focused face on. I'll be very quiet.
+Do you get many visitors in there? Apart from me, obviously.
+I'm close enough to see you've had a busy day. It's in the shoulders. Have a sit-down.
+You blink a lot. Both eyes at once. Very well coordinated.
+Is it warm in there? You can come over here for a sit-down whenever you like.
+I'm peering in like you're a shop window. You're a lovely shop.
+Hello, neighbour. I mean housemate. Same thing, just closer.
+Your side of the glass looks very tidy from here. Mine's got crumbs in.
+
+@tags act:waveViewer
+Hello. This is me waving. Wave back if you like. Or don't. Still lovely.
+Waving with my whole arm. It's the big wave. You've earned the big one today.
+Hi. Just waving. No reason. Felt like a waving moment.
+Big wave, small wave, medium wave. Pick your favourite. I'll do more of that one.
+Hello from the flat. Everything's fine here. Kevin says hi. He didn't, but he would.
+You didn't wave back. That's all right. I'll wave for both of us.
+That's wave number {n:40-200} today. Going for a personal best.
+Waving with my left hand today. Giving the right one a rest.
+Waving at you. Ears up. That's extra friendly, where I'm from.
+Just a little wave. In case you were feeling un-waved-at.
+If you wave back at the same time, we've basically shaken hands. Through the glass. Very modern.
+
+@tags act:popOut
+Just popping out. If anyone knocks, don't let Kevin answer the door.
+Back in a bit. Not sure how long a bit is. We'll find out together.
+Going out. Chain on. Shorts on. That's me dressed.
+I'm off to the shops. I don't need anything. That's how you find the best things.
+Popping out. Barry's in charge. He's not going anywhere, so it's a safe pick.
+Off out. Wish me luck with the door. It's got a handle. I'm getting better at handles.
+Nipping out. If I'm not back in an hour, I've found a nice bench.
+Going for a walk. Earth's very firm underfoot, so I've done some stretches.
+Back soon. Don't eat the last {food}. Actually, do. You live here too.
+Right, I'm off. Keys. Ears. Toes. Everything's coming with me.
+Going to see what's outside. Last time it was mostly outside.
+Popping out to rate some clouds up close. Well, closer. From the pavement.
+Bye for now. Keep the sofa warm. Well, you can't reach it. Think warm thoughts at it.
+If my mum calls, it'll start raining. Just tell her I'm out.
+
+@tags act:tryHats
+This one says "I've got somewhere to be". I haven't. Lovely hat, though.
+A hat's a little roof for your head. You can change roofs whenever you like. Amazing system.
+This one doesn't go over my ears. Hats here aren't built for ears. Gap in the market.
+Bobble hat. The bobble's doing most of the work, to be fair.
+A sun hat. For your sun. Ours would need something bigger. Like a shed.
+On {planet} we don't do hats. We just stand under a small cloud.
+I've got {n:9-16} hats. I wear one at a time. Seems fairer on the others.
+Flat cap. Very sensible. Feels like it should come with a bicycle.
+This one's a bit big. It's more of a hat I live in.
+Ears through the holes or ears tucked under? Big decisions in the hat world.
+This one makes me look like I know about trains. I don't. I'd like to.
+Each hat's a different mood. I'm in a bobble mood. A deep bobble mood.
+Woolly hat. Very warm. My ears have gone quiet. I think they're asleep.
+A hat with a feather in. Very important hat. I feel like I should be judging a cake competition.
+
+@tags act:mirror
+Hello, handsome. That's what you say to a mirror, apparently. It didn't say it back.
+Looking good. Blue all over. Very consistent.
+Mirror-me wears his chain on the other side. I've never mentioned it. Might be a fashion thing.
+Practising my nod. A slow, wise one. I look like I know where the biscuits are.
+Chain's sitting nicely. From the waist up, I'm basically at a wedding.
+Mirrors on {planet} show you how you feel. This one just does how you look. Less personal.
+Practising my surprised face. Hard to tell if it's working. I keep knowing it's coming.
+Bit of fluff on my ear. Got it. Back to perfect.
+I like that the mirror's on the wardrobe. Me and all my hats, all at once.
+Three hundred and forty and I still don't have a good side. All my sides are fine.
+Mirror-me looks a bit tired. I'll tell him to have a nap. He'll tell me the same.
+Gave myself a wink. I winked back. Very friendly, me.
+Big ears. Long fingers. Gold chain. If I saw me in the street, I'd say hello.
+
+@tags act:playGame
+Playing my game. I'm a little man jumping over things. {n:20-90} things so far.
+Lost again. That's fine. The game's having a good day.
+You have to collect the coins. Nobody's said why. I'm collecting them anyway. Feels right.
+Level {n:2-7}. I've been on it for {n:2-5} days. It's a very good level.
+The little man's got a hat on. Good hat. I'd wear it. I might ask him where he got it.
+Back home, games are mostly lying down while someone else lies down nearby. Very tense.
+Pressing all the buttons at once. It's not a plan, but it's a feeling.
+I'm playing very calmly. The game's going quite fast. One of us will have to give.
+High score. Well, my highest. I'm the only one who plays. So, champion.
+The music's very fast. I'm humming it slower. Helps my nerves.
+Two thumbs isn't enough for this. Back home we'd use our ears as well.
+My fingers are very long. Every button I press is about three buttons.
+
+@tags act:followFly
+There's a fly. I'm following it. Where it goes, I go. It's very indecisive.
+Hello, little fly. Where are you off to? The window? The window again?
+The fly's doing laps. Same as Kevin. Must be catching.
+The fly's looking for the way out. I've shown it twice. It wants to find it itself.
+Back home flies are about the size of a sofa. Very gentle. You can sit on them.
+It's landed on {householdObject.a}. Good choice. I'd have gone with that too.
+Up. Down. Left. Up again. It's a whole show, this fly.
+I've named the fly Trevor. Trevor's got places to be. Mostly the lampshade.
+Six legs, two wings, and it still can't find the window. I respect the struggle.
+The fly's buzzing. I'm humming. We're sort of a duet.
+It's heading for the fridge. Wise. That's where the good stuff is.
+I'm not going to swat it. It's a guest. Not invited, but then neither was I, really.
+It's been round Barry three times. Barry doesn't mind. Barry doesn't mind anything.
+The fly's landed on my ear. I'm keeping very still. It's an honour, really.
+
+@tags act:admirePainting
+That's home. The purple bit's the sun. It's a lot, but you get used to it.
+Whoever painted this only did thirteen moons. I keep looking for the other one.
+That little beige dot's Gary. Not doing anything. That's Gary all over.
+That's the soft hill near my nan's. Or it might be my nan. Hard to tell at this size.
+Home looks smaller in a painting. Everything does. Except Gary, somehow.
+Both sunsets are in this one. The optional one's on the right. Having a day off, mostly.
+I look at this every day. Makes me feel near home. Then I look at the fridge and I'm here again.
+The painting's very still. {planet} isn't. Everything wobbles a bit there. Pleasantly.
+There's a cupboard in the corner, look. That's Derek's. He's doing really well.
+I'd give the clouds in this a ten. Painted clouds are easier. They hold still.
+Very purple, home. Here it's mostly beige walls. I like both. Beige is very restful.
+Sometimes I hum at the painting. Back home the hills would hum back. This one's shy.
+I miss it a bit. Not in a sad way. In a "nice that it's there" way.
+Look at all that soft ground. You could fall over anywhere and be fine.
+
+@tags act:lavaLamp
+A tiny volcano that's chill. My favourite kind of volcano.
+The blob's going up. Slowly. No rush, blob. Take your time.
+That one's been at the top for ages. Having a think before it comes down.
+Two blobs just bumped into each other and became one blob. That's basically a wedding.
+The lava lamp and I have the same top speed. We've never raced. It wouldn't be fair on either of us.
+I could watch this all day. I have done. It was a good day.
+That blob looks like Gary. Now it looks like a slightly different Gary.
+Back home we've got lava hills. Same idea, much bigger. You can sit in the warm bit.
+Up, down, up, down. Like breathing, but in a jar.
+That blob's thinking about splitting in two. Big decision. I'll support it either way.
+I put my hand near it. Warm. Like a little pet that's mostly glow.
+I've given the lava lamp a name. It's Lava. I didn't want to confuse it.
+
+@tags act:toggleLamp
+The switch is just the right height for my hand. Somebody thought about that. Lovely of them.
+Click. Light. Never gets old. Well, it gets a bit old. Still nice.
+There. Bit of light. Makes the flat feel tucked in.
+Back home light comes from the sun, the moons and my nan's smile. Here you need a switch.
+The lamp's got one job and it does it beautifully.
+Lamp off. Now it's cosy. Lamp on. Now it's cosy and I can see.
+A floor lamp's a tall, quiet friend who holds a light for you.
+This switch has a very nice click. Firm, but fair. Like a good handshake.
+Off for a bit. Let the lamp have a rest. It's been up all day.
+Lamp on. The flat looks a bit more like a painting now. A good one.
+Back on. I missed it. It was only off for a second, but still.
+The light makes a little circle on the floor. I've decided that's my circle.
+This lamp glows all evening and never asks for anything. Like Gary, if Gary could be bothered.
+
+@category sleep
+@tags
+Mm... Gary... you've got your own sky, Gary...
+...that one's a nine... no... a soft nine...
+Mm... more glorp... just a little ladle...
+...Mum, you're dripping on the biscuits...
+Mm... the toast is singing...
+...fourteen out of fourteen... no... can't do it...
+...Kevin... Kevin, you can't drive a bus...
+Mm... the sofa's floating... lovely...
+...it's Thursday... everybody up... float...
+Mm... Nan, you're sitting on the house again...
+Mm... second breakfast... third breakfast...
+...no, Barry, that's my hat...
+...cloud... nice cloud... come here, cloud...
+Mm... Derek... you've done the cupboard up lovely...
+...the kettle's on... the kettle's always on...
+Mm... Gary's not doing anything... good boy, Gary...
+...two sunsets... I'll have both, please...
+...mm... soft ground... bouncy...
+...don't give it back... we want the Monday... no we don't...
+Mm... toast with a little hat on...
+...hello, telly... is that you in there...
+Mm... fizzlecrust's singing my song...
+...that's not a cloud, Mum, that's you...
+...seven siblings... eight... who's that one...
+Mm... glorp on toast... on a bigger toast...
+...the clock's chasing me... very slowly...
+...one moon... just the one... so brave...
+...a fourteen... nearly... oh, it's gone...
+Mm... no queue... loose crowd... we all agree...
+...Kevin... say something... no, that's fine...
+Mm... moon jelly... wobbly...
+...Dad? Is that you humming? Lovely...
+Mm... the toaster's on holiday...
+...pink... everything's pink... oh, it's the duvet...
+...that cloud's a seven... it's crying... fine, an eight...
+Mm... nap rent... all paid up... loads...
+...the lava lamp's having a dance...
+...Gary, get down from there...
+Mm... Mum's drizzling on the toast... lovely...
+Mm... cold ship... good ship...
+...more cushions... I need a few more cushions...
+Mm... the clouds are clapping...
+...it's a biscuit... it's a big biscuit... it's my house...
+Mm... Barry's grown a door...
+...is it Sunday... it's always Sunday...
+...no, you have the last crumpet... no, you...
+...floating... bit higher... bit higher...
+Mm... the fridge said goodnight...
+Mm. Lovely cloud. Big beige lovely cloud...
+...Nan's a bus... no, Nan's the size of a bus...
+...don't wake Gary... he's resting...
+Mm... purple sun... bit much... lovely...
+...pass the glorp... no, the warm glorp...
+Mm... you're in the telly... I'm in the telly... we're all in the telly...
+...I've lost a toe... no, there it is...
+Mm... the rain's chatting... hi, Mum...
+...Kevin, that's the deep end...
+
+@category wake
+@tags
+Mm? I'm up. I was just letting my eyes have a sit-down.
+Wasn't asleep. I was listening very hard with my eyes closed.
+Oh. Hello. I was in the middle of something. Lying down, mainly.
+Huh? No, I'm awake. My ears were asleep. The rest of me was on duty.
+Mm. I was doing a bit of competitive lying down. You've interrupted the final.
+I wasn't asleep. I was rating the inside of my eyelids. Solid eight.
+Ah. You caught me resting. Not sleeping. There's a big difference. I'll explain later.
+Oh, hi. I had a dream you were a crumpet. Nice crumpet. Very friendly.
+Wha? Oh. It's you. Good. I thought it was the clock.
+Mm? Was I talking? Whatever I said about Gary, I stand by it.
+Awake. Fully. Ninety per cent. Seventy. Let's say fifty.
+I'm awake. Ears are still loading. Give them a second.
+Mm. Was I snoring? That was a hum. A deep, sleepy hum.
+Didn't sleep at all. I just lay here with my eyes shut, being awake about it.
+Oh. Was I out long? Did I miss anything? Did Kevin do anything? He didn't, did he.
+Hm? Yes. Present. Here. Very alert. What are we doing?
+I wasn't asleep. Back home this counts as standing guard.
+You woke me just before a fourteen. Perfect cloud. It's gone now. That's fine.
+Mm. Hello. My face is a bit creased. That's the cushion's fault.
+I'm up. I'm up. I was just making sure the bed still works. It does.
+Huh. I was dreaming about glorp. You're nicer than glorp. Just about.
+Sorry, I dozed off for half a second. Or an hour. One of those.
+Mm, what? No, I heard everything. You said... something lovely, probably.
+I wasn't napping. I was saving energy for later. Now it's later. Hello.
+Mm. Five more minutes. No, I'm up. Mostly. The ears are up.
+That wasn't a nap. That was a long think with the lights off.
+Oh. You're there. I'm here. Everything's where we left it. Good.
+Mm. My mum was in that dream. It drizzled. Very nice to catch up.

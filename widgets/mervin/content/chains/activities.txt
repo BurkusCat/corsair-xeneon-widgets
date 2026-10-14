@@ -1,0 +1,339 @@
+# Chains that start an activity: he begins doing something and talks through it.
+
+@chain act-dance-one-record
+@topic music
+@start act:dance
+- <act:dance> Right. I'm putting the record on. The only record. Best one.
+  | <act:dance> I'm going to put my record on. You know the one. There's only one.
+- "Planet 6's Greatest Hums". It's got everything. As long as everything's a hum.
+  | Twelve tracks. Eleven hums and a pause. The pause is very popular back home.
+- Track three's my favourite. It's the hum you do when you find a warm bit of ground.
+  | This next one's a lullaby for moons. Gary nods off halfway through. Every time.
+-? Kevin's never heard any other music. He thinks it's all hums. He's not far wrong.
+- The dance goes like this. Sway left. Wait. Sway right. Wait a bit longer.
+  | Back home it goes: sway, pause, sway, a long think, then sway again.
+- I've played it about {n:300-900} times. It still gets me. Especially the pause.
+  | I know every hum by heart. Still gets me, though. Every time.
+= And that's the album. Both sides. I'm going to lie down and let it settle.
+  | Right. Record's over. That's my dancing done for the {partOfDay}.
+
+@chain act-dance-nan
+@topic family
+@start act:dance
+- <act:dance> Hang on. I can feel a dance coming on. Stand back.
+  | <act:dance> Excuse me. My feet have just decided something.
+- This is the one my nan taught me. She's about the size of a bus, so it's mostly leaning.
+  | It's my nan's dance. She's the size of a bus, so it's a lot of gentle leaning.
+- You lean to the left. The whole valley leans with you. That's how you know it's going well.
+  | When Nan leans, everyone nearby leans too. You don't get a choice. It's lovely.
+- Here there's no valley. Just me and the rug and a goldfish.
+  | Here it's just me leaning. The flat stays where it is. Bit stiff, but fine.
+-? Kevin's leaning a bit. Or swimming at an angle. I'll take it.
+- Then you do a little spin. Slowly. Nan's spin takes about an afternoon.
+  | Then there's a spin. Nan's spins take ages. You can make a cup of tea in the middle.
+= There. Danced. Nan would be proud. She'd lean on me a bit, to show it.
+  | Anyway, that's the nan dance. I'm going to have a sit-down. That's also part of it.
+
+@chain act-float-thursday
+@topic wellbeing
+@start act:floatMeditate
+- <act:floatMeditate> I'm going to try a float. Back home everyone does it on Thursdays.
+  | <act:floatMeditate> Time for a little float. Don't worry if I go up a bit.
+- You cross your legs. You rest your hands. Then you stop thinking about the floor.
+  | Legs crossed, hands on knees. Then you try to forget there's a floor.
+- That's the hard part here. Your gravity's very attached to me. It keeps checking I'm still about.
+  | Earth's gravity is quite clingy. I keep telling it I'm fine. It doesn't believe me.
+- So you think light thoughts. Feathers. Bubbles. Gary. No, not Gary. Gary's a rock.
+  | Light thoughts help. Bubbles. Dandelions. A very small cloud. Not a heavy one.
+-? Is it working? Don't tell me. If I know, I'll come down.
+- And up. About a biscuit's thickness. On {planet} that's a beginner's float. Here it's a miracle.
+  | Off the ground. Only by the width of a custard cream. But it counts. Everything counts.
+= And down. {n:3-9} minutes in the air. I'm going to tell my mum. She'll drizzle about it.
+  | Right. Back on the rug. One float a week is plenty. I've done mine. Big week.
+
+@chain act-float-quiet-mind
+@topic wellbeing
+@start act:floatMeditate
+- <act:floatMeditate> I'm going to meditate for a bit. Very serious. Ears down.
+  | <act:floatMeditate> Little meditation. Don't mind me. I'll be in here somewhere.
+- Breathe in for four. Out for four. Then a long bit where I forget to count.
+  | In for four. Out for four. Then I lose count and just sort of breathe freestyle.
+- A thought's coming. It's about toast. I'm letting it float past, like a bus I don't need.
+  | Here's a thought. Toast. I'm not going to hold onto it. Off it goes.
+- Here's another one. It's the same toast. It's gone round the block.
+  | Another thought. Toast again. With jam this time. It's come back with a better offer.
+-? On {planet} we call this "being near the ground on purpose".
+- I think I've reached a very calm place. It smells of toast.
+  | I've found it. Inner peace. It's warm, and slightly buttery.
+= Right. Meditation over. I'm going to make some toast. I think that was the lesson.
+  | That's enough calm for one day. I'm off to make toast. The universe has spoken.
+
+@chain act-exercise-squats
+@topic fitness
+@start act:exercise
+- <act:exercise> Right. Exercise. I've been putting it off for about forty years.
+  | <act:exercise> I'm going to do some exercise. Mark the date. Tell Kevin.
+- Squats. You go down like you're going to sit, and then, quite cruelly, you don't.
+  | Squats are sitting down without a chair. Then standing up again. Nobody's said why.
+- One. That was fine. Two. Still fine. Three. I'm going to have a think about four.
+  | One... two... three. I feel squats have taught me everything they know.
+- On {planet} the ground's soft, so there's no point. You squat and the ground squats with you.
+  | Back home, exercise is bouncing slowly to the shops. You get very fit. In a soft way.
+-? Kevin's watching. He's never done a squat in his life. Doesn't need to. Look at him.
+- You're meant to cool down afterwards. I'm going to cool down on the sofa. Thoroughly.
+  | You're meant to drink water after. I'm having a cup of tea. It's mostly water.
+= That's my exercise for the week. I'm going to sit down and be proud of it.
+  | And done. Three squats. I'm putting it on the fridge.
+
+@chain act-tea-proper-cup
+@topic kitchen
+@start act:makeTea
+- <act:makeTea> I'm making a cup of tea. A proper one. Watch this.
+  | <act:makeTea> Kettle time. I'm going to make tea the proper way.
+- First you fill the kettle. Not too full. The kettle gets nervous.
+  | Fill the kettle. Only as much as you need. Kettles don't like to overthink.
+- While it boils, you get the mug out and look at it. That's an important bit.
+  | While it's boiling, you stand nearby. Not too close. You're there for moral support.
+- Then the bag goes in, the water goes in, and you count to a number you've chosen. I choose eleven.
+  | Bag, then water. Then you count to your number. Everyone's got a number. Mine's eleven.
+-? Mum says glorp's better. But Mum's weather, so she mostly drinks rain.
+- Milk until it's the colour of the sofa. That's the rule. Mustard-ish.
+  | A splash of milk. Just till it looks like the sofa. Then you know.
+- Then both hands round the mug. Six fingers, two thumbs. Full coverage.
+= There. Tea. I'm going to sit with it until it's cold, then drink it anyway. Tradition.
+  | Lovely. That's a proper cup. I'm taking it to the sofa to ignore it for a bit.
+
+@chain act-tea-for-you
+@topic viewer
+@start act:makeTea
+- <act:makeTea> I'm going to make you a cup of tea.
+  | <act:makeTea> Fancy a cuppa? I'm making you one anyway.
+- How do you take it? No, don't tell me. Milk, no sugar. You've got a milk face.
+  | I'm guessing milk, one sugar. You look like a one-sugar person. That's a compliment.
+- I'll put it right by the glass, so it's nearest your bit.
+  | I'll leave it on the side, nearest your bit of the flat.
+- I've never seen anything go through the glass. But tea's very determined.
+  | I don't know if things get through the glass. Never seen it. Never really tried.
+- The steam might, though. Steam gets everywhere. It's very nosy.
+  | Warm things get everywhere, I reckon. A bit of it must reach you.
+= There you go. Your tea's on the side. Let me know if it gets there.
+  | Anyway. That's your tea done. I'll keep an eye on it for you.
+
+@chain act-barry-check-up
+@topic plants
+@start act:waterPlant
+- <act:waterPlant> Time for Barry's check-up. Water, chat, and a look at his leaves.
+  | <act:waterPlant> I'm giving Barry his water. He's been giving me a look.
+- First, a drink. Slowly. Barry doesn't like to be rushed. He's a plant.
+  | Water goes on the soil, not the leaves. Barry was very clear about that. Well, he drooped.
+- Then I count his leaves. {n:14-30}. Same as last time. Or one more. I lose track at the big ones.
+  | Leaf count. I get a different number every time. Either Barry's growing or I'm bad at counting.
+- Then I tell him he's doing well. Back home that's how you grow plants. You just encourage them.
+  | Then a bit of praise. On {planet} plants grow on compliments. Barry seems to like them too.
+-? I've never told him he's a houseplant. I think he thinks he's a tree. I'm not going to say anything.
+- Last thing, I dust his big leaves. One at a time. It's like a little spa.
+  | Then I dust his leaves. Each one. He goes all shiny. He likes being shiny, I reckon.
+= There. Watered, counted, praised and polished. Barry's sorted for the day.
+  | Done. Barry's happy. I can tell, because he's doing exactly what he was doing before.
+
+@chain act-kevin-dinner
+@topic pets
+@start act:feedFish
+- <act:feedFish> Kevin's dinner time. He's been waiting. I think. Hard to tell with Kevin.
+  | <act:feedFish> Time to feed Kevin. He's doing that face. He's always doing that face.
+- Just a pinch. Kevin eats like it's the first meal anyone's ever had.
+  | A tiny pinch of flakes. Kevin goes at it like he's never seen food. Every time.
+- While he eats, I tell him about my day. He's very good at not having opinions.
+  | I tell him the news while he eats. Not once has Kevin changed the subject.
+- Then he does a lap, to celebrate. I have a sit-down, to celebrate. Same idea, really.
+  | After dinner he swims round once. I sit down once. We've each got our own system.
+-? He's very good at being a goldfish. Never once tried to be anything else. I admire that.
+- Kevin's the quietest one in the flat, so I run the big decisions past him. He's never said no.
+  | I check big decisions with Kevin. He always says the same thing. Bubbles. Very wise.
+= Right. Kevin's fed. I'm going to go and feed me. Seems only fair.
+  | There. Dinner's done. Night, Kevin. Well, not night. You know what I mean.
+
+@chain act-hats-staying-in
+@topic clothes
+@start act:tryHats
+- <act:tryHats> I need a hat. For staying in. It's a big occasion. Help me choose.
+  | <act:tryHats> Hat time. I'm staying in today, and I want to look the part.
+- First, the rain hat. Very practical. But it's not raining in here. It would feel a bit silly.
+  | The rain hat? Good hat. But it's dry indoors. It'd just be waiting for something.
+- Next, the party hat. Pointy. Bit loud for a sofa. The sofa might get ideas.
+  | Party hat. Very pointy. The sofa's not ready for that kind of energy.
+- This one's a sleeping hat. Long. With a bobble at the end. Now we're talking.
+  | Here we go. The sleeping hat. Long and floppy. It goes all the way down my back.
+-? Kevin's watching me try them all on. He doesn't wear hats. He's got the bowl.
+- On {planet} nobody wears hats. Ears get in the way. So I'm catching up.
+  | Back home we don't do hats. Ears get in the way. I've got a lot of lost time to make up.
+= Sleeping hat it is. Perfect for staying in. I'm going to go and stay in, in it.
+  | Right. Decision made. Sleeping hat. Now I need to go and do some sleeping, to match.
+
+@chain act-hats-formal
+@topic clothes
+@start act:tryHats
+- <act:tryHats> I've got a top hat in here somewhere. For formal occasions.
+  | <act:tryHats> Hang on. I'm looking for my formal hat.
+- Here it is. Very tall. Like carrying a little chimney about on your head.
+  | Found it. It's very tall. My ears have to go either side, like bookends.
+- People wear these to weddings here. And to very important lunches. I'm wearing it because it's {weekday}.
+  | You wear these to very important things. I've got nothing on today. That's important too.
+- Chain on. Top hat on. Shorts on. It's... it's a look.
+  | Chain. Top hat. Baggy shorts. I look like I'm off to something very important at the seaside.
+-? Kevin's staring. I think he's impressed. Or he's just staring. He does that.
+= I'll keep it on for an hour, in case something formal happens. Then I'm going to nap in it.
+  | Right. Very formal. Too formal for the sofa. I'm taking it off now.
+
+@chain act-mirror-other-me
+@topic home
+@start act:mirror
+- <act:mirror> Quick look in the mirror. Just to make sure I'm still me.
+  | <act:mirror> I'm going to check the mirror. See how I'm getting on.
+- There I am. Same colour as yesterday. You never know, with Earth water.
+  | Yep. Still me. Two ears, one chain. I check every day. Just in case.
+- The mirror-me lives in a flat just like this. But everything's the wrong way round.
+  | There's a whole flat in there. Same as ours, backwards. Barry's on the wrong side.
+- His clock goes backwards. I think he's getting younger. Good for him.
+  | Even his clock runs the other way. He must have all the time in the world.
+-? I tried to catch him out once. Moved really fast. He was just as fast. Very sharp, mirror-me.
+- Sometimes I wonder if he thinks I'm the mirror one. I hope he's well.
+  | I hope he's got a housemate too. Someone nice to watch. Like you.
+= Right. We both look good. I'm off now. He's off too. Very polite, the pair of us.
+  | Anyway. Lovely to see him. Same time tomorrow, probably.
+
+@chain act-stretch-full-length
+@topic body
+@start act:stretch
+- <act:stretch> Big stretch incoming. Stand back. I'm quite long when I'm unfolded.
+  | <act:stretch> I'm going to have a stretch. A proper one. All the bits.
+- You start at the top. Ears. People forget the ears. Mine have been folded all day.
+  | Ears first. They've been tucked in since breakfast. They need a good unfurl.
+- Then the arms. Up, up, up. If I go any higher I'll need a ladder.
+  | Arms next. Right up. I can nearly reach the ceiling. Nearly. It's a tall ceiling.
+- Then you bend down to the toes. Long way down. I take a little rest halfway.
+  | Then down towards the toes. I don't go all the way. I just let them know I tried.
+-? Don't watch this bit. It's not my best angle. Every angle's fine, actually.
+- On {planet} you don't stretch yourself. You lie on a soft hill and it does it for you.
+  | Back home the ground's soft, so you just lie on it and it stretches you. Like dough.
+= There. Full length again. I'm going to celebrate by lying down.
+  | Right. All stretched. I'm going to go and use my extra height. On the sofa.
+
+@chain act-phone-mum
+@topic family
+@start act:phoneHome
+- <act:phoneHome> I'm going to ring home. It's been a while. Well, a day. That's a while.
+  | <act:phoneHome> Better ring my mum. She worries. She goes all overcast.
+- Hello, Mum? ... Yes, it's me. ... No, still on Earth.
+  | Hi, Mum. ... It's Mervin. ... Yes, the one on Earth.
+- She always wants to know what the weather's doing here. Professional interest. She is weather.
+  | First thing she asks is what the weather's like. She likes to keep an eye on the competition.
+- I said mostly grey, with a bit of sun. She's gone quiet. I think she's taking notes.
+  | I told her it's been grey with sunny bits. Long pause. Slight breeze. I think she's impressed.
+- Now she's asking about my coat. I haven't got one. I've got shorts. It's gone a bit foggy.
+  | She asked if I'm wrapped up. I said I've got a lovely pair of shorts. There's been a gust.
+-? Dad's humming in the background. Lower than usual. He's probably just near the fridge.
+= Right, she's gone. Sun's come out. That's her way of saying bye. Bye, Mum.
+  | And she's gone. Lovely. I'll ring again on Thursday. She likes a Thursday.
+
+@chain act-phone-derek
+@topic family
+@start act:phoneHome
+- <act:phoneHome> I'm going to ring Cousin Derek. He's always in. He lives in a cupboard.
+  | <act:phoneHome> I'll give Derek a ring. He's always home. Home's a cupboard.
+- Derek! It's me. ... How's the cupboard? ... Really? A hook? For your coat?
+  | Hi, Derek. ... Yeah, still on Earth. ... How's the cupboard? Any news?
+- He's put a hook up. In the cupboard. He's doing so well. He's always doing so well.
+  | He's got a hook now. Derek's really going places. Well. Staying in one place. But nicely.
+- He asked about the flat. I said it's like a cupboard, but someone kept going.
+  | I told him about the flat. He said it sounds big. I said it's mostly floor.
+-? He wants to know if Earth cupboards are any good. I said they're full of tins. He went quiet.
+- He says everyone sends their love. Nan sent a big one. It took a while to come through.
+  | He says the family send their love. Even the ones whose names I can never remember.
+= Right. Derek's got to go. Something's happening in the cupboard. Bye, Derek.
+  | That's Derek. Good old Derek. I'm going to look at our cupboard with new eyes.
+
+@chain act-rug-floor-view
+@topic home
+@start act:lieOnRug
+- <act:lieOnRug> I'm going to lie on the rug and look at the flat from underneath.
+  | <act:lieOnRug> Rug time. Everything looks different from down here. Come and see. Well. Think about it.
+- Starfish first. Arms out, legs out, ears flat. Now I can see under everything.
+  | Arms out. Legs out. Ears flat. Right. Now I'm at furniture level. The bottom bit.
+- The sofa's got a label underneath. "Do not remove." I haven't. I'm a very good guest.
+  | There's a label under the sofa. It says "do not remove". It's still there. I've done my bit.
+- There's a sock under the bed. Just the one. It's been there for weeks. I think it's on a retreat.
+  | Under the bed there's a single sock. Very peaceful. I'm not going to disturb it.
+-? From down here, Kevin looks enormous. Like a little orange moon on the sideboard.
+- And the ceiling. Look at all that ceiling. Nobody ever looks at it. It's been up there the whole time.
+  | The ceiling's lovely from here. Big, white, very calm. It never gets any attention, poor thing.
+= Anyway. That's the view from down here. I'm staying a bit. Nobody can say I haven't seen the whole flat.
+  | So, yeah. The underneath of the flat. Very peaceful. I might stay till teatime.
+
+@chain act-game-little-man
+@topic games
+@start act:playGame
+- <act:playGame> I'm going to play my game. You can watch. It's very exciting. In a way.
+  | <act:playGame> Game time. I'm getting quite good. I've nearly finished the first bit.
+- There's a little man, and he's on a quest. I don't know what for. I don't think he does either.
+  | You're a little man on a quest. Nobody tells you what the quest is. Same as me, really.
+- There's a cloud in it that drops things on you. I've rated it a three. Professionally.
+  | There's a rude cloud. Throws things. Gets a three from me. I don't give threes lightly.
+- I don't jump on anything. I go round. Takes longer, but nobody gets upset.
+  | I don't squash anything. I wait for it to move. I've been waiting a while.
+-? Kevin's watching over my shoulder. He keeps telling me to go left. With his face.
+- There's meant to be a flag at the end. I've never seen it. I've heard it's lovely.
+  | There's a flag at the end, apparently. I believe in it. That's enough for now.
+= I'm going to pause it. He's earned a sit-down. So have I.
+  | Right. Paused. He's safe there. I'll come back for him. Probably Thursday.
+
+@chain act-sweep-crumbs
+@topic home
+@start act:sweep
+- <act:sweep> I'm going to sweep the flat. It's mostly crumbs. And they're mostly mine.
+  | <act:sweep> Sweeping time. Got the broom. Got the attitude. Mostly the broom.
+- You start in one corner. Then you push everything into another corner. That's sweeping.
+  | The trick is to get every crumb into one corner. Then it's not a mess. It's a collection.
+- Back home, dust doesn't land. It floats about till Thursday, then it goes home.
+  | On {planet} you don't sweep. Dust just floats off on Thursdays. Very self-sufficient.
+- Under the sofa there's {homeLostThing.a}. I've been looking for that. I haven't, but still.
+  | There's {homeLostThing.a} under the sofa. No idea how. It looks very comfortable.
+-? Kevin's watching me sweep. He's never had to. Water's very tidy.
+- Now there's a pile. It's a good pile. I'm quite proud of it.
+  | All in one pile. Lovely. Very tidy pile. Real centrepiece.
+= I'm leaving the pile there for a bit, to admire it. I'll bin it tomorrow. Probably.
+  | Right. Flat swept. I'm going to sit down and look at how clean it is.
+
+@chain act-window-appraisal
+@topic work
+@start act:lookOutWindow
+- <act:lookOutWindow> I'm keeping an eye out for a fourteen today. Just in case.
+  | <act:lookOutWindow> I've got a feeling about today's sky. I'm going to keep watch.
+- I rate clouds out of fourteen. I've never given a fourteen. Nobody has. Not here, not on {planet}.
+  | Fourteen's top marks. Nobody's ever got one. My boss hasn't seen one. Her boss hasn't either.
+- A fourteen would have to be perfect. And a bit surprising. And kind to everyone underneath.
+  | A fourteen would have to be the best cloud there is, and not show off about it.
+- That one's close. Lovely fluff. Nice and slow... oh. It's just rained on a bus stop. Nine.
+  | Ooh. That one... no. Bit of grey at the bottom. Ten. Lovely ten, though.
+-? I think they know I'm watching. They puff up a bit when I lean on the sill.
+- I don't mind waiting. My nan's been looking for a fourteen for six hundred years. Very relaxed about it.
+  | I don't mind. The waiting's half the job. The other half's the sitting.
+= Anyway. No fourteen today. That's fine. There's always tomorrow's sky.
+  | Right. Shift over. I'm going to step back from the window and let them be clouds.
+
+@chain act-telly-you
+@topic viewer
+@start act:watchTv
+- <act:watchTv> I'm going to watch a bit of telly. Which is you. Hello.
+  | <act:watchTv> Time for my programme. You're on. Just act normal.
+- I still don't know what this show's about. There's a lot of looking. Very intense looking.
+  | Not sure what the plot is yet. Lots of sitting. Great casting.
+- I think you're working. Or reading. Or working on some reading.
+  | Today's episode is you doing something very important with your hands. I think it's typing.
+- Back home there's no telly. You sit on a hill and watch the next hill. Very slow plots.
+  | On {planet} we watch the moons instead. Gary's night gets huge ratings. Nothing happens.
+-? I haven't missed an episode. Mainly because I've never found the off switch.
+- I'd give it eleven out of fourteen. That's higher than any cloud this month.
+  | Eleven out of fourteen, this show. Higher than any cloud I've rated this week.
+= Anyway. I'm going to keep watching. Don't change. I mean the channel. Well. Either.
+  | So, yeah. Great show. I'll watch the next episode. I think it's starting now.

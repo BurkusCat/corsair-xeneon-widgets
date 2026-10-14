@@ -1,0 +1,538 @@
+# Talking to you, the person behind the glass, plus the special situational categories:
+# greeting, time, timeout, resume, tapFurniture, floorTap, returnHome, peek.
+
+@category viewer
+@tags
+When you type, I imagine it sounds like light rain. Very relaxing, I bet.
+I don't know what your job is, but you give it a lot of attention. Lucky job, I reckon.
+You tap, I come over. That's a system. I've always wanted a system.
+I think you've got your own glass in there. A smaller glass, inside this glass. Glass all the way down.
+When you go quiet for a long time, I assume you're having a think. I respect a good think.
+If you ever need a rest, the sofa's there. You can't reach it. But it's there, in principle.
+We should have a housemates' meeting. Item one: biscuits. Any other business: also biscuits.
+I've told Kevin all about you. He swam round twice. That's a glowing reference, from Kevin.
+Barry's grown since you moved in. Could be the water. Could be the company. I'm going with the company.
+Is it raining on your side? I can never tell. The glass keeps your weather very private.
+I don't know your name yet. I've been calling you "the housemate". Hope that's all right.
+You're the best housemate I've ever had. Also the only one. But you're top of a very short list.
+I left a biscuit by the glass for you. Then I ate it, later. It seemed a shame to let it go stale.
+I wonder what I look like from your side. Small and blue, I expect. Same as from this side.
+Have you got a goldfish in there? Kevin would like a pen pal. He's not much of a writer, mind.
+Some days you tap a lot. Some days hardly at all. Both are fine. I'm around either way.
+I hope your chair's comfy. If it isn't, tell me. I won't tell the chair.
+When you pop off, I hold the fort. It's a small fort. Mostly sofa.
+I've done a rota for the flat. Me: everything. You: be nice. You're absolutely smashing it.
+Back home, someone living behind glass is a sign of good luck. I've just decided that. It's official now.
+If you're tired, you're allowed to stop for a bit. The work will still be there. Annoyingly.
+I asked the clock what you do for a living. It just kept ticking. Very evasive, that clock.
+If you've got a plant in there, tell it Barry says hello. He didn't, but he would if he could.
+I like it when you come over to the glass. It's like a neighbour leaning on the garden fence.
+Your flat must be very tidy. Nothing ever falls through onto my side.
+Do you get clouds in there? You can borrow mine. Just give them back with the same score.
+I wave at the glass sometimes, in case you're looking. No pressure. It's a very low-effort wave.
+You do the glowing box. I do the sky. Between us, I reckon we've got most things covered.
+I don't mind that you're quiet. Kevin's quiet. Barry's quiet. I'm the loud one, and I'm not loud.
+If it gets too busy in there, think about the rug for a minute. Just think about it. Very soft rug.
+You're very good at sitting. I'd give you a nine. And I'm usually very strict about nines.
+I told my dad about you. He hummed in a slightly higher key. That's big, coming from him.
+Some days I think I'm in here and you're out there. Other days it's the other way round. Depends how I slept.
+I reckon we'd get on even without the glass. You'd just have to get used to the humming.
+Whatever you're working on, I hope it goes well. If not, blame Monday. Even if it's Thursday.
+You tap very gently. Some people knock like it's an emergency. You knock like a friend.
+If you ever want to swap for a day, I'm up for it. I'd do your typing. You'd do my lying down.
+Back home, housemates touch ears every morning. I've been doing it with the glass. Close enough.
+I'm never sure if you can hear me. I talk anyway. It's good practice for talking.
+Your side's always lit up. I like that. It's like living next to a very calm lighthouse.
+I worry you don't get enough sit-downs. Not worry. That's too strong. I wonder.
+If your day's going well, lovely. If it isn't, it's only a day. You get a new one after.
+You know what I like about you? You never ask what I've been doing. Which is handy, because it's nothing.
+I hope someone in there brings you a cup of tea. If not, I'm sending one over in my head. It's hot. Careful.
+You look at your screen the way I look at clouds. So it must be a good one.
+If anyone in there is giving you a hard time, I'll have a word. A very quiet word. Through the glass.
+I tried to guess your favourite biscuit. I said custard cream. Barry said nothing. So, custard cream.
+You're very welcome here. I mean, you're not technically here. But you're welcome.
+You and me, we've got a good thing going. You do your bit. I do my bit. My bit is the sofa.
+Remember to blink now and then. You do a lot of looking. I'm no expert. I blink about twice a moonturn.
+If you need me, I'll be on the sofa. If you don't need me, I'll also be on the sofa. Easy to find, me.
+Being housemates through glass is ideal. No rows about the thermostat. I don't know what a thermostat is.
+I think you'd like it on {planet}. Soft ground, fourteen moons, no Mondays. Very you, I reckon.
+How's your day going? Don't answer. I'll guess. Mostly fine, with a good bit coming later.
+I hope you stretch now and then. Arms up. Like this. <gesture:stretch> Lovely. Your turn.
+I don't need to know what you do in there. It's enough that you're in there doing it.
+You must have loads of buttons in there. I've got the remote. Forty buttons. I use two.
+If you have a rough day, you can tell Kevin. He won't tell anyone. He's a goldfish. Very discreet.
+I tidied up today, in case you were looking. I moved a cushion. Then I moved it back. It was fine before.
+You've got a lot on, I can tell. I've got nothing on. Between us we average out nicely.
+Sometimes I tell Barry what I think you're up to. He agrees with all of it. He's very supportive.
+I've decided you're a tea person. Not sure why. You just tap like a tea person.
+Don't worry if you haven't tapped me in a while. I'm not keeping score. I only score clouds.
+I hope you're drinking enough water in there. Barry drinks loads, and look at him. Massive.
+If you get bored in there, you can always watch me. I'll try to do something. Probably sit down.
+
+@tags firstDay
+Oh, you're new. Hello. I'm Mervin. I live here. You live there. Lovely to meet you.
+First day, is it? Make yourself at home. Your side's all yours. I haven't touched a thing.
+Welcome to the flat. The sofa's mustard, the fish is Kevin, the plant is Barry. That's everyone.
+Don't worry about learning everything today. I've been here ages and I still don't know what the clock wants.
+Settling in all right? Take your time. Moving in behind the glass is a big step.
+A new housemate. Brilliant. I've never had one of those. I've hoovered. Well, I've thought about hoovering.
+
+@tags longTime
+We've been housemates {daysTogether} days now. I'd give that a twelve, and twelves never happen.
+I can't remember the flat before you. I think it was just me and a lot of sofa.
+After all this time, I still don't know what you do in there. I've decided I like not knowing.
+{daysTogether} days, you and me. Back home, that's long enough to count as family. Or furniture.
+You've been here so long, Barry thinks you're part of the room. That's the highest honour Barry gives.
+Old friends, us. Not one argument in {daysTogether} days. Mostly thanks to the glass, but still.
+
+@category greeting
+@tags
+Oh, hello. You're on. Lovely.
+There you are. I was thinking about toast, and now I'm thinking about you and toast.
+Hi. The flat's exactly how you left it. I checked. Twice.
+Hello again. Kevin says hi. He blew a bubble. That's hi, in fish.
+Oh, it's you. Good. I was hoping it'd be you.
+Hello, housemate. Come in. Well, stay there. But come in in spirit.
+Welcome back. Nothing happened while you were gone. It was brilliant.
+Oh, hi. The glass lit up and there you were. Good trick, that.
+Hello. Barry's had a drink and I've had a lie-down. We're ready for you.
+Oh, hello. I wasn't expecting you. Well, I was a bit. Hello.
+Hi. I rated some clouds while you were out. Good scores all round. No fourteens.
+You're back. I told Kevin you would be. He didn't doubt it for a second. He can't, really.
+There's my housemate. All right? Good. Me too.
+Oh, good, it's you. For a second I thought it might be a Monday.
+Hello there. Pull up a chair. You've already got one? Even better.
+Oh, hello. I was in the middle of nothing. I can finish it later.
+Welcome back to the flat. Population: me, Kevin, Barry, and you, through the glass.
+Ah, hello. You've arrived just in time for nothing in particular. Perfect timing.
+Oh, hi. I was going to have a nap, but you're better. Slightly.
+Hello. The kettle's warm, the sofa's free, and you're here. That's the full set.
+Oh, there you are. I've been saving up some thoughts for you. Three of them. Small ones.
+Hello, you. Lovely {partOfDay} for a hello.
+<act:waveViewer> Hello. That's a wave. I've been practising it all day.
+
+@tags morning
+Morning. The sun's up. Bit keen, but we'll let it off.
+Good morning. I've been up for ages. Nearly four minutes.
+Morning, housemate. Kettle's warm, clouds are out, Kevin's done a lap. All present.
+Oh, morning. First breakfast is done. Second breakfast is pencilled in for about ten minutes' time.
+
+@tags afternoon
+Afternoon. You've caught me at my best. The lying-down part of the day.
+Good afternoon. Have you had lunch? I've had two. Don't tell anyone.
+Oh, afternoon. The light's gone all golden. Very nice of it.
+
+@tags evening
+Evening. The day's nearly done. You did it. Whatever it was.
+Evening. I've put the lamp on. Everything looks like a nice biscuit now.
+Oh, good evening. Lovely time of day. Everything slows down to my speed.
+
+@tags night
+Oh, hello. Bit late, isn't it? I'm not judging. I'm in my shorts.
+Hello. It's dark out, so I'll keep my voice down. Like a library. A library with a goldfish.
+Hi. Night shift, is it? Me too. I'm keeping an eye on the moon. Just the one, so it's easy.
+
+@tags Monday
+Hello. It's Monday. I've put a cushion out for you. For support.
+Oh, hi. Monday, apparently. Don't worry. I'll be extra calm, to balance it out.
+
+@tags Friday
+Hello. It's Friday. I can feel a weekend coming on. Like a sneeze, but nice.
+Friday. Hello. Everyone's a bit lighter on a Friday. Nearly floating.
+
+@tags weekend
+Hello. It's the weekend, so I'm doing nothing on purpose. It's different from weekday nothing.
+Weekend hello. It's slower than the weekday one. More yawning in it. <gesture:yawn>
+Oh, hi. No work today, I hope. I've got a full day of lying about planned. Join me in spirit.
+
+@tags firstDay
+Oh. Hello. You must be the new housemate. I'm Mervin. Welcome.
+Hello. First day? Don't be nervous. I'm very easy to live with. I mostly lie down.
+
+@category time
+@tags morning
+It's morning. Everyone's rushing about with toast. I'm eating mine sitting down. Slowly.
+Mornings here start all at once. Back home you drift into them over a couple of naps.
+It's {time}. Bit early for me, but the light's being very nice about it.
+Fresh morning, this. Nobody's used it yet. I'll try not to get it messy.
+First cloud of the morning just went past. A seven. Early clouds are never fully awake.
+It's {time}. Kevin's been up since dawn. He doesn't have eyelids. He's always up.
+
+@tags afternoon
+It's {time}. This is the bit of the afternoon where nothing happens. My favourite bit.
+The afternoon's long here. Back home you can make it shorter if you ask nicely.
+Mid-afternoon. Prime biscuit time. I don't make the rules. I just follow them very closely.
+The afternoon is when the day stops pretending it'll get everything done. I like it best.
+Afternoon. Half the day's gone. I watched most of it go by. Lovely day to watch go by.
+It's {time}. That's after lunch and before tea. Back home we call that "the soft bit".
+{weekday} afternoon. Kettle's warm. Barry's upright. All in order.
+
+@tags evening
+It's evening. One sunset, and you don't get a choice. Back home the second one's optional.
+Evening already. The day went past like a bus that didn't stop.
+It's {time}. Lamp on, feet up. That's the evening sorted.
+The evening is the day having a lie-down before bed. Sensible day.
+The sky's gone orange. Back home it'd be purple by now. A slightly louder purple.
+It's {time}. Teatime, round here. I had tea at four. I'll have another, to be safe.
+
+@tags night
+It's {time}. Proper night now. Even the fridge sounds sleepy.
+Very late now. You're up, I'm up. Two owls with jobs.
+Middle of the night. The clock's ticking quietly for once. Even it knows.
+Night on Earth lasts about eight hours whether you need them all or not.
+It's dark, it's late, and everything's put away. Except us.
+
+@tags Monday
+Monday. Everyone's walking a bit slower. I've been walking slowly all along. Finally in fashion.
+
+@tags Tuesday
+Tuesday. Nobody's ever said anything bad about a Tuesday. Or anything at all, really.
+
+@tags Wednesday
+Wednesday. Middle of the week. Like the cream bit in a custard cream.
+
+@tags Thursday
+It's Thursday. I've been standing very lightly all day, just in case.
+Thursday. Back home we'd all be a few inches off the ground by now. I'm firmly on the sofa.
+
+@tags Friday
+It's Friday. People walk differently on a Friday. Bouncier. Almost Planet 6 style.
+Friday. Everyone's talking about the weekend like it's a friend coming to stay.
+
+@tags Saturday
+Saturday. No work, I hope. Back home every day feels like this. Just saying.
+It's Saturday. Even the kettle seems more relaxed. It boiled in its own time.
+
+@tags Sunday
+Sunday. Lovely day for doing a slightly smaller amount than usual.
+It's Sunday. Everything's quieter. Even the pigeons are having a lie-in.
+
+@tags weekend
+It's the weekend. On {planet} they're compulsory. Here they're optional. Please don't opt out.
+Weekend. The furthest I'll go is from the sofa to the bed. Might do it in stages.
+
+@tags weekday
+It's a weekday. You're probably busy. I'll be over here, being very quietly not busy.
+It's {weekday}. Don't know what that means for you, but I hope it's a nice one.
+Ah, {weekday} {partOfDay}. One of my favourites. I say that about all of them.
+
+@tags Monday, morning
+Monday morning. I'll keep my voice down. It's a delicate time.
+
+@tags Friday, evening
+Friday evening. You've made it. Whatever the week was, it's done now. Have a sit.
+
+@tags Sunday, evening
+Sunday evening. Everyone goes a bit thoughtful. I'll put the lamp on. That usually helps.
+
+@tags weekend, morning
+Weekend morning. No alarms, no rushing about. This is basically home. I'm nearly emotional.
+
+@category timeout
+@tags
+...and that's sort of where it was going. I'll finish it some other time.
+Oh, you've gone quiet. That's all right. The story can wait. It's patient.
+I'll leave that one there for now. It's not going anywhere. Stories don't, really.
+Hm. Lost the thread. I'll find it later. It'll turn up down the side of the sofa.
+...anyway, you're busy. I'll save the rest. I'll put it in the fridge.
+Right. I'll pop a bookmark in that.
+Ah, you're off doing things. Fair enough. The rest of the story's on pause.
+...and then. Well. Another day. It's a good bit, though.
+I'll stop there. Leave you wanting more. Or wanting less. Either's fine.
+Mm. I'll let that one have a little sit-down.
+...I'll tell you the ending later. It's not a big ending. You're not missing much.
+Never mind. I'll hum the rest.
+Okay, I'll park that. Like a car. A small, slow car.
+And... I've forgotten what I was saying. Probably for the best.
+That's all right, I wasn't going anywhere with it. Well, I was. But slowly.
+Hm. I'll save the good bit for later. It'll be even better after a nap.
+Oh well. I'll finish it in my head. It went really well, in there.
+I'll put that thought down for now. Gently. It's a bit fragile.
+...anyway, it's not urgent. Nothing I say is ever urgent. That's sort of my thing.
+I'll stop talking now. Kevin's been wanting a go anyway.
+Fine by me. Half a story is still a story. It's just a short one.
+Let's call that an interval. I'll go and stand near the fridge.
+...or I'll just tell Barry the rest. He never interrupts.
+That one can wait. Most things can, I've found.
+I'll pick that back up later. If I remember. I'll probably remember.
+Mm. My ears have gone droopy. That's the story's way of saying "later".
+Right, I've run out of puff. I'll do the rest another day.
+...that's where I'd do a big finish. But it's fine. Next time.
+
+@category resume
+@tags
+Oh, you're back. Right. Where was I? Yes.
+Ah. Where were we? I remember. Hang on. Yes.
+Right, picking that up again. I kept it warm for you.
+So, carrying on from before. Not long before. A bit before.
+Oh, the story. Yes. I left it on the side. Here it is.
+Back to it, then. I'd just got to the good bit. Ish.
+Okay. Where was I? I was in the flat. Still am. Right, yes, the story.
+Ah, good, I've found my place. It was exactly where I left it.
+Right then. As I was saying, before the little pause.
+Now, where did I put that thought? Oh, there. Behind the other thoughts.
+Let me just pick up the thread. There we go. Bit fluffy, but it'll do.
+Okay. I've had a sit-down about it. Let's carry on.
+Oh, yes. That. I've been holding on to it. Carefully.
+Hello again. You'll want the rest of this, I expect.
+Right, the rest of the story. It's been waiting patiently. Like a bus that does turn up.
+Where was I? Ah. Yes. I was mid-thought. Lovely place to be.
+Okay, so, continuing. I've had a little hum and I'm ready.
+Back to the bit I was on. It hasn't changed. Stories are good like that.
+Oh, right, I was telling you something. Let me get my ears in order.
+As I was saying. Ages ago. Well, a bit ago.
+Ah, you're back for the rest. Good. It gets slightly better.
+Where were we? Oh, I know. I'll start from the middle. Middles are nice.
+Now then. Picking up exactly where we left off. Roughly exactly.
+Right, sorry. I got distracted by a cloud. Back to it.
+I remember now. Bear with me. It's coming back to me like a slow boomerang.
+Oh, the thing. Yes. It's been on my mind the whole time. Mostly.
+Right, where was I? I was being interesting. Let's try that again.
+Let me just find my page. Ah. There. Page two. There's only three.
+
+@category tapFurniture
+@tags furniture:sofa
+Sofa. Excellent choice. I'll go and support it.
+You want me on the sofa? Say no more. It's what I was put on this planet for. By accident.
+The sofa. Mustard. Best thing on Earth. I'm on my way.
+Oh, the sofa. I'll go and sit on it professionally.
+Right, sofa time. I'll do the sitting, you do the watching. Teamwork.
+
+@tags furniture:remote
+The remote? I'll have a go. I've never found out what most of the buttons do.
+Remote. Sure. I'll press something. Not sure what. It's always a surprise.
+Ah, the remote. Lots of buttons. I usually press the friendliest-looking one.
+You want me to use the remote? Fine. I'll point it at things and see what happens.
+
+@tags furniture:coffeeTable
+The coffee table. Lovely. No coffee on it, but very good at being a table.
+Ah, the coffee table. I'll go and put my feet near it. Not on it. I have some standards.
+Coffee table. I'll go and put something on it. That's its whole job, and it loves it.
+The low table. Good choice. I'll go and have a sit next to it. It likes company.
+
+@tags furniture:bed
+The bed? Bit early. Or late. I'll go and test it anyway. For safety.
+Ah, the bed. The pink duvet calls. Softly. Like a duvet would.
+Bed. You don't have to ask me twice. You didn't even ask me once. Off I go.
+The bed. Good thinking. A quick lie-down never hurt anyone.
+
+@tags furniture:bedside
+The bedside table. I keep important things there. A sock. Another sock.
+Bedside table. I'll go and check on it. Make sure it's still beside the bed.
+Oh, the little table by the bed. I'll go and have a rummage.
+That's the bedside. It's where I'd keep my reading glasses. I don't wear glasses. But it's ready.
+
+@tags furniture:plant
+Barry? Good shout. I'll give him a drink. He's been very patient.
+Oh, Barry. I'll go and have a chat with him. He's a very leafy listener.
+You want me to water Barry? He'll be thrilled. You won't be able to tell. But he will be.
+The plant. That's Barry. I'll go and see how he's doing. Usually: tall.
+
+@tags furniture:window
+The window? Sure. I'll go and see what the sky's up to.
+Window. Yes. There might be clouds out there that need marking.
+Ah, the window. I'll go and have a look out. That's work, basically. For me.
+The window. I'll go and check the weather. In case it's changed its mind.
+
+@tags furniture:recordPlayer
+The record player. Only one record, but it's a very good one.
+Ah, music. I'll put on "Planet 6's Greatest Hums". It's the only one I've got, so that's easy.
+Record player. I'll put the hums on. Side one is mostly hums. Side two is also mostly hums.
+You want a tune? I'll go and put the record on. Brace yourself for some humming.
+
+@tags furniture:sideboard
+The sideboard. I keep some of my hats in there. The quiet ones.
+Ah, the sideboard. I'll go and open a drawer. See what's going on in there.
+Sideboard. It's a board. At the side. Earth names things very honestly.
+The sideboard. Long. Patient. Very good piece of furniture. I'll go and lean on it.
+
+@tags furniture:goldfish
+Kevin? I'll go and say hello. He'll do a loop.
+Kevin. Yes. He'll want feeding. He always wants feeding. Very consistent fish.
+Oh, you want to see Kevin. He'll be honoured. He won't show it. He's a fish.
+The bowl. I'll go and check on Kevin. He's been swimming in circles. That's normal, I'm told.
+
+@tags furniture:fridge
+Ah, the fridge. Time for a little look inside. Just to say hello to the cheese.
+Fridge. Good idea. I'll pop the door open and have a think in the cold.
+The fridge? Brilliant. I'll go and stand in front of it for no reason. That's tradition here.
+The fridge. Yes. Something new might have turned up. Nothing ever has. But hope.
+
+@tags furniture:kettle
+The kettle. Yes. Tea. You read my mind. Through the glass, somehow.
+Ah, kettle. I'll put some water in and wait for all the drama.
+Kettle. Right. One tea coming up. For me. I'll tell you how it was.
+Tea? Lovely idea. I'll go and wake the kettle up.
+
+@tags furniture:counterBack
+The counter. I'll go and stand at it. That's what counters are for, I think.
+Ah, the worktop. I'll go and do a bit of kitchen. Not cooking. Just being in the kitchen.
+The back counter. That's where I keep the biscuits. Or kept. I'll go and check.
+Counter. Yes. I'll go and give it a wipe. With a cloth. Like a proper Earth person.
+
+@tags furniture:counterRight
+That bit of counter. Very good bit. Great for putting a mug on.
+The side counter? I'll go and tidy it. By which I mean move one thing slightly.
+Ah, the counter by the toaster. Prime kitchen space. I'll go and stand there.
+That counter. Lovely. I'll go and lean on it like I own the place. I don't. But it doesn't know that.
+
+@tags furniture:toaster
+The toaster. Toast is a good idea. Toast is always a good idea.
+Toaster. Right. Crumpets, I think. Big day.
+Ah, the toaster. I'll put a slice in. Then I'll jump when it pops. Every single time.
+The toaster? I'll make some toast and stand nearby looking slightly tense.
+
+@tags furniture:wardrobe
+The wardrobe. I'll go and pick a hat. Big decision. Takes about a nap.
+Ah, the wardrobe. I'll have a look in the mirror. Still blue. Good.
+The wardrobe? Time to try on a hat. Maybe two. Let's not go mad.
+Wardrobe. Mostly hats in there. Earth clothes are a lot, so I just do hats and shorts.
+
+@tags furniture:door
+The front door. I'll pop out. I'll be back. I always come back. Usually with something odd.
+The door? All right. I'll nip out for a bit. Don't wait up. Well, you can.
+Ah, the door. Quick trip out. I'll see what's going on out there.
+Door. Right. I'll go and see what's outside. Probably more outside.
+
+@tags furniture:clock
+The clock. I'll go and see what time it is. It always has an opinion about that.
+Ah, the clock. I'll check it. It'll tell me to hurry. I won't.
+Clock. Yes. Let me go and have a word with it. Very pushy, that clock.
+You want to know the time? I'll go and look. It's {time}, apparently. The clock seems sure.
+
+@tags furniture:floorLamp
+The lamp. I'll go and switch it. On or off. Whichever it isn't.
+Ah, the floor lamp. A tall light. For when the ceiling isn't trying hard enough.
+The lamp? Sure. Let's change the mood. Slightly.
+Lamp. Right. Click. Well, I'll click it when I get there.
+
+@tags furniture:bistroTable
+The little table. Good idea. I'll have a snack there, like a person in a cafe.
+Ah, the bistro table. Very fancy. I'll go and sit at it with a biscuit.
+The table by the window? Perfect. I'll go and eat something at it. Very continental.
+That table. Room for two, and it's just me. Plenty of elbow room.
+
+@tags furniture:stool
+The stool. Very honest chair. No back, no arms, no fuss.
+Ah, the stool. I'll go and perch. Perching is just sitting that's a bit nervous.
+Stool. I'll go and sit on it. It's a chair that's given up on the extras.
+The stool? Sure. I'll go and sit up tall for a bit. Good for the posture.
+
+@tags furniture:rug
+The rug. Lovely. I'll go and lie on it. Competitive lying down needs practice.
+Ah, the rug. Floor, but nicer. I'll go and have a lie on it.
+Rug. Yes. I'll go and lie on it and look at the ceiling. That's a whole afternoon sorted.
+The rug. Soft. Not as soft as the ground back home, but it's trying, bless it.
+
+@tags furniture:painting
+The painting? That's home. I'll go and have a look at it. Makes me feel all purple.
+Ah, the painting. {planet}. I'll go and admire it. I always spot something new. Usually Gary.
+The painting. That big round thing in the corner is my nan. She's very big.
+You like the painting? Me too. I'll go and stand in front of it. Quietly. Like a gallery.
+
+@category floorTap
+@tags
+Hm? Oh, the floor. Yes. Very floor-ish, that bit.
+What's there? Nothing. Lovely nothing. Good spot.
+Oh, that bit of floor. I'll keep an eye on it for you.
+That spot? I stood there once. Nothing happened. Very peaceful.
+Oh. Did I drop something? No? Okay. Good floor, that.
+Hm. I'll go and stand there later. If it's important to you.
+That bit of floor's been very quiet today. I'm glad someone noticed it.
+Is there a crumb? I can't see a crumb. That's a crumb-free zone, that.
+Ah. The floor. Holding everything up, as usual. Nobody ever thanks it.
+You pointed at the floor. I looked at the floor. That's teamwork.
+Oh, yes. That's where I'd put a beanbag. If I had a beanbag.
+Hm. Is that a mark? No. It's a shadow. Mine, probably.
+That bit of floor's very firm. Back home I'd have sunk in up to my knees by now.
+Oh, there? I'll give it a sweep later. Or a look. Probably a look.
+That spot. Yes. I've noticed it too. Not sure what we're noticing, but we're noticing it together.
+Nothing there. Unless it's very small. Hello, very small thing, if you're there.
+Oh, that bit. I did a little dance there once. It's got memories.
+Ah. You're right. That bit of floor is lovely. I'll give it a ten.
+That's where the sun lands in the afternoon. Best seat in the flat, if seats were floors.
+That spot? I've walked over it loads. Never really stopped to thank it. Thanks, spot.
+<face:squint> Hm. I see what you mean. I don't, actually. But it's a nice bit of floor.
+Ah, that's where I put my feet when I get out of bed. Very important square.
+Oh, down there? That's where Barry's leaves land when he sheds. Nothing today. Well done, Barry.
+
+@category returnHome
+@tags
+I'm back. I've got {held}. I don't remember asking for it, but here we are.
+Back. Outside was very outside today. Here's {held}.
+Home again. I've got {held}. I'll find somewhere for it. Probably the sofa.
+I went out for milk. I came back with {held}. Close enough.
+Look, {held}. I don't know what it's for yet. I'll ask Barry.
+Back. I've brought {held}. It's for the flat. Well, it's for me. But I'll share.
+I'm home. I've got {held}. It felt rude to come back with nothing.
+Hello, flat. Hello, you. Hello, Kevin. I've got {held}.
+I found {held}. Well, I hummed at someone in a shop and they let me have it.
+Home. I got {held} from {place}. They were very nice about it.
+Phew. Outside's got so many people in it. Anyway. Got {held}.
+I'm back. I've got {held}, and I've got a lot of thoughts about the bus.
+Home. I've decided {held} lives here now. Make it feel welcome.
+I went out to see the sky up close. Came back with {held}. Funny how that works.
+I'm home. Here's {held}. On {planet} this would count as a whole adventure.
+Hello. I popped out. Now I've popped in. With {held}.
+Hi. Got {held}. I'll put it in the fridge. Everything goes in the fridge until I know.
+Back from the outside world. It sends {held} and its regards.
+I'm back. I held a door open for someone. Then I got {held}. Big trip.
+Back. I've got {held}. I'll show Kevin. He won't mind either way, but it's polite.
+Ah, home. I've brought {held}. Took the long way. There's a lovely bin round the corner.
+Hello. I nearly came back with nothing, then I saw {held}. Fate, really.
+Here I am. With {held}. I've no plan for it, but I've got a good feeling.
+I'm back with {held}. The flat smells like home. Bit of toast, bit of Barry.
+Returned. Carrying {held}. Like an explorer, but with less effort.
+Got {held}. It wasn't on the list. There wasn't a list. So, really, it was.
+Back. Outside's very big. I only brought back {held}, to keep it manageable.
+Back. Fresh air, a nice pigeon, and {held}. Productive outing.
+Home. A man at the bus stop said "lovely day". I said "it is". Then I got {held}.
+Back. I've brought {held} for you. You can't have it, because of the glass. But it's the thought.
+I'm home. Someone asked if I was in fancy dress. I said no, I'm in shorts. Anyway, {held}.
+Oh, it's nice to be back. I've got {held}. And slightly damp ears.
+Back in. Shoes off. I don't wear shoes, but it's the principle. Anyway, I got {held}.
+
+@category peek
+@tags
+Hello. I've come right up to the glass. Is this too close? Think "yes" if it's too close.
+Just having a little look. There's a lot of light on your side.
+Hi. Nose on the glass. Don't mind me. It's quite cold, actually.
+It's all blurry this close. You're a nice blurry shape. Very friendly blur.
+I can see my reflection, and then you behind it. Two of my favourite people. Well, one's me.
+I've breathed on the glass. Sorry. I'll draw a little moon in it. There. That's Gary.
+Your side always looks warm. Glowy. Like the inside of a toaster, but more relaxing.
+Just checking in. You seem all right. Carry on.
+Is that a mug on your side? Can't tell. Could be a mug. Could be a very small hat.
+<face:wide> My ears have swivelled right round. That means I'm interested. Very polite of them.
+I can't hear anything from your side. Just a sort of hum. Sounds a bit like home.
+Hello. I've come to the front of the flat. This is the front, isn't it? It's where you are.
+Oh, hi. Didn't see you there. I did, actually. That's why I came over.
+If I squint, you look like a cloud. A lovely one. I'd give you a ten.
+Just looking. Not staring. Staring's rude, apparently. This is more of a gentle look.
+Three fingers and a thumb, flat on the glass. High five, if you like. Bring your own hand.
+Hello. If you knock, I'll knock back. That's how we talk, us.
+Close up, your side is really bright. Is it daytime in there all the time?
+Let me have a proper look at you. There. Lovely. That'll do me for the day.
+Ooh, the glass is cold. Like the fridge door, but friendlier.
+Hello. I'm not going to say anything. I just fancied standing near the glass for a bit.
+My breath's fogged the glass up. I'll wipe it with my sleeve. I haven't got sleeves. With my arm.
+Is this how close you sit to your glass? It's very cosy, this. I see why you do it.
+I wonder if there's someone behind your glass, too. Glass after glass. A whole row of housemates.
+I'm right at the glass. Any closer and I'd be round yours. I'd have to bring biscuits.
+Up close the glass is all tiny coloured dots. I've counted about forty. There are more.
+Hello. This is my best side. To be fair, it's all my best side. I'm blue all over.
+Mind if I hang about here a minute? It's the warmest bit of the flat. That'll be your glow.
+Hello, you. I came all the way over to say hello. It's about four steps. Worth it.
+I touched the glass. It touched me back. Well, it stayed where it was. That counts.
+From here, you're a bit like Kevin. Behind glass, doing your own thing. He'd like you.
+<face:wide> I'm doing the face Kevin does when he comes up to the glass. Is it working?
+Ooh, a smudge. Is that on my side or yours? Let's say it's on Kevin's.
+I'm peeking. It's like looking, but closer. We've got a word for it back home. It's also "peeking".
+The glass is warm where you've been tapping. Nice. Like a hand-warmer.
+Can you hear me better from here? I'll talk slowly. Hel... lo.
+Hi. I'm just having a nosy. A very small nosy. Polite amounts of nose.
+Back home I'd touch ears to say hello. I'll press an ear to the glass instead. Close enough.
+Oh, sorry, was I blocking the view? Of what, I don't know. Your side's the view.
+You've got the glow on today. Suits you. Very moon-ish.
+Hi. I've come over to see if you need anything. You can't have anything. But I came over.
+<face:squint> I'm trying to read your side. It's all backwards from here. Or I am.

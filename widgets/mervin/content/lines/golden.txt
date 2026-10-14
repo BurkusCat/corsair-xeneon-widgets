@@ -1,0 +1,122 @@
+# Golden lines: the reference for his voice. Written first; writers match this.
+
+@category earth.customs
+On {planet}, we don't have Mondays. We tried one once. Nobody liked it, so we gave it back.
+Humans queue in a line. Back home we stand in a loose crowd that agrees.
+You lot shake hands when you meet. We touch ears. It's very polite and slightly ticklish.
+Birthdays here happen once a year whether you feel older or not. Bit pushy, if I'm honest.
+I've been told it's rude to stare at people. I've been staring at the fridge all morning. It hasn't said anything.
+Small talk is when you talk about the weather to someone who can also see the weather.
+On {planet} you pay rent in naps. I'm so far ahead here it's embarrassing.
+Someone told me to "break a leg". I didn't. I'm quite proud of that.
+You say "see you later" and then you don't. I waited a long time the first time.
+
+@category earth.home
+Socks are tiny sleeping bags for feet. I respect it.
+That {householdObject} has been there all day. Good for it. Very committed.
+Stairs are just a hill someone folded up. Clever, really.
+The fridge hums. I hum back. We're not close, but it's a start.
+I put the kettle on. It didn't suit it. I took it off again.
+I think the toaster is some kind of small shrine. It gets very hot when it's happy.
+Doors on Earth shut properly. Back home they're more of a suggestion.
+{householdObject.a.cap} fell over earlier. I let it have a lie-down. It looked like it needed one.
+
+@category earth.food
+Humans keep {food.pl} in a cold box. On {planet}, we keep things warm and just eat them faster.
+Toast is bread that's had a bit of an experience.
+You can put beans on toast. You can't put toast on beans. I asked. Apparently there are rules.
+{food.a.cap} is basically a tiny holiday you can eat.
+I tried {food.a} today. Gave it a solid nine. Don't tell the clouds.
+Second breakfast is the law back home. I'm keeping the tradition alive. For the culture.
+
+@category earth.nature
+Rain is just the sky having a little sit-down.
+Earth's got one moon and everyone's fine with it. That's real contentment, that is.
+Your clouds are lovely today. I've given that one {cloudScore}. Don't tell it.
+{natureBird=b.a.cap} looked at me through the window. We had a moment. Then it left. Typical {b}.
+Gravity's a bit firm here. I keep sitting down by accident.
+The sun here is yellow. Very sensible colour. Ours is purple and kind of a lot.
+
+@category earth.tech
+Your phone knows where you are all the time. Mine just asks "are you sure?" and goes back to sleep.
+The internet is a lot of people typing at once. Back home we just hum louder.
+Passwords are secrets you're not allowed to remember. Lovely idea.
+
+@category planet6.family
+My mum's mostly weather. If it drizzles, she's probably just checking in.
+{relative.cap} sent a message. It just says "mm". Lovely to hear from them.
+My nan's about the size of a bus. Best hugs in the galaxy. Takes about an afternoon.
+Cousin Derek lives in a cupboard. He's doing really well, actually. Got a little shelf now.
+
+@category planet6.life
+I rated {n:200-400} clouds this week. Most of them were a solid nine. Nobody's ever got a fourteen.
+Everyone floats a little on Thursdays back home. I've been trying here. Nothing yet. It's early days.
+The national sport on {planet} is competitive lying down. I was county level, once.
+My ship's about the size of a biscuit tin. I keep it in the freezer drawer. It's fine, it likes the cold.
+Back home, {lying down|staring at a wall|watching the kettle|having a sit-down} counts as a hobby. Here it's "wasting the day". Different values.
+On {planet}, the ground is soft. Walking's called bouncing slowly. Here it's all very firm.
+
+@category viewer
+You've been busy today. I've been busy too. I sat down twice.
+You're on the other side of the glass again. Hope it's comfy in there.
+I don't know what you do in there all day, but you do it with a lot of focus. Respect.
+@tags longTime
+We've been living together {daysTogether} days now. Feels like {timeUnit}.
+@tags
+
+@category greeting
+Oh, hello. I was just {verbIng}. Carry on.
+Morning. Or whatever it is. Hi.
+Oh, you're back. Lovely. I saved you a sit-down.
+
+@category greeting
+@tags morning
+Morning. I've already had second breakfast. Big day.
+
+@category greeting
+@tags night
+Hello. It's late. I'm being very quiet about it.
+
+@category sleep
+@tags
+Mm... no, Gary, you can't come in, you're a moon...
+...fourteen... fifteen... no, fourteen...
+Mm. Glorp. Lovely warm glorp...
+...bit more toast, Mum. No, the drizzle's fine...
+
+@category wake
+Mm? Oh. Hello. I wasn't asleep. I was resting my whole body.
+I'm awake. I'm very awake. That's the most awake I've been.
+
+@category timeout
+...anyway. Another time.
+Right. I'll hold that thought. Hold it really carefully.
+
+@category resume
+Where was I? Oh, yeah.
+Right, so, as I was saying. A while ago.
+
+@category tapFurniture
+@tags furniture:fridge
+The fridge? Good shout. Let's see what it's thinking.
+
+@category tapFurniture
+@tags furniture:sofa
+The sofa. Yes. You know me so well.
+
+@category floorTap
+Hm? What's over there? Oh. Floor. Nice bit of floor, that.
+
+@category returnHome
+Back. I got {held}. Don't ask me why. It felt right at the time.
+
+@category peek
+Hello in there. Is it nice? It looks nice. Bit flat.
+
+@category activity
+@tags act:makeToast
+The toaster and I have an understanding. It goes ding. I go "oh".
+
+@category activity
+@tags act:watchTv
+This programme is just you, doing your thing. Best show on telly.

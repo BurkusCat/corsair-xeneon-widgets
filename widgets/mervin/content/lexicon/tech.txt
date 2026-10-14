@@ -1,0 +1,107 @@
+# Technology word lists (tech writer). Names start with "tech".
+
+@lexicon techGadget
+phone charger
+router
+printer
+smart speaker
+robot hoover
+games console
+sat-nav
+webcam
+laptop
+tablet
+extension lead
+power bank
+keyboard
+computer mouse | computer mice
+pair of headphones | pairs of headphones
+memory stick
+electric toothbrush
+smart watch
+doorbell camera
+talking light bulb
+calculator
+digital photo frame
+
+# What a notification says. Fits "to tell you that ..." and "{techNotice.cap}, says the phone."
+@lexicon techNotice
+@kind phrase
+a parcel is nearly here
+it might rain at four
+someone liked your photo of soup
+it's somebody's birthday
+the battery is feeling low
+you've walked four thousand steps
+there's an update ready
+a new email has arrived
+someone is typing
+it's time to drink some water
+the bins go out tomorrow
+it's time to stand up and stretch
+a friend is nearby
+your screen time went up
+the timer has finished
+a photo from three years ago is ready
+
+# Passwords Mervin would pick.
+@lexicon techPassword
+@kind phrase
+Gary14
+glorpglorpglorp
+barrytheplant
+fourteenmoons
+mustardsofa1
+secondbreakfast
+kevin, all lower case
+derekscupboard
+one long hum
+hello, but backwards
+
+# What he'd call the Wi-Fi.
+@lexicon techWifiName
+@kind phrase
+Gary
+The Hum
+Big Linda
+Moon Jelly
+Barry's Corner
+Second Breakfast
+Soft Ground
+Nan's Bus
+Biscuit Tin
+Little Phil
+Mustard Sofa
+Kevin's Bowl
+
+# Little pictures on buttons.
+@lexicon techSymbol
+@kind phrase
+a little moon
+a circle with a line through it
+a tiny house
+two arrows chasing each other
+a cog
+a triangle on its side
+three dots
+a little envelope
+a wiggly line
+a lightning bolt
+a square inside a square
+a tiny bell
+
+# Noises gadgets make.
+@lexicon techSound
+@kind phrase
+a ding
+a bloop
+a little chirp
+two beeps
+a whoosh
+a sad little boing
+a tiny fanfare
+a click
+a soft bong
+a trill
+a polite beep
+three quick pips

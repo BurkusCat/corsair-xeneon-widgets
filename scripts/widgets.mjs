@@ -1,13 +1,14 @@
 #!/usr/bin/env node
-// Validate or package every widget in widgets/<name>/widget/ with Corsair's icuewidget CLI.
+// Build, validate or package every widget in widgets/<name>/widget/ with Corsair's icuewidget CLI.
 //
 //   node scripts/widgets.mjs list
-//   node scripts/widgets.mjs validate [name ...]
-//   node scripts/widgets.mjs package  [name ...]   -> dist/<name>.icuewidget
+//   node scripts/widgets.mjs build    [name ...]   runs widgets/<name>/build.mjs where present
+//   node scripts/widgets.mjs validate [name ...]   build first, then validate
+//   node scripts/widgets.mjs package  [name ...]   build first, then -> dist/<name>.icuewidget
 //
 // Only the widget/ sub-folder is handed to the CLI: it zips every file in the folder it is
 // given, so anything else that lives next to a widget (bridges, docs, tests) stays out of
-// the package.
+// the package. Widgets with generated files (git-ignored) make them in their build.mjs.
 
 import { spawnSync } from "node:child_process";
 import fs from "node:fs";
@@ -24,7 +25,11 @@ function discoverWidgets() {
   return fs
     .readdirSync(widgetsDir, { withFileTypes: true })
     .filter((entry) => entry.isDirectory())
-    .map((entry) => ({ name: entry.name, dir: path.join(widgetsDir, entry.name, "widget") }))
+    .map((entry) => ({
+      name: entry.name,
+      root: path.join(widgetsDir, entry.name),
+      dir: path.join(widgetsDir, entry.name, "widget"),
+    }))
     .filter((widget) => fs.existsSync(path.join(widget.dir, "manifest.json")));
 }
 
@@ -38,6 +43,23 @@ function runCli(args) {
     env: { ...process.env, ICUEWIDGET_NO_UPDATE_CHECK: "1" },
   });
   return result.status === 0;
+}
+
+function runBuild(widget) {
+  const script = path.join(widget.root, "build.mjs");
+  if (!fs.existsSync(script)) return true;
+  console.log(`Building ${widget.name}...`);
+  const result = spawnSync(process.execPath, [script], { stdio: "inherit", cwd: repoRoot });
+  return result.status === 0;
+}
+
+// The CLI sorts zip entries and iCUE wants index.html first, so nothing at the top level of
+// widget/ may sort before it (assets/, css/, data/, images/ would).
+function checkZipOrder(widget) {
+  const early = fs.readdirSync(widget.dir).filter((name) => !name.startsWith(".") && name < "index.html");
+  if (early.length) {
+    console.warn(`Warning: ${widget.name}/widget/${early.join(", ")} sorts before index.html in the package.`);
+  }
 }
 
 const [command = "list", ...names] = process.argv.slice(2);
@@ -58,17 +80,26 @@ switch (command) {
       console.log(`${widget.name.padEnd(24)} ${manifest.id}  v${manifest.version}`);
     }
     break;
+  case "build":
+    for (const widget of selected) ok = runBuild(widget) && ok;
+    break;
   case "validate":
-    for (const widget of selected) ok = runCli(["validate", widget.dir]) && ok;
+    for (const widget of selected) {
+      if (!runBuild(widget)) { ok = false; continue; }
+      checkZipOrder(widget);
+      ok = runCli(["validate", widget.dir]) && ok;
+    }
     break;
   case "package":
     fs.mkdirSync(distDir, { recursive: true });
     for (const widget of selected) {
+      if (!runBuild(widget)) { ok = false; continue; }
+      checkZipOrder(widget);
       ok = runCli(["package", widget.dir, "-o", path.join(distDir, `${widget.name}.icuewidget`)]) && ok;
     }
     break;
   default:
-    console.error(`Unknown command "${command}". Use list, validate or package.`);
+    console.error(`Unknown command "${command}". Use list, build, validate or package.`);
     ok = false;
 }
 

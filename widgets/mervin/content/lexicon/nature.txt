@@ -1,0 +1,176 @@
+# Word lists for nature, weather, animals and the sky (lines/nature.txt, chains/nature.txt).
+
+@lexicon natureBird
+pigeon
+seagull
+robin
+blackbird
+magpie
+sparrow
+starling
+blue tit
+wood pigeon
+crow
+duck
+goose | geese
+heron
+wren
+swan
+jackdaw
+thrush
+goldfinch
+pheasant
+collared dove
+
+@lexicon natureTree
+oak
+birch
+willow
+sycamore
+beech
+horse chestnut
+apple tree
+pine tree
+holly bush
+hawthorn
+cherry tree
+silver birch
+weeping willow
+monkey puzzle tree
+rowan
+yew
+
+@lexicon natureFlower
+daisy
+dandelion
+tulip
+rose
+daffodil
+sunflower
+bluebell
+buttercup
+poppy
+foxglove
+snowdrop
+pansy
+sweet pea
+forget-me-not
+primrose
+marigold
+crocus
+geranium
+
+@lexicon natureBug
+bee
+ladybird
+butterfly
+moth
+ant
+beetle
+woodlouse | woodlice
+caterpillar
+dragonfly
+grasshopper
+earwig
+bumblebee
+snail
+spider
+worm
+centipede
+daddy longlegs | daddy longlegs
+
+@lexicon natureCloudShape
+@kind phrase
+a sheep
+a sofa
+a duck having a think
+my nan
+a slipper
+a really big crumpet
+a teapot
+a sleeping dog
+Gary, but fluffier
+a whale on its day off
+a mattress
+a cauliflower
+a lost sock
+a hat I'd wear
+a bus
+a loaf of bread
+a hedgehog
+a pillow someone loved
+a rabbit with one ear
+Kevin, but enormous
+an armchair
+
+@lexicon natureCloudKind
+@kind phrase
+a fluffy one
+a long thin one
+a lumpy one
+a big grey lid
+a little wisp
+a stretchy one
+a flat sort of blanket
+two holding hands
+one with a dent in it
+a tall one with ambitions
+a cloud on its own
+a quiet grey one
+
+@lexicon natureSeaside
+bucket
+spade
+deckchair
+windbreak
+beach towel
+ice cream
+stick of rock
+sun hat
+lilo
+cool box | cool boxes
+bodyboard
+flask of tea | flasks of tea
+
+@lexicon natureGarden
+wheelbarrow
+watering can
+shed
+hose
+compost heap
+bird table
+trowel
+plant pot
+washing line
+greenhouse
+rake
+water butt
+bird bath
+garden bench
+paddling pool
+
+@lexicon natureP6Weather
+@kind phrase
+light humming
+warm fog
+sideways drizzle
+a bit of purple
+soft hail
+a breeze that says sorry
+mostly Mum
+crunchy fog
+gentle floating
+a slow rainbow
+glorp-coloured clouds
+fourteen moons and a breeze
+
+@lexicon natureP6Creature
+hum beetle
+slow goose | slow geese
+cloud sheep | cloud sheep
+pillow crab
+floaty hedgehog
+yawning snail
+soft owl
+nap mole
+ear moth

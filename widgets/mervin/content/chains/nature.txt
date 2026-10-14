@@ -1,0 +1,258 @@
+# Chains about nature, weather, animals and the sky.
+
+@chain cloud-appraisal
+@topic clouds
+@start act:lookOutWindow
+- <act:lookOutWindow> Hang on. There's a cloud out there I need to have a proper look at.
+  | <act:lookOutWindow> Sorry. Work thing. There's a cloud.
+- Right. Shape first. It looks a bit like {natureCloudShape}. That's fine. That's allowed.
+  | Shape-wise, it's giving me {natureCloudShape}. Not what I'd have gone for, but it's not my cloud.
+- Fluff's good. Edges are a bit messy. That's not a problem, that's character.
+  | Lovely fluff. Tidy edges. It's clearly made an effort today.
+-? It's drifting a bit fast, mind. Head office don't like a rusher.
+  | It keeps edging to the left. Could be nerves. Happens to the best of them.
+- Colour's a nice clean white, with a bit of grey underneath. Like a good pillow.
+  | Colour-wise it's sort of white, going grey round the bottom. Very honest cloud.
+- I'm going to say... {cloudScore}.
+  | Final mark: {cloudScore}. I've shown my working.
+= There. Written down. That's me done for the day, I reckon. Big day.
+  | Right. One more for the report. I'm going to need a sit-down after that.
+
+@chain pigeon-nods
+@topic birds
+@start idle
+- There's a pigeon that comes to the windowsill most days.
+  | I've got a pigeon. Well. A pigeon's got me. It visits.
+- Every time I say something, it nods. Every single time.
+  | I tell it things and it nods along. Very supportive bird.
+- I told it about {planet}. It nodded. I told it about Gary. It nodded.
+  | I told it about the fourteen moons. Nod. The soft ground. Nod.
+-? I told it I've never given a cloud a fourteen. It nodded quite slowly at that one.
+- Then somebody told me pigeons nod when they walk. It's just how their heads work.
+  | Turns out that's just how pigeons walk. The head goes with the feet.
+- But it wasn't walking. It was just standing there. Nodding at me.
+  | Thing is, it never walks anywhere. It just stands on the sill and nods.
+= So I've decided it agrees with me. About everything. Lovely to have that.
+  | Anyway, we're friends now. It's decided. Well. I've decided. It nodded.
+
+@chain the-sea
+@topic sea
+@start idle
+- I've been reading about the sea. I haven't been yet. It's on my list.
+  | Have you been to the sea? I've only seen pictures. It looks like a lot.
+- It comes right up the beach, has a look at everyone, and goes back out again.
+  | Apparently it comes up to your toes, thinks about it, and goes away again.
+- Twice a day, it does that. It's your moon doing it. The moon pulls the sea about.
+  | Someone told me the moon does that. Pulls it in and out, like a drawer.
+- Back home we've got fourteen moons. All pulling on the one sea.
+  | Now. On {planet}, there are fourteen moons. And one sea. You see the problem.
+- So our sea doesn't go in and out. It sloshes about in every direction, a bit lost.
+  | Our sea just goes everywhere at once. It's never been to the same beach twice.
+-? Gary doesn't pull. He just watches. Very supportive.
+= Anyway. I think your sea's got it easy with the one moon. I'd like to go and say well done.
+  | So, yeah. The sea. I'd give it a nine, but it's not a cloud. And I've only seen pictures.
+
+@chain why-rain-falls
+@topic weather
+@start idle
+- Can I ask you something about rain?
+  | I've been thinking about why rain falls down.
+- Here, it always falls down. Straight down. Not once sideways. Not once up.
+  | Your rain only goes one way. Down. Never even tries anything else.
+- On {planet}, rain comes down very slowly. You can walk between the drops if you're careful.
+  | Back home it takes its time. Stops halfway. Has a look round. Then carries on.
+- So I asked someone why rain falls down here. They said "gravity". Like it was obvious.
+- I think it's because the rain's keen. It's been up in a cloud for ages. It wants to get home.
+  | My theory is it's homesick. It's been in a cloud for days. It just wants the ground.
+-? I know that feeling. Not the falling. The wanting the ground. Ours is softer, mind.
+= So next time it rains, that's just water going home. Bit like me after the shops.
+  | Anyway, that's my theory. It's not science. But it's quite nice, isn't it.
+
+@chain gary-night
+@topic moons
+@start any
+- Shall I tell you what Gary does on his night?
+  | Want to hear about Gary's night? It's a big one. For Gary.
+- The moons take turns, back home. When it's Gary's go, everyone makes a bit of an effort.
+  | We've got a rota for the moons. When it's Gary's turn, the whole planet perks up.
+- He comes up very slowly over the hills. It takes him most of a nap.
+- Then he sits in the sky for a bit. That's the main part. He's very good at it.
+  | Then he hangs about up there. No spinning. No fuss. Just being Gary, professionally.
+-? Sometimes a little bit of dust comes off him. That's a very big night.
+- Everyone looks up and waves. He doesn't wave back. He's a moon.
+  | Little ones point at him and say "Gary". That's it. That's the whole game.
+= And then he goes down again. That's Gary's night. Honestly, I'm a bit jealous.
+  | And then he sets, and someone else has a go. Bit of a role model, Gary.
+
+@chain dropped-biscuit
+@topic gravity
+@start idle
+- I dropped a biscuit earlier.
+  | Something happened earlier, with a biscuit.
+- It went straight to the floor. No warning. Didn't even hover.
+  | Straight down. Didn't stop to think. Very sure of itself.
+- On {planet}, you drop a biscuit and it sort of drifts. You've got time to catch it, have a chat, put it back.
+- Here, gravity just takes things. Biscuits. Spoons. Me, off the sofa, twice.
+  | Your gravity's very firm. Doesn't do favours. Doesn't make exceptions for biscuits.
+-? I said sorry to the biscuit. Then I said sorry to the floor, in case.
+- I picked it up straight away, though, and it was fine. Bit of floor on it.
+  | Five-second rule, someone said. It took me nine. I'm still learning.
+= So, yeah. Gravity. Very strict. Good for biscuits, though. They always know where they are.
+  | Anyway. I ate it. Lovely biscuit. Bit more grounded than before.
+
+@chain kevin-weather
+@topic pets
+@start idle
+- I've been trying to explain weather to Kevin.
+  | Kevin's never had any weather. I've been filling him in.
+- He lives in a bowl, so it's the same every day. Water, a bit of light, and me.
+  | Inside the bowl it's just "water", all year round. Very stable climate.
+- So I told him about rain. Water, falling out of the sky, all over everything.
+- He came up to the glass, had a think, and went back down. Water falling into more water. Not big news for a fish.
+  | He just looked at me. I don't think it landed. He's in water all the time. Rain's just more of it.
+- Then I told him about wind. Air, but in a hurry. He's never really met air. Just the top bit.
+  | Then I told him about snow. Water that's gone crunchy and floats down. He opened his mouth at that. Big reaction.
+-? I didn't tell him about seagulls. Some things he doesn't need to know.
+= Anyway. He's taken it well. No weather in the bowl. Honestly, I'm a bit jealous.
+  | So, yeah. Kevin knows about weather now. He's chosen not to have any. Fair enough.
+
+@chain umbrella-thoughts
+@topic weather
+@start idle
+- I've been thinking about umbrellas.
+  | Umbrellas. Have you thought about them? I have. Lots.
+- It's a little roof you hold over your own head. You take it everywhere with you.
+  | It's a roof, basically. A portable roof. On a stick.
+- Then the wind gets under it, and the whole roof turns inside out. Very undignified.
+  | But one good gust and the roof's inside out, looking very embarrassed about it.
+-? I saw one in a bin once. Just given up. I stood there with it for a minute.
+- And nobody's got one when it rains. They've always left it on a bus.
+  | You always have exactly one umbrella, and it's always somewhere else.
+- Back home we don't bother. The rain's usually my mum, and she'd be hurt.
+= So I just stay in when it rains. Saves the umbrella and my mum's feelings. Everyone wins.
+  | Anyway. I haven't got one. I stay on the sofa and let the weather happen outside.
+
+@chain autumn-letting-go
+@topic seasons
+@start idle
+- The trees outside are doing autumn.
+  | It's leaf time out there. The trees are letting go.
+- All summer they hold on to their leaves. Thousands of them. Then one day they just let go.
+- The leaves go {orange|red|a sort of biscuit colour} first. Like they're getting dressed up for it.
+- Then down they come, and someone with a rake puts them all in a big pile.
+  | People rake them into piles. Then the wind spreads them out again. Very patient, both of them.
+-? A small dog jumped in the pile. Best thing I've seen this year.
+- And the tree just stands there with nothing on, all winter. Not embarrassed at all.
+  | And the tree's just stood there, bare, all winter. Completely calm about it.
+- Back home our trees keep everything. Nobody lets go of anything. We're a bit hoardy.
+= So I'm trying it. I let go of a sock this morning. It's on the floor. It's autumn now.
+  | Anyway. I think there's something in it. Letting go. I'm going to let go of this thought, actually.
+
+@chain first-snow
+@topic weather
+@start idle
+- Did I tell you about the first time it snowed here? It fell down. All of it.
+  | The first time it snowed here, it went the wrong way. Down. I didn't know what to think.
+- I thought the sky was coming apart a bit. Very gently. In little bits.
+  | I thought a cloud had broken. I was going to report it.
+- I went out. It was cold and quiet and everything had gone white. The cars. The hedges. Next door's cat, a bit.
+- Some children built a little man out of it. Gave him two stones for eyes and a carrot. Very generous.
+  | Next door built a snowman. Carrot nose, a scarf, a very kind face.
+- I said good morning to him every day. Nice fella. Good listener.
+-? He never said much. Bit like Barry.
+- Then it got warm, and he went home. Left his carrot and scarf on the grass. Very tidy.
+= I reckon he's back up in the clouds. Every cloud since has got an extra point. Just in case.
+  | Anyway. If it snows again, I hope he comes back. I kept the carrot. Well. I ate the carrot.
+
+@chain barry-and-the-trees
+@topic plants
+@start idle
+- I told Barry about trees today.
+  | I had to tell Barry something. About trees.
+- He's a big plant, Barry. Lives in a pot, by the window. Very happy.
+- But there's a tree outside, and it's enormous. It's outside all the time. In the rain.
+  | Out there, there's a tree that's taller than the whole flat. Lives outdoors. No pot.
+- I didn't know how he'd take it. Nobody wants to find out they're the small one.
+- He didn't say anything. He's a plant. But one of his leaves went a bit droopy.
+  | He just sat there in his pot. Very still. Well. He's always still. But more still.
+-? I gave him some water. And a little extra, for the shock.
+= Then I told him the tree's never had a lava lamp. He perked right up. We're all right.
+  | Anyway, I reckon he's fine. Indoors has its perks. Barry's got a radiator and me.
+
+@chain two-sunsets
+@topic sky
+@start any
+@tags evening
+- Sun's going down. Have you seen it? Lovely orange.
+  | It's sunset time here. Look at that orange.
+- Back home we get two sunsets. The first one's compulsory.
+- The second one's optional. You can stay in if you like. Nobody minds.
+  | The second one you can skip. There's a little box you tick.
+- But the optional one's always better. Purple, then {colour}, then a bit of everything.
+  | Everyone says the optional one's the good one. That's why it's optional. So you'd want it.
+-? My dad always goes. He hums the whole way through it.
+- My first week here, I waited every evening for the second one. It never came.
+  | When I first got here, I waited up for the second sunset. Just sat in the dark, very hopeful.
+= So now I just enjoy the one. One's plenty, honestly. Good sunset, that. Well done, Earth.
+  | Anyway. One sunset. It's enough. I'll go to bed early and pretend I skipped the other.
+
+@chain dog-joy
+@topic animals
+@start idle
+- I've been watching the dogs in the park.
+  | You know dogs? I've been studying them. From the window. Informally.
+- They're so pleased to see everyone. Every person. Every other dog. Every lamppost.
+- One dog brought a stick back to a man so he could throw it away again.
+  | They bring a stick back just so you can throw it away. Then they fetch it again.
+- He threw it. The dog got it. Brought it back. Again. For about an hour.
+-? I think the man got tired before the dog did. The dog could have gone all day.
+- I don't think it's about the stick. I think it's about the man.
+= So, yeah. I'd like to be more like a dog. Not the stick part. The pleased part.
+  | Anyway. Dogs. Big fan. I'd give them a fourteen, but they're not clouds, so I can't.
+
+@chain looking-for-home
+@topic stars
+@start night
+- You can see some stars tonight. Not many. But some.
+  | Look, stars. Well, a few. The streetlight's having a go at the rest.
+- Somewhere up there is {planet}. I'm not sure which bit. It's quite small from here.
+  | Home's up there somewhere. I've never been sure which dot.
+- I used to think it was that one. Then it moved. It was an aeroplane.
+-? I waved at the aeroplane anyway. It didn't wave back. Busy.
+- So I picked another one. Very bright. Very steady. Turned out to be next door's security light.
+  | Then I chose a different one. That one blinked at me. Also an aeroplane.
+- So now I just pick whichever star looks the most relaxed. That's probably us.
+  | I've decided it doesn't matter which one. From here they all look a bit like home. Small, and nice, and miles off.
+= Anyway. Night, stars. Whichever one of you it is, say hello to Gary.
+  | So, yeah. Home's that way. Roughly. Good night, stars.
+
+@chain weather-rules
+@topic weather
+@start idle
+- There are rules for talking about the weather here. I've been learning them.
+  | I've worked out the rules for British weather talk. There are a few.
+- If it's sunny, you say "make the most of it". Like it might run out.
+  | Sunny? You say "make the most of it". As if the sun's on a timer.
+- If it's raining, you say "well, it's good for the gardens". Everyone's very loyal to the gardens.
+  | If it rains, someone always says "we need it". I don't know who needs it. Someone, though.
+-? If it's very hot, you say "too hot for me". Even if it's quite nice.
+- If it's cold, you rub your hands together and say "bit nippy". You don't have to mean it. It's just polite.
+- And whatever it's doing, you finish with "supposed to turn later". Nobody knows who supposed it.
+  | And you always end with "supposed to turn later". Nobody's ever checked.
+= So I'm basically British now. Weather's done. Next I'm going to learn about queues.
+  | Anyway. Lovely weather we're having. Whatever it is. See, I'm good at this.
+
+@chain seagull-chips
+@topic birds
+@start idle
+- A seagull took my chips once.
+  | Can I tell you about the seagull?
+- I'd been to the chip shop. I sat on a wall outside, very pleased with myself.
+- Then a seagull landed next to me, looked me right in the eye, and took one.
+- Where I'm from, that's quite a polite thing to do. Taking a bit of someone's lunch means you trust them.
+  | Back home that's quite a polite thing to do. Sharing without asking. It shows trust.
+-? So I went to take a bit of its lunch back. It didn't have any. It's a seagull.
+- So I trusted it back and gave it another one. Then it took the lot.
+  | I gave it one more to be polite. Then eleven of its friends turned up.
+= Anyway. Lovely bird. Very confident. I had a cheese sandwich when I got home. It was fine.
+  | So, yeah. I didn't get any chips. But I made a friend. Several, in the end.

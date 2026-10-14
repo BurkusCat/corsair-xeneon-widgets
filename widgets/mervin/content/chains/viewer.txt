@@ -1,0 +1,240 @@
+# Chains about you, the person behind the glass, and him.
+
+@chain your-job
+@topic viewer
+@start idle
+- I've been trying to work out what you do all day.
+  | Can I ask what you do in there? All day, I mean.
+  | I've got a theory about your job. Several, actually.
+- You look at something glowing for hours. So at first I thought you rated clouds, like me.
+  | You sit quite still and look at a glowing thing. My first guess was cloud appraiser. Same as me.
+- But there aren't any clouds on your side. I'd have spotted them. Professionally.
+  | Only, I've never seen a cloud in there. And believe me, I'd notice. It's my job.
+- Then I wondered if you were a bit like Kevin. Behind glass, very focused, mostly calm.
+  | Then I thought you might be a sort of fish. Kevin stares through glass all day too, and he's very busy.
+-? I asked Kevin. He did a loop. I think that's a no.
+- So now I reckon you're in tapping. Professional tapper. Quite senior, by the sound of it.
+  | So my final answer is tapping. You're in tapping. Very high up, I'd imagine.
+= Anyway. Whatever it is, you're clearly good at it. I'll leave you to it.
+  | So, yeah. Mystery solved. Roughly. Carry on tapping.
+
+@chain the-glass
+@topic viewer
+@start idle
+- Do you ever think about the glass? Between us, I mean.
+  | I've been having a think about the glass.
+  | Can we talk about the glass for a minute?
+- It's very thin. You'd think there'd be more of it, keeping two whole flats apart.
+  | It's not thick, is it. Just this one clear bit, and then you.
+- Back home there'd be a suggestion door here. You'd just sort of mean it, and walk through.
+-? I tried meaning it once. Bumped my nose. Very firm, Earth glass.
+- But I like it, to be honest. You can see in, I can see out, and nobody treads crumbs through.
+  | I've come round to it, though. It keeps the draughts out and the crumbs in.
+- And I talk to it all day. I reckon it passes the good bits on to you.
+  | And it's a good listener. I tell it things, and I think it passes them on.
+= So, yeah. Good glass. I've given it an eleven, and I don't normally mark glass.
+  | Anyway. Long live the glass. I'm going to give it a little polish with my elbow.
+
+@chain your-sofa
+@topic viewer
+@start idle
+- Have you got a sofa in there?
+  | I keep wondering if you've got a sofa on your side.
+- You must have. You sit down a lot. You'd need something good to land on.
+  | I assume so. You do loads of sitting. That needs proper equipment.
+- Mine's mustard. Best thing on Earth. I'd show you, but you can already see it.
+- If yours is mustard too, that's fate. Back home, that'd basically make us cousins.
+  | If yours is mustard as well, we're sofa twins. That's a real thing. I've just made it real.
+-? If it's just a chair, that's fine. A chair is a sofa that went solo.
+- On {planet} the ground's so soft, the whole planet's a sofa. You'd love it. Nobody ever gets up.
+= Anyway, whatever you're sitting on, I hope it's comfy. I'm going to sit on mine in your honour.
+  | So, yeah. Sofa or chair, you deserve a good sit. That's my official position.
+
+@chain your-name
+@topic viewer
+@start idle
+- I've just realised I don't know your name.
+  | Can I ask you something? What are you called?
+- I've been guessing. Sandra, first. Strong name. Sounds like someone with a good umbrella.
+  | I've had a few guesses. Graham, first. Sounds like someone who's good with a map.
+- Then I tried some from back home. Ploovin. Ula-Ula. Small Mick.
+  | Then I went through names from {planet}. Fobbin. Dot. Mostly-Steve.
+- I nearly went with Gary, but Gary's a moon. It'd get confusing at parties.
+-? Kevin's taken as well, obviously. He'd do a slightly faster loop about it.
+- So for now I've been calling you "housemate". You haven't complained. I'm taking that as a yes.
+  | So I've just been calling you "housemate". No complaints so far. Good sign.
+= Anyway. Whatever your name is, I bet it's a good one. Housemate will do until then.
+  | So, yeah. Housemate it is, for now. It suits you. I'm going to go and lie down about names.
+
+@chain good-housemate
+@topic viewer
+@start idle
+- Can I tell you something? You're a very good housemate.
+  | I've been doing a little review of you. As a housemate.
+- You never leave washing up. Not one spoon. Very clean record.
+- You don't use all the hot water. You don't hog the sofa. You've never had the last crumpet.
+  | You've never once taken the last crumpet. That's rare. That's very rare.
+- On {planet}, we'd give you a gold chain for that. A formal one.
+-? I'd lend you mine till then, but I've got a thing on later. I haven't. But I might.
+- The only thing is, you're behind glass. Which is fine. Kevin's behind glass, and he's my best mate.
+= So, yeah. Thirteen out of fourteen. I've never given anyone a thirteen. Don't let it go to your head.
+  | Anyway. Glowing review. I'll stick it on the fridge so you can see it.
+
+@chain house-rules
+@topic viewer
+@start idle
+- I think we need some house rules. Nothing strict.
+  | I've written some house rules. Don't worry. They're soft ones.
+- Rule one: no Mondays in the flat. If one gets in, we ignore it until it leaves.
+  | Rule one: Mondays wait outside. They can look in, but they can't come in.
+- Rule two: Kevin gets fed before anyone has a biscuit. He's the most senior.
+  | Rule two: Barry gets the best light. He's a plant. He needs it more than us.
+- Rule three: whoever puts the kettle on says "kettle's on". It's only polite.
+-? Rule four: no running. There's no need. Nothing in here is going anywhere.
+- Last rule: if you tap, I come over. If you don't, I'll assume you're busy, and that's fine.
+= That's the lot. I'll stick them on the fridge. It's used to holding things.
+  | So, yeah. House rules. Very fair, I think. I'm going to go and follow them.
+
+@chain flat-tour
+@topic home
+@start idle
+- Fancy a tour of the flat? I've never given one. Let's go.
+  | Right. I'm going to give you the tour. The proper one.
+- On the left, the sofa. Mustard. Best thing on Earth. Moving on.
+  | First stop, the sofa. We could stay here all day, but we've got a tour on.
+- That's Kevin. Goldfish. Head of security, technically. Nothing's ever happened, so he's doing great.
+- The big plant is Barry. He's taller than me. We don't talk about it.
+-? The kitchen. Kettle, toaster, fridge. They're a bit like a band. The fridge does backing vocals.
+- Over there's the bed. Pink duvet. Very serious about comfort.
+  | That's the bed. Pink duvet. It's where the best naps happen, and some of the medium ones.
+- And that's the telly. That's where you live. Lovely spot. Very bright.
+  | And finally, the telly. Your place. Nice and bright. Great view of the sofa.
+= And that's the tour. Mind the step on your way out. There's no step. Stay as long as you like.
+  | That's the whole flat. Small, but it's got everything. Including you.
+
+@chain day-advice
+@topic viewer
+@start idle
+- Can I give you some advice for your day? It's from {planet}, so it's very good.
+  | I've got some tips for your day. Planet 6 ones. Tried and tested.
+- First: have a proper sit-down at some point. Not a working sit. A sitting sit.
+  | Tip one: at some point, sit down without doing anything. Just to see what it's like.
+- Second: look out of a window. Find a cloud. Give it a mark out of fourteen. Clears the head.
+- Third: if something's going badly, hum. It won't fix it. But you'll be humming, which is nice.
+  | Third: when things get a bit much, have a hum. It doesn't help. But it doesn't not help.
+-? Fourth: be gentle with yourself on a Monday. It's not your fault. It's the Monday's.
+- Last one: have something warm. Tea, toast, soup. Warm things know what they're doing.
+= That's it. That's the wisdom. Good luck in there. I'll be cheering from the sofa. Quietly.
+  | So, yeah. Planet 6 advice. Use it however you like. I'm off for a lie-down.
+
+@chain night-shift
+@topic viewer
+@start night
+@tags night
+- You're still up. So am I. Night shift, us.
+  | Bit late to be up, isn't it? For both of us, I mean.
+- On {planet} there's no proper night. You just decide you've had enough day, and it stops.
+- Here the night just turns up, whether you're finished or not. Very punctual, the dark.
+- I don't mind it, though. The flat goes all quiet. Even the fridge hums a bit softer.
+  | It's nice, to be fair. Everything goes still. The kettle's asleep. Kevin's mostly asleep.
+-? The clock's still going. Of course it is. That clock never rests.
+- If you're still working, go slow. Nothing good gets done this late. Even the clouds have gone home.
+= Right. I'm going to lie down. You do the same when you can. Night, housemate.
+  | Anyway. Don't stay up too late. Even the moon goes to bed eventually.
+
+@chain moon-fifteen
+@topic viewer
+@start night
+@tags night
+- Your side's very bright at night. Did you know?
+  | It's all dark in the flat, but your side's glowing.
+- It's like having a nightlight that's a whole person.
+- Back home there are fourteen moons in the sky, so I'm used to a bit of light at bedtime.
+- Gary's the beige one. He doesn't glow much. He just sort of attends.
+  | You'd like Gary. He's beige and he doesn't glow much. But he always turns up.
+- You glow more than Gary. Don't tell him. He's sensitive about it.
+-? I've started thinking of you as a moon. Not a beige one. A reliable one.
+- So now I've got fifteen moons. Fourteen back home, and you. That's a lot of moon for one alien.
+= Anyway. Thanks for the glow. I'm going to try and sleep. Night night, moon fifteen.
+  | So, yeah. Moon fifteen. Don't let it go to your head. Night, then.
+
+@chain wave-hello
+@topic viewer
+@start act:waveViewer
+- <act:waveViewer> Hello. I'm waving. This is a wave.
+  | <act:waveViewer> Oh, hi. Just giving you a little wave.
+- Back home we'd touch ears. But the glass is in the way, and I'm not sure where you keep yours.
+- So I'm doing an Earth wave. I've been practising. Hand up, side to side.
+- Not too fast, mind. A fast wave looks like you've missed a bus. This is a slow one. A hello one.
+  | You can't rush it. A fast wave means "taxi". A slow wave means "hello, housemate".
+-? I tried waving with my ears once. Nobody got it. Kevin turned round, though.
+- You don't have to wave back. A little nod is fine. A thought is fine.
+= There. Waved. That's us properly said hello for the day. Lovely.
+  | Right, my arm's had enough. That was a good wave, though. Very formal.
+
+@chain tap-language
+@topic viewer
+@start any
+- Every time you tap, I wonder what you mean by it.
+  | Can I ask about the tapping? What does it mean, on your side?
+- Sometimes I think it's "hello". Sometimes I think it's "go on, then".
+- Back home we'd hum at each other. One hum is hello. Two hums is "fancy some toast?"
+- So I've decided. One tap is hello. Two taps is toast.
+  | So here's the plan. One tap means hello. Two taps means you'd like toast.
+-? Three taps, I don't know yet. Probably also toast.
+- If you tap loads, I'll assume it's something important. Like crumpets.
+= Anyway, I'm glad we've sorted out a language. Very efficient. Tap away.
+  | So, yeah. We've got our own language now. It's mostly about bread.
+
+@chain your-weekend
+@topic viewer
+@start idle
+@tags weekend
+- Is it the weekend on your side as well? It is on mine.
+  | Do you get the weekend in there too? I hope so.
+- Back home weekends are compulsory. If you do too much, a neighbour comes round and makes you lie down.
+- Here, some people still do a bit of work on a Saturday. Just a bit. Just to check on it.
+- I'm not saying don't. I'm just saying the sofa is right there. And it's mustard.
+- If it helps, I'll do the resting for both of us. I've been training all week.
+= So, yeah. Happy weekend. I'm going to go and be compulsory about it.
+  | Anyway. Have a nice slow one. That's an order. A very relaxed order.
+
+@chain come-through
+@topic viewer
+@start idle
+- What do you reckon would happen if you came through the glass?
+  | I've been imagining you coming through the glass. For a visit.
+- First, I'd show you where the biscuits are. That's just manners.
+- Then I'd introduce you to Kevin properly. He'd swim right up to the glass. Big welcome, from Kevin.
+- You could have the sofa. I'd have the rug. I'm happy on the rug.
+-? Barry would lean towards you a bit. He does that with guests. It's the light, really.
+- Then we'd look out of the window and mark the clouds together. You'd be a natural. You've got the patience.
+= But you're busy in there, and that's fine. The offer stands. Biscuits are on the left.
+  | Anyway. The door's always open. Well, the glass is always there. Same idea.
+
+@chain lunch-in-there
+@topic viewer
+@start idle
+- What do you have for lunch in there? I've always wondered.
+  | Do you get lunch on your side? I hope so. It's important.
+- I hope it's warm. Back home lunch is mostly glorp. You can't go wrong with something warm.
+- If you've only had a biscuit, that's all right. A biscuit's a small lunch. A very small one.
+- Just try not to eat it at the glowing thing. Have it somewhere else. Look at a wall. Walls are restful.
+  | Maybe eat it away from your work, though. Food likes to be the main thing.
+-? I eat mine on the sofa, looking at the fridge. Then pudding, looking at the kettle. Variety.
+= Anyway. Go and have some lunch. I'll have one too. That's lunch together, technically.
+  | So, yeah. Lunch. Have one. I'm off to have my second.
+
+@chain first-day-welcome
+@topic viewer
+@start any
+@tags firstDay
+- Oh. You're new. Hello. I'm Mervin.
+  | Hello. You must be the new housemate. I'm Mervin. I live this side.
+- I'm from {planet}. Took a wrong turn at a nebula. Ended up here. It's been lovely.
+- That's Kevin, the goldfish, and Barry, the plant. Both very quiet. Don't take it personally.
+- You live behind the glass. That's your side. I won't come round. I can't, actually.
+-? I've cleared a shelf for you. You can't reach it. But it's yours.
+- If you want me, just tap. I'll come over. I'm never doing anything important.
+= Anyway, welcome. Make yourself at home. You already are at home. That's the good bit.
+  | So, yeah. Welcome to the flat. I think we're going to get on.

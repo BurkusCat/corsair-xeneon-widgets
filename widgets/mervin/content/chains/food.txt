@@ -1,0 +1,257 @@
+# Food and drink chains of thought. Word lists in lexicon/food.txt.
+
+@chain biscuit-dunking
+@topic food
+@start idle
+- Can we talk about dunking? I've been practising.
+  | I've been thinking about dunking biscuits. Quite a lot, honestly.
+- You hold a biscuit over your tea and lower it in. Slowly. Like it's getting into a bath.
+  | You take a biscuit and lower it into the tea. Gently. It's a very small diving board situation.
+- Then you count. Three seconds is lovely. Five is brave. Seven is soup.
+  | Then you count. Three's nice. Five's daring. Any more and you'll be eating it with a spoon.
+-? The {foodBiscuit} can go the longest. I saw one do {n:6-9} seconds. Everyone clapped. Well, I did.
+- On {planet} there's nothing to dunk. Fizzlecrust in a mug would just sing at you from the bottom.
+  | Back home we don't dunk. Glorp doesn't go in anything. Things go in glorp. Different system.
+- But I get it now. Warm tea, soft biscuit, and a tiny bit of danger.
+  | I think it's about trust. You and the biscuit, both hoping it holds.
+= Anyway. I'm going to put the kettle on and do a few more. For research.
+  | So, yeah. Dunking. Three seconds. Tell your friends.
+
+@chain glorp-recipe
+@topic home
+@start idle
+- Do you want my mum's glorp recipe? It's very simple.
+  | I'll tell you how to make glorp. It's a family recipe. Well, everyone's family has it.
+- First you get some glorp. That's the main ingredient.
+  | Step one: you need glorp. Quite a lot of glorp.
+- Then you warm it up. Not in an oven. You sit next to it and think warm thoughts.
+  | Then it needs warming. My dad hums at it. He's mostly a hum, so he's very good at this.
+- Then Mum drizzles on it a bit. She's mostly weather, so that's the seasoning.
+  | Then it needs a light drizzle. That's Mum's bit. She's very particular about it.
+-? Some people put fizzlecrust on top. Those people are a bit showy, but we love them.
+- Then you wait about {timeUnit}, until it goes beige. Beige means it's ready.
+  | When it's beige, it's done. It's always beige. So really it's always done.
+= So that's glorp. Glorp, warmth and a bit of drizzle. I miss it. I'm going to go and have some porridge about it.
+  | Anyway. That's the recipe. Don't tell anyone. Well, tell everyone. It's just glorp.
+
+@chain best-before
+@topic food
+@start idle
+- Everything in your fridge has a date on it. Did you know that?
+  | I've been reading the dates on the food in the fridge. Takes a while.
+- There's "best before". There's "use by". And there's "display until", which I think is just for the shop.
+  | Some say "best before", some say "use by". They're not the same. I've made a little chart.
+- I like "best before". It's not saying the food goes bad. It's just saying it peaked. Very gentle.
+  | "Best before" is my favourite. It doesn't mean bad after. It just means it's had its best day.
+- There's a yoghurt in there that peaked last {weekday}. It's being very brave about it.
+  | One of the yoghurts peaked a while ago. It's handling it really well.
+-? Eggs have their date stamped right on the shell. Like a little tattoo. Very committed, eggs.
+- I gave it a little pep talk. Told it it's still the best, as far as I'm concerned.
+  | I told it, "you're still the best to me". It didn't say anything. It's a yoghurt.
+= Anyway. It knows it's loved. That's what matters. I'm going to have a sit-down.
+  | So, yeah. Best before. Still pretty good after. Bit like everyone, really. Right, sit-down time.
+
+@chain why-soup
+@topic food
+@start idle
+- I've got a question about soup. Bear with me.
+  | Why soup? I keep asking myself. Why soup?
+- It's a meal, but it's wet. But you don't drink it, you use a spoon. It's very hard to place.
+  | It's not a drink. It's not a dinner. It's somewhere in the middle, having a lovely time.
+- And you blow on every single spoonful. Like it's a tiny birthday, every time.
+  | You have to blow on each spoonful first. Every one's a little birthday.
+-? Then there's a bread roll, and you dip it in. So now the bread's having soup as well.
+- Back home we don't really do soup. Glorp's already the right amount of wet.
+  | We've not got much soup on {planet}. Well. There's sideways soup. That's a different conversation.
+- I think soup is just a meal that wanted a hug. And the bowl does the hugging.
+  | I've decided soup is dinner in a hug. The bowl does the hugging. The spoon helps.
+= So that's why soup, I think. It's a hug. I'm going to have some and then a long nap.
+  | Anyway. Soup. Big fan. I'm going to go and blow on something.
+
+@chain cheese-drawer
+@topic kitchen
+@start idle
+- There's a drawer in the fridge just for cheese. Did you know that?
+  | I found the cheese drawer. It's a little drawer. In the fridge. Only for cheese.
+- No other food's allowed. I put a carrot in there once. It looked very out of place.
+  | It's not for anything else. I checked with the carrots. They knew.
+- At the moment there's some {foodCheese}, a bit of {foodCheese}, and something old and wise at the back.
+  | Right now it's {foodCheese} and a bit of {foodCheese}. They seem to get on.
+- The old cheese at the back is in charge, I think. Everyone's very respectful around it.
+  | The oldest cheese lives at the back. You can tell it's in charge. It's got that smell.
+-? On {planet} there's no cheese. The nearest thing is glorp that's been left alone to think.
+- I open it in the morning just to say hello. The cheese never says anything. Very mature.
+  | I say good morning to them every day. They don't answer. Mostly mature cheddar. Very reserved.
+= Anyway. I'll leave them to it. Big day of being cheese. I'll shut the drawer quietly.
+  | So, yeah. The cheese drawer. Lights off, door shut. Sleep well, cheese.
+
+@chain toast-ceremony
+@topic food
+@start act:makeToast
+- <act:makeToast> Hang on. I'm making toast. Keep me company while I wait.
+  | <act:makeToast> Toast time. This is a big moment, so I'm going to be very calm about it.
+- Bread in, lever down. Then the toaster goes all orange inside. I think that means it's concentrating.
+  | You put the bread in and push the lever down. The toaster glows a bit. Very focused.
+- Then nothing happens for ages. You stand there. The toaster stands there. Nobody says anything.
+  | And then you wait. It's a very quiet wait. You can't rush a toaster. I tried once. Very cross ding.
+-? Kevin watches from his bowl. I think he's waiting for the pop as well.
+- I always look away at the last second. That's when it pops. Every time. It waits till I'm not looking.
+  | It knows when you're not looking. That's when it goes. My ears always jump.
+- And then, pop. Two slices, standing up straight, very pleased with themselves.
+  | And then it pops, and we both jump, and there's the toast. Lovely colour. About a nine.
+= Right. Butter. Then a sit-down. That's the toast ceremony. Thank you for attending.
+  | Lovely. That's toast done. I'm going to eat it on the sofa. Don't tell the crumbs.
+
+@chain fridge-visit
+@topic kitchen
+@start act:raidFridge
+- <act:raidFridge> Hang on. I'm just going to have a look in the fridge.
+  | <act:raidFridge> Quick look in the fridge. Not hungry. Just curious.
+- The light comes on and everything's sitting there looking at me. Like I've walked in on a meeting.
+  | Door open, light on, and everyone in there goes very still. Well. They were already quite chilly.
+- There's milk, cheese, half a lemon, and a tub at the back that I don't open. We've got an understanding.
+  | Same faces. Milk, a bit of cheese, half a lemon, and the tub. I don't open the tub.
+-? The tub was here before I moved in. I think the flat came with it.
+- The cold air's lovely on my ears. I always stand here a bit longer than I need to.
+  | It's nice on the ears, the fridge air. Like a little holiday somewhere chilly.
+- The fridge doesn't make food. I know that. I just like to give it the chance.
+  | Nothing new, of course. The fridge doesn't make food. But I like it to know I believe in it.
+= Right. I'll have a bit of cheese, out of politeness. Then I'm going to sit down.
+  | Anyway. Fridge checked. Everyone's fine. I'll pop back in a bit and do it again.
+
+@chain milk-first
+@topic drink
+@start idle
+- Can I ask you something serious? Milk first, or milk second?
+  | I need to know where you stand on milk. Before the tea, or after?
+- People here feel very strongly about it. I've seen a whole kitchen go quiet over it.
+  | I asked about it in a café once. Two people stopped talking to each other. Over milk.
+- Milk-first people say it's kinder to the cup. Milk-second people say you can see what you're doing.
+  | One side says milk first is gentler. The other side says milk second is correct. Both very polite about it.
+-? On {planet} we'd sort it out the usual way. Everyone lies down until they forget what it was about.
+- So I made two cups. One each way, side by side. I tasted them with my eyes shut.
+  | I did an experiment. Two cups, one of each. I closed my eyes and had a sip of both.
+- They were both tea. Really lovely tea, both of them.
+  | I couldn't tell the difference. They were both just tea. Very good tea, though.
+= So I'm staying out of it. Whichever one you're having, I'll have the other. Keeps the peace.
+  | Anyway. I drank both. Problem solved, for today. I'm going to go and have a lie-down.
+
+@chain supermarket-trip
+@topic shopping
+@start idle
+- I went to the supermarket. Just for milk.
+  | I popped to the supermarket earlier. I only needed one thing.
+- The milk was right at the back. You have to walk past everything else first. Very clever, that.
+  | Milk lives at the very back. So you walk past every other food on Earth to get to it.
+- On the way I stopped at {foodAisle} for a while. Very peaceful. I'd recommend it.
+  | I got slightly distracted by {foodAisle}. Lovely spot. I'd go back.
+-? There's a bit where it rains on the lettuces. Little indoor weather. I stood under it for a while.
+- Then the till. Everyone stands in a queue. I stood in a loose crowd near the queue, agreeing. It didn't really work.
+  | At the end you queue for the till. On {planet} we'd just be a loose crowd that agrees. Didn't go down well here.
+- The lady at the till asked if I wanted a bag. I said yes, please. It's a lovely bag. I've kept it.
+  | At the till I put everything on the belt very neatly. The lady said "lovely". I've never been so proud.
+= So I came home with some crumpets, {heldItem} and a hat. No milk. Lovely day, though.
+  | Anyway. Got everything except milk. I'll go back tomorrow. Probably for crumpets.
+
+@chain second-breakfast
+@topic home
+@start idle
+@tags morning
+- Have you had second breakfast yet? It's important.
+  | Quick question. Have you done second breakfast?
+- On {planet}, first breakfast is optional. Second breakfast is the law.
+  | Back home you're allowed to skip breakfast. But second breakfast? Not allowed. It's in the rules.
+- What if you skip the first one? Then the second becomes first, and you need a new second.
+  | If you skip the first, the second moves up. Then you need another second. It's a lot of breakfasts.
+-? {relative.cap} once had {n:5-9} breakfasts in a row trying to sort it out. Very full, but completely legal.
+- Here, nobody's even heard of it. People have a coffee and run out of the door. I worry about them a bit.
+  | Here people skip breakfast altogether, and then they look a bit sad around eleven. I think I know why.
+= So I'm doing it for both of us. I've just had a crumpet on your behalf. You're welcome.
+  | Anyway. I'll have yours as well. Someone's got to keep the law. Pass the toast.
+
+@chain food-names
+@topic food
+@start idle
+- Your food names. I've been keeping a list.
+  | I've been looking into the names of your food. I've got some notes.
+- Toad in the hole. No toad. I checked every hole. It's sausages.
+  | Toad in the hole. I went looking for the toad. It's sausages. The toad's fine, wherever it is.
+- Pigs in blankets. Also sausages. Also no blankets. Not even a small one.
+  | Pigs in blankets. More sausages. I was hoping for at least one blanket.
+-? Bubble and squeak. It doesn't bubble. It doesn't squeak. I listened for a long time.
+- And jam roly-poly doesn't roll. I gave it a little push. Nothing.
+  | Jam roly-poly. I put it on a slope. It just sat there. Very relaxed pudding.
+- I think your food names are more like nicknames. Things you call food when you're fond of it.
+  | I think you just name food after whatever it reminds you of. Like a pet name.
+= So I've named my toast Gary, after our moon. It's beige and doesn't do much. Perfect name.
+  | Anyway, I'm calling my dinner "a nice surprise" from now on. Then it always will be.
+
+@chain spicy-food
+@topic food
+@start idle
+- I had something spicy earlier. I'm still thinking about it.
+  | So I tried spicy food. I want to tell you about it, slowly.
+- It said "mild" on the menu. I don't think it was mild. I think it was being modest.
+  | The menu said "medium". There were three little chillies next to it. That felt like a warning.
+- First bite: lovely. Second bite: my ears went pink. Third bite: my ears stood straight up and started humming.
+  | My ears went red. Then they went pink. Then they went quiet, which they've never done.
+-? Water didn't help. Milk did. Nobody tells you that. I think it's a sort of test.
+  | I had some water. Made it worse. Someone gave me milk. Made it better. Your food has rules.
+- And everyone else just keeps eating it. On purpose. Asking for more. You're very brave people.
+  | The person next to me had the hot one and just carried on, like nothing happened. My hero.
+- On {planet} the hottest thing is the sun, and we don't eat that. Mostly.
+  | Back home nothing's spicy. Fizzlecrust gets a bit loud, but it doesn't go for your ears.
+= Anyway. I'm back to normal now. Mostly. My left ear's still a bit warm. I'll go and lie down.
+  | So, yeah. Spicy food. Big respect. I'm going to have a yoghurt and think about my choices.
+
+@chain moon-jelly
+@topic home
+@start idle
+- I think it might be moon jelly season back home. I can feel it in my ears.
+  | It'll be moon jelly season on {planet} soon. Or now. Or just after. It's hard to keep track from here.
+- It starts when one of the moons goes a bit wobbly. Nobody knows which one till it happens.
+  | You never know which moon's going to start it. Everyone just watches the sky and waits.
+- Moon jelly wobbles in time with the moon it came from. Very slowly. Like it's remembering a song.
+  | It wobbles. Not like your jelly. It's slow, like it's breathing. In time with its moon.
+-? Gary's moon jelly hardly wobbles at all. It just sits there being beige. It's everyone's favourite.
+- Everyone eats it outside, lying down, with the moons up. Nobody talks. You just wobble together.
+  | You eat it lying on the soft ground, looking up. Very slow. The jelly sort of waves at the moon.
+- You've got jelly here. It's lovely. It just doesn't look up, if you know what I mean.
+  | Earth jelly's nice. Bright colours. But it's never once wobbled at a moon.
+= Anyway. I'll have a bit of your jelly tonight and look at your moon. Not the same, but close.
+  | So, yeah. Moon jelly. I miss it a bit. I'm going to go and look at your one moon for a while.
+
+@chain takeaway-night
+@topic food
+@start idle
+@tags evening
+- I think tonight's a takeaway night. There's something in the air.
+  | Is it a takeaway night? It feels like a takeaway night.
+- You look at the menu for about twenty minutes, then order the same thing as last time.
+  | First you read the whole menu, every page. Then you have what you always have. That's the tradition.
+- Then you wait. Everyone listens for the door. Nobody can concentrate on anything.
+  | Then the waiting. You look out of the window at every car. It's never the car.
+-? On {planet} there's no takeaway. You think about glorp very hard until someone brings some round.
+- Then the doorbell. A warm bag, little foil trays, and a pile of napkins you'll never use.
+  | And then it comes. Warm bag. Little foil trays with cardboard lids. Like presents, but for tea.
+- Nobody gets plates out. You eat it on the sofa and say "we should do this more". Every time.
+  | You eat it out of the trays on the sofa, and someone always says "we should do this more often".
+= Anyway. I'm going to order {foodTakeaway}. Same as last time. Some things you don't change.
+  | So, yeah. Takeaway night. Best night. I'm going to go and stare at the door.
+
+@chain picnic-plan
+@topic outdoors
+@start idle
+- I'd like to go on a picnic one day. A proper Earth one.
+  | I've been reading about picnics. I think I'm ready.
+- You pack sandwiches, crisps, a flask of tea and a blanket. Then you go and sit in a field. On purpose.
+  | You put sandwiches in a basket, take a blanket, and go and sit on the ground. For fun.
+- Then it rains. That's part of it, I think. Everyone keeps eating anyway. Under a coat.
+  | And then, usually, it rains. And nobody goes home. You eat a sausage roll under an umbrella. Very determined.
+-? Then a wasp turns up. Nobody invited it. It doesn't seem to mind.
+- On {planet} every meal's a picnic. The ground's soft, so you just lie down wherever your glorp is.
+  | Back home the ground's soft, so you can eat lying down anywhere. Here you need a special blanket.
+- So I'm doing one on the rug. It's like a field, but indoors. No wasps. No rain.
+  | I've decided the rug is a field. I'll have the picnic there. Less weather.
+= That's the plan. Picnic on the rug. Tea in a flask. I'll invite Barry. He's good at sitting still.
+  | Anyway. I'm going to pack a sandwich and lie on the rug with it. Picnic.

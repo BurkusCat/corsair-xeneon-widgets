@@ -1,0 +1,111 @@
+# Household word lists (Earth homes, DIY, cleaning). Names start with "home".
+
+@lexicon homeLostThing
+penny
+raisin
+hair clip
+biro
+button
+bottle top
+pen lid
+grape
+receipt
+marble
+jigsaw piece
+crisp
+earring
+battery
+bus ticket
+sweet wrapper
+hairband
+bit of popcorn | bits of popcorn
+teaspoon
+playing card
+birthday candle
+toy car
+glove
+plastic dinosaur
+chess piece
+fridge magnet
+
+@lexicon homeNoise
+@kind phrase
+a drill
+someone hoovering
+a dog with opinions
+a washing machine on spin
+someone moving a wardrobe
+somebody practising the recorder
+a door being shut quite firmly
+someone singing in the shower
+a lot of hammering
+a tumble dryer with a coin in it
+footsteps going back and forth
+a kettle coming to the boil
+a very big sneeze
+someone laughing at the telly
+a chair being dragged about
+the same three piano notes
+
+@lexicon homeChore
+@kind phrase
+the hoovering
+the washing-up
+the ironing
+the dusting
+the recycling
+the bins
+the laundry
+the windows
+the skirting boards
+the bathroom
+the oven
+the fridge shelves
+the sock drawer
+the mopping
+the bit behind the sofa
+
+@lexicon homeFurniture
+armchair
+wardrobe
+chest of drawers
+bookcase
+bedside table
+coffee table
+footstool
+dining chair
+sideboard
+coat stand
+shoe rack
+bunk bed
+beanbag
+rocking chair
+ottoman
+dressing table
+desk
+
+@lexicon homeRoom
+loft
+landing
+airing cupboard
+spare room
+box room
+utility room
+porch
+conservatory
+cupboard under the stairs | cupboards under the stairs
+downstairs loo
+pantry
+attic
+
+@lexicon homeFlatpackPart
+screw
+dowel
+little wooden peg
+washer
+hinge
+bracket
+cam lock
+bolt
+wobbly bit of plastic | wobbly bits of plastic
+small metal thing

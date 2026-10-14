@@ -1,0 +1,264 @@
+/* Mervin widget. The 3D scene is one canvas; speech bubbles are DOM elements on top of it,
+   positioned in px by scripts/mervin.js. --bubble-font is set from the widget height and the
+   "Bubble text size" setting. */
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #1b1714;
+}
+
+body {
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  font-family: "Segoe UI Rounded", "Segoe UI", system-ui, sans-serif;
+}
+
+.stage {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  touch-action: none;
+}
+
+.scene {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+.debug {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.bubbles {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+/* Speech bubble ------------------------------------------------------------------------- */
+
+.bubble {
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-sizing: border-box;
+  max-width: var(--bubble-max, 520px);
+  min-width: 3em;
+  padding: 0.55em 0.85em 0.6em;
+  border-radius: 1.1em;
+  background: #fffdf6;
+  color: #2b2520;
+  font-size: var(--bubble-font, 22px);
+  line-height: 1.28;
+  font-weight: 600;
+  letter-spacing: 0.005em;
+  box-shadow:
+    0 0.12em 0 rgba(60, 40, 20, 0.18),
+    0 0.4em 1.1em rgba(0, 0, 0, 0.28);
+  border: 0.12em solid #3a2f28;
+  opacity: 0;
+  transform: translate3d(0, 0, 0) scale(0.6);
+  transform-origin: var(--tail-x, 50%) 100%;
+  transition:
+    opacity 0.18s ease-out,
+    transform 0.22s cubic-bezier(0.2, 1.4, 0.4, 1);
+  will-change: transform, left, top;
+}
+
+.bubble.shown {
+  opacity: 1;
+  transform: translate3d(0, 0, 0) scale(1);
+}
+
+.bubble.leaving {
+  opacity: 0;
+  transform: translate3d(0, -0.4em, 0) scale(0.92);
+  transition-duration: 0.35s;
+}
+
+.bubble .text {
+  display: block;
+  white-space: pre-wrap;
+}
+
+.bubble .ghost {
+  visibility: hidden;
+}
+
+/* The tail: a rotated square with the bubble's border, positioned by --tail-x / side. */
+.bubble::after {
+  content: "";
+  position: absolute;
+  left: calc(var(--tail-x, 50%) - 0.45em);
+  bottom: -0.55em;
+  width: 0.9em;
+  height: 0.9em;
+  background: #fffdf6;
+  border-right: 0.12em solid #3a2f28;
+  border-bottom: 0.12em solid #3a2f28;
+  transform: rotate(45deg) skew(8deg, 8deg);
+}
+
+.bubble.below::after {
+  bottom: auto;
+  top: -0.55em;
+  transform: rotate(225deg) skew(8deg, 8deg);
+}
+
+.bubble.side-left::after,
+.bubble.side-right::after {
+  left: auto;
+  bottom: auto;
+  top: calc(var(--tail-y, 50%) - 0.45em);
+}
+
+.bubble.side-left::after {
+  right: -0.55em;
+  transform: rotate(-45deg) skew(8deg, 8deg);
+}
+
+.bubble.side-right::after {
+  left: -0.55em;
+  transform: rotate(135deg) skew(8deg, 8deg);
+}
+
+/* Sleep-talk and asides: lighter, italic. */
+.bubble.aside {
+  background: #eef1ff;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.bubble.aside::after {
+  background: #eef1ff;
+}
+
+/* A chain is waiting for a tap: the cue sits on the bubble's corner with a countdown ring. */
+.bubble .cue {
+  position: absolute;
+  right: -0.7em;
+  bottom: -0.7em;
+  width: 1.9em;
+  height: 1.9em;
+  opacity: 0;
+  transition: opacity 0.25s;
+}
+
+.bubble.waiting .cue {
+  opacity: 1;
+}
+
+.bubble .cue svg {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.bubble .cue .disc {
+  fill: #ffcf4a;
+  stroke: #3a2f28;
+  stroke-width: 2.4;
+}
+
+.bubble .cue .ring {
+  fill: none;
+  stroke: #3a2f28;
+  stroke-width: 3.2;
+  stroke-linecap: round;
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+}
+
+.bubble .cue .dots circle {
+  fill: #3a2f28;
+  animation: cue-dot 1.2s infinite ease-in-out;
+}
+
+.bubble .cue .dots circle:nth-child(2) {
+  animation-delay: 0.15s;
+}
+
+.bubble .cue .dots circle:nth-child(3) {
+  animation-delay: 0.3s;
+}
+
+@keyframes cue-dot {
+  0%,
+  60%,
+  100% {
+    transform: translateY(0);
+  }
+  30% {
+    transform: translateY(-2.5px);
+  }
+}
+
+.bubble.waiting {
+  animation: bubble-breathe 2.4s infinite ease-in-out;
+}
+
+@keyframes bubble-breathe {
+  0%,
+  100% {
+    box-shadow:
+      0 0.12em 0 rgba(60, 40, 20, 0.18),
+      0 0.4em 1.1em rgba(0, 0, 0, 0.28);
+  }
+  50% {
+    box-shadow:
+      0 0.12em 0 rgba(60, 40, 20, 0.18),
+      0 0.4em 1.1em rgba(0, 0, 0, 0.28),
+      0 0 0 0.25em rgba(255, 207, 74, 0.55);
+  }
+}
+
+/* The last bubble of a chain: a calmer, rounder shape and a little closing mark. */
+.bubble.ending {
+  border-radius: 1.6em;
+  background: #fff6e4;
+}
+
+.bubble.ending::after {
+  background: #fff6e4;
+}
+
+.bubble .end-mark {
+  display: none;
+  margin-left: 0.35em;
+  color: #b07a3a;
+  font-weight: 700;
+}
+
+.bubble.ending .end-mark {
+  display: inline;
+}
+
+/* Fallback when WebGL is unavailable ------------------------------------------------------ */
+
+.fallback {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  color: #f4ead8;
+  font-size: 20px;
+  text-align: center;
+  background: radial-gradient(ellipse at center, #3b2f4f 0%, #1b1714 70%);
+}
+
+[hidden] {
+  display: none !important;
+}

@@ -1,0 +1,129 @@
+# Word lists for human customs, work and time (writer: customs).
+
+@lexicon customGift
+scented candle
+jigsaw
+tin of biscuits | tins of biscuits
+book token
+pair of slippers | pairs of slippers
+scarf | scarves
+novelty tie
+pot plant
+keyring
+photo frame
+box of fudge | boxes of fudge
+fluffy dressing gown
+jar of chutney | jars of chutney
+travel pillow
+tea towel with a map on it | tea towels with maps on them
+bath bomb
+
+@lexicon customHobby
+@kind phrase
+knitting
+birdwatching
+doing jigsaws
+collecting stamps
+pottery
+baking bread
+model railways
+ballroom dancing
+crosswords
+gardening
+train spotting
+metal detecting
+cross-stitch
+amateur dramatics
+learning the ukulele
+growing tomatoes
+building ships in bottles
+cold-water swimming
+watercolours
+
+@lexicon customSport
+@kind phrase
+football
+cricket
+tennis
+golf
+bowls
+snooker
+netball
+rugby
+badminton
+table tennis
+hockey
+rounders
+croquet
+curling
+synchronised swimming
+the egg-and-spoon race
+tiddlywinks
+crazy golf
+
+@lexicon customClothing
+tie
+cardigan
+bobble hat
+scarf | scarves
+waistcoat
+anorak
+bow tie
+flat cap
+dressing gown
+pair of wellies | pairs of wellies
+pair of slippers | pairs of slippers
+fleece
+raincoat
+sun hat
+woolly jumper
+hi-vis jacket
+pair of flip-flops | pairs of flip-flops
+belt
+pair of braces | pairs of braces
+
+@lexicon customOffice
+swivel chair
+lanyard
+printer
+filing cabinet
+whiteboard
+sticky note
+hole punch
+spreadsheet
+water cooler
+desk plant
+name badge
+meeting room
+office kettle
+out-of-office reply
+staff fridge
+mouse mat
+biscuit tin
+
+@lexicon customParty
+balloon
+party hat
+paper plate
+sausage on a stick | sausages on sticks
+party popper
+bowl of crisps | bowls of crisps
+paper crown
+party bag
+streamer
+paper cup
+cheese and pineapple stick
+slice of cake in a napkin | slices of cake in napkins
+
+@lexicon customSmallTalk
+@kind phrase
+turned out nice again
+mustn't grumble
+can't complain
+cold one today
+nearly the weekend
+looks like rain
+not too bad, considering
+mild for the time of year
+nights are drawing in
+can't believe it's {weekday} already

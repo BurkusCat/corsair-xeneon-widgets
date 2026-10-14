@@ -1,0 +1,334 @@
+# Planet 6 and Mervin's life story: family, home life, history, the journey, the job.
+# All told as if completely normal.
+
+@category planet6.family
+@tags
+Mum's very good at surprises. You never know she's popped round until your hair's wet.
+Mum came to my school play once. Well, she rained on it. Front row, basically.
+People say "it's only a bit of drizzle". I'd never say that. That might be somebody's mum.
+My parents met at a dance. She drizzled, he hummed. Dad still goes a bit wobbly when he talks about it.
+Mum doesn't like me going out without a coat. She just rains harder until I go back for one.
+Mum's side of the family are all weather. Dad's side are all noises. I came out blue. Nobody's sure how.
+Family reunions are hard to organise. Half of us are weather, and the other half won't leave the kitchen.
+Mum asked if I'd met anyone nice. I said, "There's a goldfish called Kevin." She went misty. Happy misty.
+When I left home, Mum went foggy for a month. Dad says that's just her being proud. Nobody could see the road.
+When Mum's really proud, her drizzle goes slightly {pink|gold|warm}. It happened when I passed my nap exam.
+My dad's a low hum in the kitchen. He's been there about {n:400-600} years. Says he likes the acoustics.
+Dad doesn't really talk. He just hums a bit longer when you've done well. I've had some very long hums.
+Dad gives advice by humming. It's always the same note. It's always good advice, though.
+Dad taught me to hum. Took about {n:40-90} years. He's very patient. I'm very slow. Good team.
+The first time I heard a kettle here, I said "Dad?" out loud. Nearly the same note. Not quite as warm.
+Dad hummed down the line for an hour this morning. I put him on speaker. The fridge joined in.
+Dad's on Greatest Hums. Track {n:2-12}. He doesn't sing on it. He is it.
+My nan once said I had my dad's ears. I said, "Dad's a hum." She said, "Exactly." Still thinking about that.
+Nan's about the size of a bus. When she sits down, the whole street goes slightly downhill for a bit.
+Nan knits. Each scarf takes about a century. The last one went round {moonName} twice.
+Nan does a lovely second breakfast. It arrives in a wheelbarrow. You don't have to finish it, but you do.
+Nan always says I look peaky. I'm the same as ever. To be fair, from up there, everyone looks a bit small.
+Nan still sends a little hum in a card on my birthday. It's not much, but it's always in tune.
+Nan sat on Hob next door once. Hob's a bit of a hill. He said it was the nicest afternoon he'd had in years.
+Nan tells the same story every visit. It takes about {n:6-12} days. Nobody's ever interrupted. It's that good.
+Nan keeps sweets in her pocket. Her pocket's about the size of a small valley. You go in with a friend.
+I take after my nan. Not in size. In outlook. We both think most things can wait until after a sit-down.
+When I was little, Nan told me about the old planets. Well, she started to. Then she said "anyway" and made me a sandwich.
+Nan's turned {n:900-3000}. Well, she felt older after lunch one day, so we had a do. Took a week to sing to all of her.
+Cousin Derek's been in his cupboard for {n:30-90} years. He says the first decade's the hardest.
+Derek's got a lodger now. {A mop|A broom|An ironing board}. They get on really well. Derek does most of the talking.
+Derek was offered a bigger cupboard. He turned it down. Didn't want it going to his head.
+Derek sent me a photo of his cupboard. It's very dark. But you can tell he's smiling.
+Derek runs a little book club in his cupboard. It's him and a coat. The coat's a slow reader.
+Derek won Cupboard of the Year. Only entrant. Still did a speech. Beautiful speech. Bit muffled.
+I asked Derek if he wanted to see the world. He said, "Mervin, I've got a pull cord now." Couldn't argue with that.
+Derek's doing an evening class through the keyhole. Going really well, he says. The teacher says "who said that?" a lot.
+There are twelve of us, including me. I can name about seven. Mum says that's a very good innings.
+My brother Pim and I shared a nap pod for {n:60-120} years. He snores in three keys. I miss it, honestly.
+My sister Oolu's the sensible one. She once lay down for a whole week without anyone asking her to.
+My brother Tunk walks really fast. He once went to the shops and back in a single day. Mum was beside herself.
+My little sister Hesk is learning to float. She's only up to Wednesdays so far. Bless her.
+My second-oldest sister writes every century. Lovely letters. Never signs them. I still don't know her name.
+Hesk wants a souvenir from Earth. I'm thinking a traffic cone. You see them everywhere. Must be the national hat.
+My sister Oolu got engaged. Well, she touched ears with someone for a really long time. Same thing, back home.
+{p6Sibling.cap} says the flat sounds lovely. I sent a drawing. It's mostly sofa.
+{p6Sibling.cap} has just had a birthday. Third one this month. It's been a big month.
+{p6Sibling.cap} wants to come and visit. I've said yes, but the freezer drawer only really fits one.
+Uncle Gev holds the family record for the longest sit-down. {n:150-250} years. He still talks about it. Sitting down.
+Uncle Gev collects echoes in jars. Open one and it says "hello" in his voice from {n:40-300} years ago.
+Auntie Plom's very loud for a cloud. When she laughs, {n:3-9} towns get thunder. Lovely woman.
+My nephew Fen's a sort of mist. He's at that age where he just hangs around the bathroom mirror.
+{Uncle Gev|My sister Bodge|Brindle's nan} once lay down for so long they got listed as scenery. Proudest day in the family.
+Brindle's my best mate. We met lying down. Neither of us got up for {a month|six weeks|most of a moonturn}. Real bond, that.
+My neighbour Hob is a bit of a hill. Doesn't say much. You can sledge down him if you ask nicely.
+The Wibbles next door are a family of puddles. Lovely people. You have to step round the little ones.
+My family's a lot. A drizzle, a hum, a nan the size of a bus, and a lad in a cupboard. But they're mine.
+Kevin and Barry are my family here. And you. You're a bit like Derek, really. Behind glass, doing really well.
+Every family has one who goes off somewhere. Usually it's the cupboard one. Derek said no thanks, so it was me.
+Family dinners on {planet} take about {a week|three naps|a fortnight and a bit}. Mostly passing the {planetFood}. Nobody's in any hurry.
+Mum's been raining on our garden all week. Dad says it's because I haven't rung. I'm ringing. Ish.
+Postcard from {relativeDescribed}. Took {n:20-90} years to get here. Says "wish you were here". I was, when they wrote it.
+Rang home and got {relativeDescribed}. Lovely chat. Took about {timeUnit}.
+I still owe a hum to {relative}. I'll pay it back when I'm in tune.
+Got a voice message from {relative}. Nine minutes of humming and a bit of rustling. Lovely.
+The person I miss most is {relative}. Well, today. It changes. That's family.
+Everything I know about lying down, I learnt from {relativeDescribed}.
+If you see a cloud with a good attitude, it might be {my mum|Auntie Plom|my nephew}. Say hello. They'd like that.
+I've got a photo of {my mum|my nephew|Auntie Plom} by the bed. It's mostly blurry. That's not the photo. That's them.
+Someone asked what you're like. It was {relative}. I said "busy, behind the glass, nice".
+Got a parcel from {relative}. It was {planetFood}. Gone a bit cold. Still lovely.
+In every family photo, someone's slightly out of shot. Usually {relativeDescribed}.
+For my birthday I got {planetThing.a} from {relative}. Exactly what I wanted. Again.
+Mum's running a bit late this week. She stopped to drizzle on {Nan|Hob next door|Uncle Gev|Derek's cupboard}. They had a lovely catch-up.
+{p6Sibling.cap} has taken up competitive lying down. Early days. Still fidgets.
+
+@tags rain
+It's raining. Mum must've heard I skipped second breakfast.
+Raining. I've left the window open a crack so Mum can see the sofa. She'll love the sofa.
+Bit of rain. I said hello to it, just in case. You never know who's in it.
+Heavy rain today. That's Mum laughing, I reckon. Someone's told her a good one.
+
+@tags act:phoneHome
+Hello? Mum? Is that you, or is it just raining on the phone?
+Hi, Dad. Mm. Mm-hm. Mmm. Yeah. Love you too.
+No, Nan, I'm eating properly. I had {food.a} earlier. Yes, and second breakfast.
+Derek? You're very muffled. Is the cupboard door shut? Good. Good for you.
+No, Mum, just the one moon. I know. I know. They seem to manage.
+
+@category planet6.life
+@tags
+A day on {planet} lasts as long as you want. Most people go for {timeUnit} and a sit-down.
+We've got two sunsets back home. The second one's optional. I usually go. Seems rude not to.
+Our sun's purple and kind of a lot. You don't look at it. You just give it a nod on the way past.
+Nobody trips on {planet}. The ground's too soft. You just fall over gently and decide to stay there a bit.
+My savings are one very long, low note. I keep it under the bed. You can hear it if you put your ear to the mattress.
+Prices where I'm from go up a semitone every few centuries. Everyone grumbles, then hums a bit higher.
+I tried to pay for {food=x.a} by humming at the corner shop. The man hummed back. Lovely moment. No {x}, though.
+I had {two|three|four} birthdays last week. I'd been up some stairs. You feel older after stairs.
+Every one of our moons has a little job. {moonName.cap} does lost property.
+When I was small I thought {moonName} was following me about. Turns out it was just on shift.
+Big Linda's not her real name. Her real name's mostly vowels and a little cough. We all just say Big Linda.
+Gary doesn't glow. Gary doesn't spin. Gary's just up there, being beige. We made him a mug.
+Everyone gets a moon to look after when they're little. I got the shy one. We're very close. Quietly.
+Nan's got a chart of all fourteen moons. Gary's on it in pen, because he never moves. Well. Once.
+You tie your dinner down on Thursdays back home. Otherwise it's glorp on the ceiling. Not ideal.
+On Thursdays everyone floats a few inches. Just enough to hoover underneath yourself.
+In competitive lying down, the crowd lies down too. It's hard to tell who's winning. Very peaceful, though.
+You lose points in competitive lying down for fidgeting, sighing, or looking like you've got somewhere to be.
+My best ever lying-down score was {n:80-99} out of a hundred. Lost a few for blinking. Fair enough.
+I got a gold star in napping at school. Teacher said it was a natural gift. Mum drizzled for a week. Proud drizzle.
+My school report said "Mervin is a calm, thoughtful boy who may or may not be awake." Fair, really.
+PE at school was lying on mats. If you finished early, you were allowed a second mat.
+School dinners were glorp every day. Different glorp, though. Thursday glorp was the best. It came to you.
+Home time at school was whenever you felt like it. Most of us left at lunch, and came back for lunch.
+Detention at my school was {n:5-15} minutes standing up. I only got it once. Still a bit wobbly thinking about it.
+My best subject at school was {p6Subject}. My worst was getting up. Still is, to be fair.
+I got top marks in {p6Subject}. Mrs Thrimble said I was a natural. Well, she hummed it.
+I used to collect singing pebbles. You have to keep them apart, or they start a band.
+I had a puddle pet called Splodge. Lovely lad. Went off with a cloud in the end. We still wave.
+My first job was a hum round. I hummed the news at people's doors. It was mostly "it's Thursday".
+For holidays we go to the other side of the planet. It's exactly the same, but you're on holiday, so it's nicer.
+Moon jelly season starts when {moonName} goes a bit wobbly. Then everyone gets their spoons out.
+Traffic on {planet} is everyone bouncing slowly in the same direction. Rush hour's the same speed, just friendlier.
+When Nan walks to the shops, half the street comes along with her. Everyone calls it the Number 9.
+Everyone on {planet} wears a gold chain. It's formal. Without one you look like you've just woken up. Which is also fine.
+Our walls are soft rock. If you lean on one, it leans back a bit. Very supportive walls.
+Gardening on {planet} is mostly asking the plants how they are. They're always fine. That's the nice thing about plants.
+The news back home is mostly about Gary. Today, beige. Tomorrow, beige, with a chance of beige.
+The weather forecast back home is just a list of relatives and where they're headed.
+You can tell what someone's thinking from their ears, back home. Mine have been at about ten to two since I got here.
+It's rude to finish a sentence back home. You leave a bit at the end so the other person has somewhere to...
+People retire on {planet} at about nine hundred. Most of them don't notice any difference.
+Planet 6's Greatest Hums is my only record. Side B is the same as side A, but further away.
+Track {n:2-12} on Greatest Hums is "{p6HumTrack}". It's about forty years long. I usually skip to the middle.
+I've had "{p6HumTrack}" stuck in my head all day. It's one note, so it could be worse.
+Number one on {planet} was "Mmm" for {n:200-400} years. Then "Mmm (Slightly Longer)" came out. Big moment.
+Concerts back home: everyone lies down and hums the same note. If you get it right, the ground goes warm.
+Our anthem's a hum. No words. There's a bit in the middle where everyone yawns. That's my favourite bit.
+It's nearly {p6Festival} back home. I'll do my bit here. Probably a sit-down.
+My favourite part of {p6Festival} is the nap after. Well, the nap during. Then the one after.
+The Festival of Going Back to Bed is my favourite. You get up, everyone cheers, then you go back to bed.
+On Big Nap Eve you leave some glorp out for the moons. In the morning it's gone. Well. It's gone a bit crusty.
+You're allowed three bowls at Moon Jelly Week. Four is showing off. Five and someone has a quiet word.
+Four seasons where I'm from: nice, quite nice, moon jelly, and nice again.
+There are no dogs on {planet}. Just puddle pets. You can't walk them. They walk you, slowly, downhill.
+We go camping in sky hammocks. You tie one end to a cloud and the other to {moonName}. Lovely views.
+Our bikes are slow bicycles. Top speed: a stroll. Fastest anyone's ever gone is "quite brisk".
+If you want to talk to someone back home, you hum in their direction. It takes a while. That's the nice part.
+Can't sleep, back home? You count the moons. If you're still awake after fourteen, you just think about Gary.
+Glorp's warm, beige and comforting. A bit like Gary, if Gary was soup. Don't tell Gary.
+{planetThing.a.cap} costs about {n:3-40} seconds of good humming back home. Bargain, really.
+Second breakfast is the law. There's no law about third breakfast. That's what makes it exciting.
+I miss my {planetThing}. I asked for one in a shop here. The man said "a what?", so I said it again, slower.
+There's no tea on {planet}. We just hold a warm pebble and go "ahh". Yours has more steps.
+Housework on {planet} is mostly fluffing the floor. It goes flat if you walk on it too much.
+My old room back home had a round door, a soft floor and a window that looked at Gary. Couldn't ask for more.
+I lived on Soft Lane back home, number {n:2-400}. Lovely street. Nobody's ever got to the end of it.
+I miss the second sunset. You don't have to go, but if you do, everyone's there, sort of leaning on each other.
+What I miss most is the soft ground. The floor here is very honest with you.
+Sometimes I hum the start of Greatest Hums and I'm back in the kitchen with Dad. Then the toaster pings.
+I'd give anything for some {planetFood} right now. Well, not anything. The sofa stays.
+A good day back home is {n:2-6} naps, one bowl of glorp and a nice chat with a hill.
+Bouncing slowly to the shops takes about {timeUnit}. Longer if you meet someone. Everyone meets someone.
+Hats aren't really a thing on {planet}. Ears get in the way. That's why I've got so many here. Catching up.
+One rule about doors back home: if it's shut, it's thinking. Give it a minute.
+
+@tags Thursday
+It's Thursday. Back home Nan would just be starting to lift off. She's a slow riser.
+Thursday. Back home I'd have to hold on to the sofa. Here the sofa holds on to me.
+Happy Thursday. I've put a cushion on the ceiling, just in case. Old habits.
+
+@tags night
+It's late. Back home {moonName} would be on about now. Here it's just your one moon, doing all the shifts.
+
+@category planet6.history
+@tags
+We call it Planet 6 because "Planet 7" felt a bit presumptuous.
+All five of the old planets are still out there somewhere. We wave, sometimes. Not too keenly.
+Someone asked about Planet {2|3|4} at a party once. Everyone just looked at their glorp until it passed.
+If anyone asks about the old planets, you say "lovely weather" and have a sit-down. That's the tradition.
+Our history lessons start at Planet 6. The first five are a free period.
+Our planet's never had a proper name. Someone suggested "Softy" once, and was gently asked to sit down.
+History on {planet} is mostly naps. There's a short bit in the middle where someone ran, but we've moved on.
+About {n:300-900} years ago someone on {planet} tried jogging. There's a little plaque where they stopped. It's four steps in.
+The Great Lie-Down lasted {n:6-40} years. Nobody remembers why it started. Everyone remembers it was lovely.
+The most famous person in our history is Old Thorp, who invented the sit-down. Before that, people just stood about.
+Glorp was invented by accident. Someone left something warm out on a soft day and it went beige and kind.
+The first ever glorp is in a museum. It's still warm. People go and stand near it for {timeUnit}.
+Gary turned up about {four|five|six} thousand years ago and just stayed. Like a cat. Nobody asked. Nobody minded.
+The other moons made room when Gary came. Took a century to redo the rota. Gary still gets the quiet shifts.
+Long ago the moons didn't take turns. They all came out at once. Far too bright. Nobody slept. Hence the rota.
+People have offered to paint Gary {gold|purple|a nice teal}. He's not interested. Fair enough.
+The oldest joke on {planet} is "what's beige and doesn't move?" Everyone knows the answer. Everyone still laughs.
+Nobody knows who named Gary. There's a plaque. It just says "Gary". Underneath, someone's written "yes".
+There's a holiday for the day Gary moved. It's called Slightly Left Day. Everybody leans a bit.
+Nobody knows why we float on Thursdays. A scientist looked into it once. She floated off halfway through.
+The very first Thursday, everyone floated up and went "oh". That's still what we say on Thursdays. "Oh."
+There's a statue of whoever gave the Monday back. It's lying down, obviously.
+Our oldest building is a sofa. About {n:5000-9000} years old. You're allowed to sit on it on Sundays.
+The weekend was made compulsory after the Busy Year. Nobody talks about the Busy Year. Bit like the old planets.
+Hum money started when someone tried to pay for {planetFood} with a sigh. Close, but not quite. The hum caught on.
+Doors became a suggestion after {n:40-300} years of chatting about whether they had to be doors. In the end, everyone went round.
+Competitive lying down started as just lying down. Then someone did it better. Then it got serious.
+Before naps, people just shut their eyes for a bit and hoped for the best. Brave, really.
+My great-great-nan was the first person to say "anyway". Before that, conversations just went on and on.
+The second sunset used to be compulsory. Then everyone got a bit tired of it. Now you can wave from bed.
+Our museums are mostly old cushions. Each one's got a little card: who sat on it, and for how long.
+The oldest song on {planet} is a hum that's still going. Started {n:2000-4000} years ago. Someone's always on it, keeping it warm.
+The Age of Standing Up lasted about {a week|a fortnight|four days}. Everyone got tired and had a lie-down. That's history.
+Our archaeologists mostly dig up old naps. You can tell how long they were from the shape in the ground.
+In the whole history of {planet} there's been one argument. Whether glorp is a soup. Still going. Very calmly.
+The first ever second breakfast was a mistake. Someone forgot they'd had breakfast. Best mistake we ever made.
+In the olden days, clouds weren't rated at all. People just looked up and said "nice". Chaos.
+The first person to rate a cloud gave it a two. Very harsh. Our whole system's built on apologising to that cloud.
+The fourteen was invented on purpose. You need a mark nobody gets. Keeps everyone humble.
+Our first ever spaceship was a teapot. Then a cake tin. Then biscuit tins, which is where we are now. Progress.
+Someone on {planet} invented the wheel once. It's in a museum. Lying on its side, very content.
+Nobody's ever been late on {planet}. You can't be late if the day lasts as long as you want. Very punctual planet.
+Every {n:90-200} years we bury a nap capsule. It's just a pillow. You dig it up and have a lie-down.
+The national motto of {planet} is "no, you go first". It's on everything. Nobody's gone first yet.
+Our oldest map of {planet} has one word on it: "soft". Still accurate.
+Our ancient writing is on soft stone. Most of it just says "back in a bit".
+In the old days, money was a whistle. Nobody could do it. We switched to humming. Much fairer.
+
+@category planet6.journey
+@tags
+I came to Earth by accident. Wrong turn at a nebula. Easily done. They all look the same in the dark.
+I was only popping out for {planetFood}. Mum thinks I'm still at the shops. In a way, I am.
+The nebula had two ways out. Left for {planet}, right for here. I went left. It was upside down at the time.
+My ship's a biscuit tin. Nothing fancy. Holds one alien and a packed lunch. Gets you there.
+My ship's called the Crumb. It's a biscuit tin, so it felt right. Nan thought of it.
+I check on the ship {most mornings|every few days|after second breakfast}. Seems happy. Bit frosty with me, but that's the freezer.
+The ship runs on humming. Took about {n:5-12} days of solid humming to get here. Dad would've done it in an afternoon.
+The ship's done about {n:200-400} trips. Mostly to the shops. One to Earth. That one was a mistake, but a nice one.
+Flying a biscuit tin's easy. Up is up, down is down, and left is the bit you have to concentrate on.
+I've got a return ticket. Well, a hum. It doesn't run out. Nothing on {planet} really does.
+The ship's satnav is a little voice that says "you'll be fine" every few minutes. It was right, to be fair.
+Halfway to Earth I passed {a comet|two comets|a very old comet}. We nodded. You don't wave at comets. They lose concentration.
+I left Mum a note saying "back soon". Soon on {planet} is {a few|a couple of|four or five} hundred years, so I'm not even late.
+I packed light for Earth. A gold chain, a spare pair of shorts and a jar of glorp. The glorp didn't make it past the nebula.
+The trip took {about a week|nine days|a fortnight and a bit}. Felt longer. There's not much to do in a biscuit tin except think about biscuits.
+I'm not lost. Lost means you'd rather be somewhere else. I'm just quite a long way from where I started.
+Landing on Earth was firm. Very firm. Your ground doesn't give at all. I said "oof", and I've been saying it since.
+First day on Earth, I lay down on the pavement to say hello. A lady asked if I was all right. I said, "Yes, you?"
+First thing I saw on Earth was a pigeon. It walked up, had a look, and left. I took that as a welcome.
+Turning round would take a fortnight and a lot of humming. Staying takes a sofa. Easy maths.
+I wrote the route down so I don't do it again. The note just says "not left at the nebula".
+Space smells a bit like a cold spoon. Nobody tells you that.
+If anyone back home asks, I'm on a gap year. It's been a long year. Years are flexible on {planet}.
+I sent Mum a postcard: "Earth. Firm. Nice. One moon." She rained on it for a week. Means she's read it.
+Space is mostly a big quiet bit. That was my favourite part. Like a Sunday, but darker.
+The ship's insurance is just Nan saying "be careful". Very comprehensive, Nan.
+I kept meaning to turn round. Then it was {teatime|lunch|the weekend}, then I got a sofa, then I got a housemate. You.
+Some people come to Earth on purpose, I've heard. Seems like a lot of planning.
+I keep a list of things to tell them back home. So far it's "{earthThing.pl}", "one moon" and "you".
+Nobody back home will believe me about escalators. Stairs that do the walking for you. Nan's going to want one.
+When I tell them about Mondays here, I'll have to sit them down first. Well. They'll already be sitting down.
+I'll tell Dad about your fridge. Hums all day long and nobody's even related to it.
+I'm going to tell everyone about roundabouts. A road that goes nowhere, politely, in a circle.
+I'll show them a picture of you. Well, of the glass. You're in there somewhere, being busy.
+The ship's got a cup holder. I've never used it. It's just nice to know it's there.
+There's a sticker on the back of the ship: "How's my flying? Hum this number." Nobody's hummed yet.
+Customs on Earth was a cat on a wall. It looked at me for ages. I think I got through.
+My first night on Earth, I slept in a hedge. Very firm hedge. I gave it {cloudScore}, out of habit.
+Directions back home are mostly "it's over there, past {Nan|Hob|the big pebble}". Space hasn't got any of those. That's where I went wrong.
+
+@tags night
+Sometimes at night I look out the window for {planet}. Can't see it. It's behind a nebula. And a lamppost.
+
+@category planet6.job
+@tags
+Cloud appraisal is mostly looking up and going "hm". The "hm" is the hard bit. Took me years to get it right.
+The highest I've ever given is an eleven. Twice. I still think about both of them.
+A fourteen is a cloud so good you forget to write it down. That's why nobody's ever given one.
+Just rated one over the {chimneys|car park|bus stop|roofs}. {cloudScore.cap}. Nice attitude.
+That cloud's {cloudScore}. Points off for looking a bit like a sheep. Bit derivative.
+I've given that one {cloudScore}. Nothing personal. It's for the paperwork.
+Best cloud today was {cloudScore}. Bit of {colour} round the edges. Lovely work.
+That cloud's not moved for an hour. I respect the focus. Bumped it up to {cloudScore}.
+The cloud over {place} right now is {cloudScore}. I can't see it. I can just tell.
+I do {n:20-90} clouds before second lunch. First lunch is just for looking.
+My manager's called Norb. She sends memos by humming. Today's was "mm-hm". I think I've been promoted.
+Norb wants {n:200-400} clouds rated by Thursday. I've done {n:3-40}. But they were very thorough.
+I file my reports by humming at the freezer drawer. The ship sends them home. It's cold in there, so they keep.
+Cloud school took {n:50-70} years. The first {forty|thirty-odd} were just lying on your back, pointing.
+There are three kinds of cloud: fluffy, flat, and ones that look like Nan. Those get a bonus point.
+You get points for fluffiness, points for drift, and one point if it looks like it's thinking about something.
+You lose a point if a cloud's trying too hard. A cloud should just turn up and be a cloud. Like Gary, but up.
+Never give a cloud a high mark to its face. It'll stop trying. Nothing sadder than a cloud that's peaked.
+Earth clouds are very consistent. Lots of sevens. You could build a whole career on sevens.
+Back home half the clouds are relatives, so you mark carefully. Mum's a strong eight. Don't tell her.
+I gave Auntie Plom a six once. Professionally. She thundered for a month. Family and work, eh.
+Some days there are no clouds at all. I still clock in. I rate the sky on potential. Usually a nine.
+Fog's hard to rate. You're inside it. It's like rating a hug.
+A cloud went right over the flat earlier. I didn't rate it. Didn't want it to feel watched.
+Sunsets aren't my department. I'm clouds. Sunsets are my brother Pim. He's very harsh. Gives out a lot of fours.
+My job title's Junior Cloud Appraiser, Remote. I've been junior for {n:100-200} years. It's a nice level.
+My office is the window. My desk is the sofa. My chair is also the sofa. It's a very good office.
+Back home I've got a cloud chart on the wall. Every cloud I've ever rated, in pencil. It goes round the house twice.
+There's an award called the Golden Puff. I was nominated once. Lost to someone who'd rated one cloud for {n:400-900} years.
+My pen pal at work rates puddles. Different department. We meet in the middle at drizzle.
+Had my yearly review. Norb hummed for {n:6-40} minutes. I think it went well. I'm not sure what the questions were.
+Earth clouds move quicker than ours. You have to rate them on the go. It's like waving at a train.
+A cloud looked exactly like {animal.a} today. I marked it as a cloud. Rules are rules.
+Night shifts are tricky. You can't see the clouds. I rate them on how they sound. Very quiet. Mostly nines.
+First day on the job, my trainer said "look up". Best advice I've ever had. Second best was "not too far up".
+Appraisers promise to be fair, to be gentle, and never to give out a fourteen just because it's a nice day.
+I miss home clouds. They're thicker. You can sit on some of them. Not during an appraisal, though. Frowned upon.
+Every rating needs a reason. Today's reasons so far: "nice", "very nice" and "a bit much".
+Norb asked why I only send in sevens and nines. I said Earth makes very reliable clouds. She hummed. Impressed, I think.
+I complained about a cloud once. It was hogging the purple bit of the sky. They sent a small breeze round to have a word.
+Back home you get clouds in {mauve|florange|blurple|a colour you don't have}. Here it's white or grey. Classic. Hard to go wrong.
+Our office party is everyone lying in a field, looking up. Same as work, but with {planetFood}.
+Cloud appraising runs in families. Not mine. Just families, generally.
+Self-assessment's the hardest bit. I gave myself a nine. Then I felt bad for the clouds and made it an eight.
+Some clouds come back the next day for a second opinion. I can tell. They've done something with their edges.
+Back home, cloud marks get read out on Sundays. Everyone claps softly. The clouds pretend not to listen.
+You learn to rate clouds lying down. Standing up, you get a bit judgemental.
+Clouds over the sea have it easy. Nothing to compare them to. Clouds over car parks have to work really hard.
+When a cloud rains on me, I don't take marks off. Could be Mum. Could be anyone. Professional courtesy.
+One of my two elevens was over {place}. Lovely cloud. I wonder what it's doing now.
+Today's clouds, overall: {cloudScore}. I'll send that to Norb. She'll hum.
+
+@tags morning
+Morning. Clocked in. Looked up. That's the commute done.
+
+@tags rain
+Raining. Can't rate anything in this. Well, I can. It's all one big cloud. Solid seven, overall.

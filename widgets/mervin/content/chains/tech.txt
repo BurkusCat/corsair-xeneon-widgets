@@ -1,0 +1,209 @@
+# Technology chains (tech writer).
+
+@chain off-and-on-again
+@topic tech
+@start idle
+- You know the thing people say about computers? "Have you tried turning it off and on again?"
+  | Everyone on Earth knows one magic spell. "Have you tried turning it off and on again?"
+- I've seen it work. The router, the printer, the microwave clock. Off, little wait, on. Fixed.
+  | It works on everything here. Off. Wait a bit. On. And it's fine again.
+- So I had a think. What if it works on me?
+  | So I started wondering. Does it work on aliens?
+- I turned myself off. That's what a nap is, really. Lay down, folded my ears, gone.
+-? I counted to ten first. Then I lost count. Then I was asleep.
+- When I came back on, everything was fixed. Nothing was broken before. But I felt fixed.
+  | Woke up brand new. Nothing was wrong before, but now it was even less wrong.
+= So, yeah. Off and on again. Works on aliens. I might run it again after lunch.
+  | Anyway, I recommend it. Very good spell. I'm going to go and do it again, actually.
+
+@chain making-a-password
+@topic tech
+@start idle
+- The computer asked me to make a password.
+  | I've been trying to make a password. It's harder than it looks.
+- It wanted a capital letter. So I used Gary. He's a moon. He deserves a capital.
+- Then it wanted a number. I put fourteen, one for each moon, so nobody feels left out.
+  | Then a number. Fourteen. You can't have Gary without the other thirteen. They'd sulk.
+-? Then a symbol. I did a little drawing of a hum. It didn't accept that.
+- Then it said "too weak". I don't think it meant Gary. Gary's very solid.
+  | It said my password was weak. Bit much, saying that about a moon.
+- So I added Barry. Barry's strong. He's a plant. He holds a whole pot up, all day.
+= Anyway, I've got a password now. I can't remember it, so it must be a good one.
+  | So that's sorted. Don't ask me what it is. I've already forgotten. Very secure.
+
+@chain paper-jam
+@topic tech
+@start idle
+- You tried to print something earlier. I was rooting for you.
+  | You and the printer had a bit of a moment earlier. I saw.
+- First it had to wake up. That took a while. I understand. I'm the same.
+- Then it said "paper jam". I got quite excited. I thought there'd be jam.
+  | Then it said "paper jam". I went and got a spoon. Nobody else did.
+- There was no jam. Just one sheet of paper, folded up like a little fan.
+-? You pulled it out ever so gently. Like a magician with a very long hanky.
+- Then it printed. One page. It made a noise like it had just climbed a hill.
+  | Then out came one page, very slowly, like it was showing you a drawing it was proud of.
+= So, yeah. You won. Well done. I'm still a bit sad about the jam, though.
+  | Anyway. The printer's having a lie-down now. It's earned one. So have you.
+
+@chain the-cloud
+@topic tech
+@start act:lookOutWindow
+- <act:lookOutWindow> Someone said you keep all your photos in "the cloud".
+  | <act:lookOutWindow> You told your phone to back everything up "to the cloud". So I've been checking.
+- Clouds are my actual job. I rate them out of fourteen. So I went and had a proper look.
+- There's a big fluffy one over the roofs. I'd give it {cloudScore}. No photos in it, though.
+  | That one there's lovely. Easily {cloudScore}. I can't see a single photo in it.
+- Maybe they're in a different cloud. A more private one. Up the back.
+-? There's a thin grey one I think might be emails.
+- I squinted for a long time. Nothing. Not one picture of a sandwich.
+= So either your photos are very well hidden, or a cloud's just a cloud. Lovely cloud, either way.
+  | Anyway, your photos are safe. Nobody can find them. Not even me, and I'm a professional.
+
+@chain charging-up
+@topic tech
+@start act:lieOnRug
+- <act:lieOnRug> I'm charging. Don't mind me.
+  | <act:lieOnRug> Just lying here. Charging. Like your phone does.
+- Your phone lies very still every night, on its little wire, and wakes up full.
+  | Phones go on charge every night, keep very still, and wake up at a hundred per cent.
+- So I thought, I'll try that. Lie very still. Near a plug.
+- I'm not actually plugged in. It felt rude to go poking about in the wall.
+  | I didn't plug anything in. I wasn't sure which bit of me would go.
+-? So far I'm at about {n:30-60} per cent. I can feel it in my ears.
+- It's going well, honestly. Bit slow. I might be an older model.
+= Right. That's enough. I'll stop at seventy. You're not meant to leave them on all night.
+  | Anyway, I'm fully charged now. Well. Charged enough to go and lie somewhere else.
+
+@chain robot-hoover
+@topic tech
+@start idle
+- Have you seen the hoovers that drive themselves?
+  | There are hoovers on Earth that just go off on their own. Did you know?
+- Little round robots. They wander about eating crumbs, then take themselves back to bed.
+- They bump into a chair, say "beep", and try another way. No fuss.
+  | When they hit a wall they just turn round. Very calm. Never blame the wall.
+-? Some of them sing a little song when they've finished. Nobody claps. I clap.
+- Honestly, it's the most {planet} thing on Earth.
+  | Honestly, they'd fit right in on {planet}. Wander, snack, sleep.
+- I've been trying to live like one. Slow lap of the flat. A few crumbs. Back to base.
+= So, yeah. I'm basically a robot hoover now. Going to go and dock on the sofa.
+  | Anyway, that's my lap done. Time to go back to my little dock. It's the sofa.
+
+@chain wifi-down
+@topic tech
+@start idle
+- The Wi-Fi went off earlier. Did you notice? You noticed.
+  | Bit of excitement earlier. The internet stopped.
+- You looked at your screen. Then your phone. Then the ceiling, for some reason.
+- Then you went over to the router like it was a pet that had gone quiet.
+- You turned it off. Stood there. Turned it on. All its little lights came back one by one.
+  | Off. Wait. On. Its little lights woke up one at a time, like a street at dusk.
+-? I held my breath. I don't need to breathe much, but it felt right.
+- And it worked. Back online. You did a tiny nod.
+= Anyway, that was the most exciting thing all day. Well done, you. And well done, router.
+  | So, yeah. Big afternoon. I'm going to have a sit-down after all that.
+
+@chain one-more-go
+@topic tech
+@start act:playGame
+- <act:playGame> I'm going to play a game. You're not the only one who's allowed.
+  | <act:playGame> Right. Game time. Watch this.
+- It's the one where you run about and jump on things. I'm more of a walker.
+  | You're meant to run and jump. I mostly just stand there admiring the trees.
+- There's a little coin noise when you pick up a coin. I've started making it at home. Every biscuit.
+- I fell down a hole. Then the same hole again. It's a very good hole.
+  | Lost a life to a hole. Then another one, same hole. I'm loyal like that.
+-? The little man in the game looked at me like I'd let him down. I hadn't. I'd let him rest.
+- Game over. And then it just let me start again. No questions asked.
+= Very forgiving, games. Next time I'm going to stop while there's still a life left. That's the dream.
+  | Anyway, that's me done. No lives left. Excellent game. I've given it a nine.
+
+@chain remind-me-tomorrow
+@topic tech
+@start idle
+- Your computer wants to update. It's been asking very nicely.
+  | The computer's been asking to update all week. Very polite. Very persistent.
+- And every time, you say "tomorrow". And it believes you. That's a lovely relationship.
+- I asked it what the update does. It said "improvements and fixes". Very mysterious.
+  | It says the update brings "improvements and fixes". Doesn't say which. Keeps it exciting.
+- Back home, the last update anyone remembers made the second sunset optional. Very popular.
+-? Some people never install theirs. They just live with the little reminder forever. Like a pet.
+- I think you're a bit worried. Things look the same after, but you never know.
+  | I get it. Everything's fine now. Why invite a new button into your life?
+= So I've told it: tomorrow, definitely. I said it very kindly. We both know.
+  | Anyway. Tomorrow. Probably. Same as yesterday.
+
+@chain echo-jars
+@topic tech
+@start any
+- On Earth you send emails. Back home, we send echo jars.
+  | You do emails. We do echo jars. Want to hear how they work?
+- You hold a jar up to your mouth, say one sentence, and put the lid on quick.
+- Then you hand it to someone going that way. Might get there in {timeUnit}.
+  | Then it gets carried over by whoever's heading that way. Takes about {timeUnit}.
+-? You can forward one, but then it's an echo of an echo, and it goes a bit quiet.
+- When they open it, they hear you. And the weather you were in. And whatever was cooking.
+- You can't do "reply all", though. You'd need a lot of jars.
+  | You can't send one to everyone at once. You'd need a very big jar.
+= So, yeah. Slower than email. But nobody's ever sent a jar by accident.
+  | Anyway. I prefer jars. You can put them on a shelf and they look nice.
+
+@chain hum-nan
+@topic tech
+@start act:phoneHome
+- <act:phoneHome> I'm going to ring my nan. Well. Hum her.
+  | <act:phoneHome> Bit of a call home. Nan this time. Hold on, I need to find her note.
+- You don't dial on a hum radio. You hum the person. Everyone's got their own note.
+- Nan's note is very low. She's about the size of a bus, so you hum it from your knees.
+  | Nan's is the lowest note there is. You have to hum it right up from your feet.
+- Get it a bit wrong and you get someone else. Last time I got my neighbour Hob. He's a hill.
+-? Lovely chat, though. Very slow. Hills take their time over a sentence.
+- There. A big warm hum on the line. That's her.
+  | Ah. The whole flat's gone a bit wobbly. That'll be Nan.
+= She says I sound taller. I'm not. It's just been a while. Anyway. I'll hum her again on Sunday.
+  | Anyway, that's Nan. She mostly just hums back. Like being tucked in from very far away.
+
+@chain buzzing
+@topic tech
+@start idle
+- Your phone's been buzzing all day.
+  | Busy day for your phone. Lots of little buzzes.
+- Each buzz is someone who wants you to know something.
+- I like to guess what they say. That one was probably to tell you {techNotice}. You didn't even look up.
+  | I bet that one was to say {techNotice}. You just let it buzz.
+- I'd have looked. Straight away. I'd have said "oh, thank you".
+-? Back home, news only reaches you when the wind's going your way. Very peaceful. Bit slow for birthdays.
+- Nobody ever buzzes me. Barry's a plant. Kevin's a fish. They show love in other ways.
+= So if you ever want to tell me something, just tap the glass. I'll look up. Every time.
+  | Anyway. You keep your buzzes. I'll just be here, being very easy to reach.
+
+@chain selfie
+@topic tech
+@start idle
+- I had a go at a selfie earlier. That's a photo of yourself, by yourself.
+  | You know selfies? Where you're the photographer and the photo? I had a go.
+- First go, it was just ears. Lovely ears. No face.
+- So I held it further out. Still just ears. Turns out there's a lot of ear to get in.
+  | Second go, arm right out. Still ears. My arms aren't long enough for my ears.
+-? I tried lying on the floor and holding it up. Got a lovely picture of the lampshade.
+- In the end I took one of Barry instead. Very photogenic. Never blinks.
+  | In the end I took one of Kevin. He kept swimming off. Very natural, though.
+- I sent it to {relative}. They said, "is that you?" I said, "sort of".
+= So, yeah. Best photo I've ever taken. It's not of me. But I was there.
+  | Anyway, I'm keeping it. Not a selfie, technically. But it's very me.
+
+@chain talking-lights
+@topic tech
+@start act:toggleLamp
+- <act:toggleLamp> Some houses have lights you can talk to. You say "lights on", and on they come.
+  | <act:toggleLamp> On Earth you can tell your lights what to do. Out loud. And they listen.
+- So I've been talking to this lamp. Very politely. Lots of please.
+- I said "lights on". Nothing. I said it in a deeper voice. Still nothing.
+  | I asked it to come on. Then I asked nicely. Then I hummed it. Nothing.
+-? I asked it to go {colour}. Bit ambitious for a first conversation.
+- Then I found the little switch on the side. Click. On it came. Just like that.
+- So it does listen. Just with its switch. Very old-fashioned lamp. I like that.
+  | I think it is a talking lamp. It just talks with its switch. Click means "hello".
+= Anyway, we've got an understanding now. I click, it glows. Nobody has to raise their voice.
+  | So, yeah. It's not a smart lamp. It's a wise lamp. There's a difference.

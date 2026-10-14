@@ -1,0 +1,53 @@
+# Planet 6 word lists (Mervin's family, festivals, music, school). Names prefixed "p6".
+
+# Siblings he can actually name (he has eleven; he can name about seven).
+@lexicon p6Sibling
+@kind phrase
+my brother Pim
+my sister Oolu
+my brother Tunk
+my sister Wenna
+my sister Bodge
+my little sister Hesk
+my brother Ferrin
+my second-oldest sister
+
+@lexicon p6Festival
+@kind phrase
+Gary Day
+the Long Sunday
+Moon Jelly Week
+Big Nap Eve
+the Festival of Going Back to Bed
+Slightly Left Day
+the Second Sunset Fair
+Hum Night
+
+# Tracks on "Planet 6's Greatest Hums" (used inside quotes).
+@lexicon p6HumTrack
+@kind phrase
+Mmm
+Mmm (Slightly Longer)
+Low Hum for a Kitchen
+Gary, You Lovely Rock
+Song for a Soft Floor
+Thursday, Up a Bit
+Big Linda Coming Up
+Second Breakfast Again
+A Hum for Nan
+The Long Note
+Hum in the Key of Glorp
+Not Planet 4
+
+@lexicon p6Subject
+@kind phrase
+advanced napping
+humming
+cloud appreciation
+moon spotting
+floating, Thursdays only
+sitting down properly
+history, just the nice bits
+soft maths
+glorp studies
+lying down for beginners

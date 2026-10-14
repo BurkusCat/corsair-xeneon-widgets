@@ -1,0 +1,451 @@
+# Core word lists shared by every writer. Add new lists in your own file
+# (lexicon/<topic>.txt) rather than editing these, unless you're fixing a mistake.
+
+@lexicon food
+toast
+cheese sandwich
+baked potato | baked potatoes
+bowl of soup | bowls of soup
+fish finger
+crumpet
+banana
+spaghetti hoop
+scrambled egg
+crisp sandwich
+jam tart
+sausage roll
+pickled onion
+fruit scone
+custard cream
+bowl of cereal | bowls of cereal
+cheese toastie
+slice of cake | slices of cake
+cucumber
+apple
+pear
+satsuma
+instant noodle
+bit of cheese | bits of cheese
+yoghurt
+biscuit
+peanut butter sandwich
+boiled egg
+cream cracker
+mince pie
+pancake
+waffle
+pizza
+pasty
+flapjack
+trifle
+jelly
+rice pudding | rice puddings
+cauliflower
+sprout
+radish
+crumble
+
+@lexicon householdObject
+kettle
+toaster
+sock
+spoon
+tea towel
+doormat
+cushion
+lampshade
+coat hanger
+key
+remote
+umbrella
+fork
+sponge
+bin
+plug
+mug
+fridge magnet
+ironing board
+clothes peg
+stapler
+pencil
+pillow
+duvet
+sieve
+whisk
+egg cup
+toothbrush
+rubber band
+hoover
+mop
+bath mat
+teapot
+tin opener
+spatula
+rolling pin
+calendar
+alarm clock
+houseplant
+candle
+paperclip
+
+@lexicon earthThing
+Monday
+traffic cone
+roundabout
+queue
+umbrella
+bus timetable
+lift
+escalator
+car alarm
+self-service till
+handshake
+tie
+pair of shoes | pairs of shoes
+haircut
+wheelie bin
+birthday card
+small talk | lots of small talk
+sneeze
+pigeon
+weekend
+alarm clock
+hiccup
+password
+weather forecast
+paper cut
+shopping trolley
+bus stop
+doorbell
+rubber duck
+garden gnome
+car park
+postcode
+parking ticket
+running race
+lawnmower
+ice cream van
+spirit level
+fire drill
+sock drawer
+bicycle bell
+
+@lexicon animal
+pigeon
+dog
+cat
+goldfish | goldfish
+duck
+squirrel
+hedgehog
+cow
+sheep | sheep
+seagull
+snail
+horse
+hamster
+badger
+owl
+frog
+crab
+goat
+penguin
+giraffe
+worm
+bee
+spider
+rabbit
+fox
+moth
+tortoise
+llama
+otter
+swan
+crow
+mole
+robin
+beetle
+seal
+octopus | octopuses
+woodlouse | woodlice
+
+@lexicon bodyPart
+elbow
+knee
+eyebrow
+nostril
+earlobe
+toe
+thumb
+chin
+ankle
+belly button
+shin
+knuckle
+heel
+shoulder
+neck
+wrist
+little finger
+forehead
+cheek
+kneecap
+
+@lexicon myBodyPart
+@kind phrase
+ears
+left ear
+right ear
+toes
+long fingers
+belly
+elbows
+eyelids
+knees
+little thumb
+
+@lexicon job
+dentist
+bus driver
+postman | postmen
+librarian
+plumber
+lollipop lady | lollipop ladies
+accountant
+weather presenter
+lifeguard
+dog walker
+baker
+window cleaner
+estate agent
+tennis umpire
+traffic warden
+florist
+tax inspector
+car mechanic
+hairdresser
+museum guard
+crossword setter
+tree surgeon
+bin collector
+optician
+air traffic controller
+
+@lexicon place
+the supermarket
+the post office
+the bus stop
+a car park
+the library
+the dentist
+a garden centre
+the laundrette
+a train station
+the park
+the high street
+the chip shop
+the bank
+the swimming baths
+a cafe
+the corner shop
+
+@lexicon planetFood
+glorp
+fizzlecrust
+moon jelly
+warm glorp
+cold glorp
+sideways soup
+humming bread
+crunchy fog
+blue toast
+glorp on toast
+fizzlecrust surprise
+
+@lexicon planetThing
+singing pebble
+nap pod
+float stool
+glorp ladle
+hum box
+moon calendar
+cloud chart
+ear warmer
+soft rock
+suggestion door
+puddle pet
+sky hammock
+slow bicycle
+lie-down mat
+hum radio
+echo jar
+
+# Works anywhere in a sentence.
+@lexicon relative
+@kind phrase
+my mum
+my dad
+my nan
+my cousin Derek
+my brother Pim
+my sister Oolu
+my uncle Gev
+my auntie Plom
+my nephew Fen
+my second-oldest sister
+my mate Brindle
+my neighbour Hob
+
+# With a little description: only use these at the end of a sentence.
+@lexicon relativeDescribed
+@kind phrase
+my mum, who's mostly weather
+my dad, who's a low hum
+my nan, who's about the size of a bus
+my cousin Derek, who lives in a cupboard
+my auntie Plom, who's very loud for a cloud
+my nephew Fen, who is a sort of mist
+my neighbour Hob, who's a bit of a hill
+
+@lexicon moonName
+@kind phrase
+Gary
+Big Linda
+the wobbly one
+the one that hums
+Little Phil
+the purple one
+the shy one
+the moon that's always late
+Sharon
+
+@lexicon colour
+@kind phrase
+blue
+beige
+purple
+sort of orange
+green
+mauve
+custard yellow
+grey
+florange
+blurple
+a colour you don't have
+teal
+pink
+
+@lexicon chillWord
+@kind phrase
+honestly
+to be fair
+I reckon
+in a way
+kind of
+basically
+if I'm honest
+I suppose
+you know
+
+@lexicon smallAmount
+@kind phrase
+a bit
+a smidge
+a tiny amount
+a little bit
+slightly
+a touch
+very slightly
+
+@lexicon timeUnit
+@kind phrase
+a nap
+two naps
+a long nap
+half a nap
+a glorp-week
+a moonturn
+three sit-downs
+a quick hum
+a slow afternoon
+a fortnight and a bit
+
+@lexicon cloudScore
+@kind phrase
+a six
+a seven
+a solid nine
+a nine
+an eight
+a ten
+a ten, which is a lot
+a nine and a half
+a five, but a kind five
+a four
+
+@lexicon weather
+@kind phrase
+drizzle
+a bit of sun
+fog
+a light breeze
+proper rain
+a grey sort of day
+sunshine
+hail
+wind
+a nice cloud
+
+@lexicon feeling
+@kind phrase
+relaxed
+calm
+fine
+quite chill
+mellow
+content
+sleepy
+peaceful
+all right
+pretty good
+cosy
+
+@lexicon verbIng
+@kind phrase
+napping
+humming
+floating
+lying down
+sitting
+staring at a wall
+rating clouds
+eating glorp
+doing nothing
+having a sit-down
+watching the kettle
+bouncing slowly
+counting moons
+thinking about toast
+
+@lexicon heldItem
+@kind phrase
+a pineapple
+a traffic cone
+some milk
+a newspaper
+a loaf of bread
+a single sock
+a potted cactus
+a bag of crisps
+a pizza
+a small ladder
+a rubber duck
+a bunch of bananas
+a leaflet about bins
+a cabbage
+an umbrella
+a cardboard box
+a jar of jam
+a watering can
+a garden gnome
+an egg
