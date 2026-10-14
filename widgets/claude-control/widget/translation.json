@@ -1,0 +1,21 @@
+{
+  "en": {
+    "translation": {
+      "Claude Control": "Claude Control",
+      "Pinned folders": "Pinned folders",
+      "Show idle sessions": "Show idle sessions",
+      "Context warning": "Context warning",
+      "Glow when Claude needs you": "Glow when Claude needs you",
+      "Open sessions via": "Open sessions via",
+      "iCUE": "iCUE",
+      "Bridge": "Bridge",
+      "Bridge token": "Bridge token",
+      "Needs the Claude Control bridge running on this PC. Pinned folders: separate with ;": "Needs the Claude Control bridge running on this PC. Pinned folders: separate with ;",
+      "Widget Personalization": "Widget Personalization",
+      "Text Color": "Text Color",
+      "Accent Color": "Accent Color",
+      "Background": "Background",
+      "Background opacity": "Background opacity"
+    }
+  }
+}

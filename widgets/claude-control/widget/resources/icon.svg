@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Claude Control">
+  <rect width="128" height="128" rx="28" fill="#151413"/>
+  <path d="M30 44l20 20-20 20" fill="none" stroke="#d97757" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 84h20" stroke="#f4f1ea" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="96" cy="40" r="8" fill="#f5b544"/>
+  <circle cx="96" cy="64" r="8" fill="#6aa9ff"/>
+  <circle cx="96" cy="88" r="8" fill="#5cc98b"/>
+</svg>

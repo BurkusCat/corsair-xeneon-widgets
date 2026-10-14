@@ -1,0 +1,15 @@
+{
+  "author": "Ronan Burke",
+  "id": "uk.co.burkus.claude-control",
+  "name": "Claude Control",
+  "description": "Claude Code at a glance: sessions that need you, context per session, 5-hour and weekly plan usage, and one-tap switching. Needs the Claude Control bridge running on this PC.",
+  "version": "0.1.0",
+  "preview_icon": "resources/icon.svg",
+  "min_framework_version": "1.4.0",
+  "min_app_version": "5.47",
+  "os": [{ "platform": "windows" }],
+  "supported_devices": [{ "type": "dashboard_lcd" }],
+  "interactive": true,
+  "required_plugins": ["widgetbuilder.linkprovider:Url:1.0"],
+  "permissions": [{ "type": "url", "domain": "localhost", "port": 47821 }]
+}

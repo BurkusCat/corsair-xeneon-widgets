@@ -1,0 +1,20 @@
+{
+  "name": "corsair-xeneon-widgets",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Custom iCUE widgets for the Corsair XENEON EDGE.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "validate": "node scripts/widgets.mjs validate",
+    "package": "node scripts/widgets.mjs package",
+    "list": "node scripts/widgets.mjs list",
+    "test": "node --test \"widgets/*/bridge/test/*.test.mjs\"",
+    "bridge:claude": "node widgets/claude-control/bridge/server.mjs"
+  },
+  "devDependencies": {
+    "icuewidget-cli": "0.4.49"
+  }
+}

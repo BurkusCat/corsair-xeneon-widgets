@@ -1,0 +1,8 @@
+{
+  "token": "",
+  "recentHours": 24,
+  "maxSessions": 12,
+  "unseenHours": 12,
+  "quickStartFolders": ["D:\\Repos\\my-project"],
+  "contextWindows": { "claude-haiku-4-5": 200000 }
+}

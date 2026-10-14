@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.icuewidget
+
+# Per-machine bridge settings (may hold a token)
+widgets/*/bridge/config.json
+
+.DS_Store
+Thumbs.db

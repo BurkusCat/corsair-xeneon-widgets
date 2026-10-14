@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>tr('Claude Control')</title>
+  <link rel="icon" type="image/svg+xml" href="resources/icon.svg" />
+  <link rel="stylesheet" href="styles/widget.css" />
+
+  <meta name="x-icue-property" content="pinnedFolders" data-label="tr('Pinned folders')" data-type="textfield" data-default="''" />
+  <meta name="x-icue-property" content="showIdle" data-label="tr('Show idle sessions')" data-type="switch" data-default="true" />
+  <meta name="x-icue-property" content="contextWarn" data-label="tr('Context warning')" data-type="slider" data-default="50" data-min="20" data-max="90" data-step="5" data-unit-label="'%'" />
+  <meta name="x-icue-property" content="attentionGlow" data-label="tr('Glow when Claude needs you')" data-type="switch" data-default="true" />
+  <meta name="x-icue-property" content="linkMode" data-label="tr('Open sessions via')" data-type="tab-buttons" data-values="[{'key':'auto','value':tr('iCUE')},{'key':'bridge','value':tr('Bridge')}]" data-default="'auto'" />
+  <meta name="x-icue-property" content="bridgeToken" data-label="tr('Bridge token')" data-type="textfield" data-default="''" />
+
+  <meta name="x-icue-property" content="textColor" data-label="tr('Text Color')" data-type="color" data-default="'#f4f1ea'" />
+  <meta name="x-icue-property" content="accentColor" data-label="tr('Accent Color')" data-type="color" data-default="'#d97757'" />
+  <meta name="x-icue-property" content="backgroundColor" data-label="tr('Background')" data-type="color" data-default="'#151413'" />
+  <meta name="x-icue-property" content="backgroundOpacity" data-label="tr('Background opacity')" data-type="slider" data-default="100" data-min="0" data-max="100" data-step="1" data-unit-label="'%'" />
+
+  <script type="application/json" id="x-icue-groups">
+  [
+    {
+      "title": "tr('Claude Control')",
+      "properties": ["pinnedFolders", "showIdle", "contextWarn", "attentionGlow", "linkMode", "bridgeToken"],
+      "info": "tr('Needs the Claude Control bridge running on this PC. Pinned folders: separate with ;')"
+    },
+    {
+      "title": "tr('Widget Personalization')",
+      "properties": ["textColor", "accentColor", "backgroundColor", "backgroundOpacity"]
+    }
+  ]
+  </script>
+</head>
+<body>
+  <div id="app" class="app" data-layout="xl">
+    <section id="usage" class="panel usage" aria-label="Plan usage"></section>
+    <section id="queue" class="panel queue" aria-label="Sessions"></section>
+    <section id="actions" class="panel actions" aria-label="Actions"></section>
+    <div id="banner" class="banner" hidden></div>
+    <div id="toast" class="toast" hidden></div>
+  </div>
+  <script src="scripts/app.js"></script>
+</body>
+</html>
